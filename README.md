@@ -10,8 +10,13 @@ Occasionally, I write [blog posts](https://localheinz.com/blog/).
 
 With a focus on helping teams to modernize existing web applications and to build maintainable, well-tested software, I can help you ship software earlier, with fewer defects, and with a lower total cost of ownership - so your business can be more profitable.
 
-Follow me on [Twitter](https://twitter.com/localheinz), sponsor me via [GitHub Sponsors](https://github.com/sponsors/localheinz), [buy me a :coffee:](https://www.buymeacoffee.com/localheinz) or [buy me a :book:](https://www.amazon.de/hz/wishlist/ls/2NCHMSJ4BC1OW), or buy some of my T-Shirts on [Cottonbureau](https://cottonbureau.com/people/andreas-moller)!
+If you like what I do, you can
 
-## Curious what I am building?
+* :point_right: follow me on [Twitter](https://twitter.com/localheinz)
+* :point_right: [subscribe to my list](https://localheinz.com/projects/)
+* :point_right: sponsor me via [GitHub Sponsors](https://github.com/sponsors/localheinz)
+* :point_right: [buy me a :coffee:](https://www.buymeacoffee.com/localheinz)
+* :point_right: [buy me a :book:](https://www.amazon.de/hz/wishlist/ls/2NCHMSJ4BC1OW)
+* :point_right: buy some of my T-Shirts on [Cottonbureau](https://cottonbureau.com/people/andreas-moller) for yourself or friends
 
-:mailbox_with_mail: [Subscribe to my list](https://localheinz.com/projects/), and I will occasionally send you an email to let you know what I am working on.
+Thank you!
