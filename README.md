@@ -4,7 +4,7 @@ My name is Andreas Möller, and I am a self-employed Software Engineer and Consu
 
 I have been developing software for more than 25 years. In a professional capacity, I have [more than ten years of work experience](https://localheinz.com/work-experience/) building and maintaining web applications for organizations and businesses in a range of industries, in teams small and large, on location and remotely.
 
-I work on [several projects](https://localheinz.com/projects/), contribute to [open source](https://localheinz.com/open-source/), and regularly attend [community events](https://localheinz.com/events/).
+I maintain open-source projects in the @ergebnis organization, contribute to a wide range of open-source projects, and regularly attend [community events](https://localheinz.com/events/).
 
 Occasionally, I write [blog posts](https://localheinz.com/blog/).
 
