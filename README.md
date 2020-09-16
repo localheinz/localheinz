@@ -17,6 +17,6 @@ If you like what I do, you can
 * :point_right: sponsor me via [GitHub Sponsors](https://github.com/sponsors/localheinz)
 * :point_right: [buy me a :coffee:](https://www.buymeacoffee.com/localheinz)
 * :point_right: [buy me a :book:](https://www.amazon.de/hz/wishlist/ls/2NCHMSJ4BC1OW)
-* :point_right: buy some of my T-Shirts on [Cottonbureau](https://cottonbureau.com/people/andreas-moller) for yourself or friends
+* :point_right: buy something for yourself or friends on [shop.localheinz.com](https://shop.localheinz.com)
 
 Thank you!
