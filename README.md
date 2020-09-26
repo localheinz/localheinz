@@ -10,13 +10,24 @@ Occasionally, I write [blog posts](https://localheinz.com/blog/).
 
 With a focus on helping teams to modernize existing web applications and to build maintainable, well-tested software, I can help you ship software earlier, with fewer defects, and with a lower total cost of ownership - so your business can be more profitable.
 
-If you like what I do, you can
+### Follow me on
 
-* :point_right: follow me on [Twitter](https://twitter.com/localheinz)
-* :point_right: [subscribe to my list](https://localheinz.com/projects/)
-* :point_right: sponsor me via [GitHub Sponsors](https://github.com/sponsors/localheinz)
-* :point_right: [buy me a :coffee:](https://www.buymeacoffee.com/localheinz)
-* :point_right: [buy me a :book:](https://www.amazon.de/hz/wishlist/ls/2NCHMSJ4BC1OW)
-* :point_right: buy something for yourself or friends on [shop.localheinz.com](https://shop.localheinz.com)
+<p>
+    <a target="_blank" href="https://github.com/localheinz" title="GitHub"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" width="24px" height=24px"></a>
+    <a target="_blank" href="https://twitter.com/localheinz" title="Twitter"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/twitter.svg" width="24px" height=24px"></a>
+</p>
 
-Thank you!
+### Sponsor me on
+
+<p>
+    <a target="_blank" href="https://github.com/sponsors/localheinz" title="GitHub Sponsors"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" width="24px" height=24px"></a>
+    <a target="_blank" href="https://www.buymeacoffee.com/localheinz" title="Buy me a coffee"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/buymeacoffee.svg" width="24px" height=24px"></a>
+</p>
+
+### Do you enjoy working with pull requests as much as I do?
+
+Buy some colorful stickers for you and your friends!
+
+[![stickers](img/stickers.jpeg)](https://shop.localheinz.com/collections/sticker-bundles/products/bundle-5-stickers)
+
+
