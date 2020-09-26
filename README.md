@@ -24,6 +24,12 @@ With a focus on helping teams to modernize existing web applications and to buil
     <a target="_blank" href="https://www.buymeacoffee.com/localheinz" title="Buy me a coffee"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/buymeacoffee.svg" width="24px" height=24px"></a>
 </p>
 
+### Send me a gift via
+
+<p>
+    <a target="_blank" href="https://www.amazon.de/hz/wishlist/ls/2NCHMSJ4BC1OW" title="Amazon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/amazon.svg" width="24px" height=24px"></a>
+</p>
+
 ### Do you enjoy working with pull requests as much as I do?
 
 Buy some colorful stickers for you and your friends in my <a target="_blank" href="https://shop.localheinz.com" title="shop.localheinz.com">shop</a>!
