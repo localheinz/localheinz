@@ -13,7 +13,6 @@ With a focus on helping teams to modernize existing web applications and to buil
 ### Follow me on
 
 <p>
-    <a target="_blank" href="https://github.com/localheinz" title="GitHub"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/github.svg" width="24px" height=24px"></a>
     <a target="_blank" href="https://twitter.com/intent/follow?screen_name=localheinz" title="Follow @localheinz on Twitter"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/twitter.svg" width="24px" height=24px"></a>
 </p>
 
