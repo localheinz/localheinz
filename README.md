@@ -20,6 +20,6 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 Buy some colorful stickers for you and your friends in my <a target="_blank" href="https://shop.localheinz.com" title="shop.localheinz.com">shop</a>!
 
-[![stickers](img/stickers.jpeg)](https://shop.localheinz.com/collections/sticker-bundles/products/bundle-5-stickers)
+[![](https://localheinz.com/permanent/img/localheinz/localheinz)](https://localheinz.com/permanent/url/localheinz/localheinz)
 
 
