@@ -12,7 +12,7 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Latest releases I've contributed to
 {{range recentReleases 10}}
-- [`{{.Name}}`]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+- ([`{{.Name}}:{{.LastRelease.TagName}}`]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 ### Recent articles on [localheinz.com](https://localheinz.com)
