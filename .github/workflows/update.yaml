@@ -36,4 +36,3 @@ jobs:
           commit_message: "Enhancement: Update README.md"
           commit_user_email: "bot@ergebn.is"
           commit_user_name: "ergebnis-bot"
-          push_options: "--force"
