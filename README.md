@@ -30,11 +30,6 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [Naming constructors](http://localheinz.com/articles/2022/03/26/naming-constructors/) (10 months ago)
 - [Creating releases with GitHub Actions](http://localheinz.com/articles/2022/01/24/creating-releases-with-github-actions/) (1 year ago)
 - [Wrapping it up](http://localheinz.com/articles/2021/12/31/wrapping-it-up/) (1 year ago)
-- [Creating Doctrine entities populated with fake data](http://localheinz.com/articles/2020/07/16/creating-doctrine-entities-populated-with-fake-data/) (2 years ago)
-- [Merging pull requests with GitHub Actions](http://localheinz.com/articles/2020/06/15/merging-pull-requests-with-github-actions/) (2 years ago)
-- [Black lives matter](http://localheinz.com/articles/2020/06/12/black-lives-matter/) (2 years ago)
-- [Rolling up database migrations with Doctrine](http://localheinz.com/articles/2020/06/10/rolling-up-database-migrations-with-doctrine/) (2 years ago)
-- [Avoiding imports and aliases](http://localheinz.com/articles/2020/05/19/avoiding-imports-and-aliases/) (2 years ago)
 
 ### Recent followers on GitHub
 
