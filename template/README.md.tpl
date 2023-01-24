@@ -22,7 +22,7 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Recent followers
 {{range followers 5}}
-- [{{.Login}}]({{.URL}})
+- [`@{{.Login}`}]({{.URL}})
 {{- end}}
 
 ### Follow me on
