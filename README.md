@@ -13,7 +13,7 @@ With a focus on helping teams to modernize existing web applications and to buil
 ### Currently working on
 
 
-- [ergebnis/environment-variables](https://github.com/ergebnis/environment-variables) - :deciduous_tree: Provides an abstraction of environment variables. (today)
+- [ergebnis/json-pointer](https://github.com/ergebnis/json-pointer) - :page_with_curl: Provides JSON pointer as a value object. (today)
 - [ergebnis/json](https://github.com/ergebnis/json) - :page_with_curl: Provides a Json value object for representing a valid JSON string. (today)
 - [ergebnis/php-package-template](https://github.com/ergebnis/php-package-template) - :octocat: &#43; :ledger: Provides a GitHub repository template for a PHP package, using GitHub Actions. (today)
 - [ergebnis/factory-bot](https://github.com/ergebnis/factory-bot) - :robot: Provides a fixture factory for doctrine/orm entities. (today)
@@ -21,7 +21,7 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [ergebnis/license](https://github.com/ergebnis/license) - :briefcase: Provides an abstraction of an open-source license. (today)
 - [ergebnis/json-printer](https://github.com/ergebnis/json-printer) - :page_with_curl: Provides a JSON printer, allowing for flexible indentation. (today)
 - [ergebnis/front-matter](https://github.com/ergebnis/front-matter) - :eyes: Provides a front matter parser. (today)
-- [ergebnis/json-pointer](https://github.com/ergebnis/json-pointer) - :page_with_curl: Provides JSON pointer as a value object. (today)
+- [localheinz/localheinz](https://github.com/localheinz/localheinz) - :wave: Provides a README.md for @localheinz. (today)
 - [ergebnis/day-one-to-obsidian-converter](https://github.com/ergebnis/day-one-to-obsidian-converter) - :notebook: Provides a console command for converting DayOne journals to Obsidian notes. (today)
 
 ### Latest releases I've contributed to
