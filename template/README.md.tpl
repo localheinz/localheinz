@@ -15,12 +15,12 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [`{{.Name}}`]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-### Recent articles
+### Recent articles on [localheinz.com](https://localheinz.com)
 {{range rss "https://localheinz.com//feed.xml" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-### Recent followers
+### Recent followers on GitHub
 {{range followers 5}}
 - [`@{{.Login}}`]({{.URL}})
 {{- end}}
