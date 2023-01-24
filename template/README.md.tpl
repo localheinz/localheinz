@@ -16,7 +16,7 @@ With a focus on helping teams to modernize existing web applications and to buil
 {{- end}}
 
 ### Recent articles on [localheinz.com](https://localheinz.com)
-{{range rss "https://localheinz.com//feed.xml" 10}}
+{{range rss "https://localheinz.com//feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
