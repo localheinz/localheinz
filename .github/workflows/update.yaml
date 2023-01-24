@@ -24,7 +24,7 @@ jobs:
       - name: "Regenerate README.md"
         uses: "muesli/readme-scribe@v0.1"
         env:
-          GITHUB_TOKEN: "${{ secrets.ERGEBNIS_BOT_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.LOCALHEINZ_TOKEN }}"
         with:
           template: "template/README.md.tpl"
           writeTo: "README.md"
