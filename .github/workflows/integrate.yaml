@@ -8,9 +8,6 @@ on: # yamllint disable-line rule:truthy
     branches:
       - "main"
 
-env:
-  ERGEBNIS_BOT_NAME: "ergebnis-bot"
-
 jobs:
   coding-standards:
     name: "Coding Standards"
