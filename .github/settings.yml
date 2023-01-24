@@ -10,8 +10,8 @@ branches:
       enforce_admins: false
       required_pull_request_reviews:
         dismiss_stale_reviews: true
-        require_code_owner_reviews: true
-        required_approving_review_count: 1
+        require_code_owner_reviews: false
+        required_approving_review_count: 0
       restrictions: null
 
 # https://docs.github.com/en/rest/reference/issues#create-a-label
