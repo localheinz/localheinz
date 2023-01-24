@@ -1,0 +1,37 @@
+# https://docs.github.com/en/actions
+
+name: "Update"
+
+on: # yamllint disable-line rule:truthy
+  push:
+    branches:
+      - "main"
+  schedule:
+    - cron: "0 */1 * * *"
+
+jobs:
+  readme:
+    name: "Readme"
+
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: "Checkout"
+        uses: "actions/checkout@v3.3.0"
+        with:
+          token: "${{ secrets.ERGEBNIS_BOT_TOKEN }}"
+
+      - uses: "muesli/readme-scribe@v0.1"
+        env:
+          GITHUB_TOKEN: "${{ secrets.ERGEBNIS_BOT_TOKEN }}"
+        with:
+          template: "template/README.md.tpl"
+          writeTo: "README.md"
+
+      - name: "Commit README.md"
+        uses: "stefanzweifel/git-auto-commit-action@v4.16.0"
+        with:
+          commit_author: "ergebnis-bot <bot@ergebn.is>"
+          commit_message: "Enhancement: Update README.md"
+          commit_user_email: "bot@ergebn.is"
+          commit_user_name: "ergebnis-bot"
