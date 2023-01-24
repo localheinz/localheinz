@@ -1,19 +1,5 @@
 # https://github.com/probot/settings
 
-branches:
-  - name: "main"
-
-    # https://docs.github.com/en/rest/reference/repos#delete-branch-protection
-    # https://docs.github.com/en/rest/reference/repos#update-branch-protection
-
-    protection:
-      enforce_admins: false
-      required_pull_request_reviews:
-        dismiss_stale_reviews: true
-        require_code_owner_reviews: false
-        required_approving_review_count: 0
-      restrictions: null
-
 # https://docs.github.com/en/rest/reference/issues#create-a-label
 # https://docs.github.com/en/rest/reference/issues#update-a-label
 
