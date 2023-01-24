@@ -10,12 +10,6 @@ Occasionally, I write [blog posts](https://localheinz.com/blog/).
 
 With a focus on helping teams to modernize existing web applications and to build maintainable, well-tested software, I can help you ship software earlier, with fewer defects, and with a lower total cost of ownership - so your business can be more profitable.
 
-### Currently working on
-
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
 ### Latest releases I've contributed to
 
 {{range recentReleases 10}}
