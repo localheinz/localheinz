@@ -21,7 +21,8 @@ jobs:
         with:
           token: "${{ secrets.ERGEBNIS_BOT_TOKEN }}"
 
-      - uses: "muesli/readme-scribe@v0.1"
+      - name: "Regenerate README.md"
+        uses: "muesli/readme-scribe@v0.1"
         env:
           GITHUB_TOKEN: "${{ secrets.ERGEBNIS_BOT_TOKEN }}"
         with:
