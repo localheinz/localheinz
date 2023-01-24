@@ -20,6 +20,11 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+### Recent sponsors on GitHub
+{{range sponsors 5}}
+- [`@{{.User.Login}}`]({{.User.URL}})
+{{- end}}
+
 ### Recent followers on GitHub
 {{range followers 5}}
 - [`@{{.Login}}`]({{.URL}})
