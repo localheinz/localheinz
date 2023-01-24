@@ -6,7 +6,7 @@ I have been developing software for more than 25 years. In a professional capaci
 
 I maintain open-source projects in the [@ergebnis](https://github.com/ergebnis) organization, contribute to a wide range of [open-source projects](https://github.com/localheinz?tab=repositories&q=&type=fork&language=), and regularly attend [community events](https://localheinz.com/events/).
 
-Occasionally, I write [blog posts](https://localheinz.com/blog/).
+Occasionally, I write [articles](https://localheinz.com/articles/).
 
 With a focus on helping teams to modernize existing web applications and to build maintainable, well-tested software, I can help you ship software earlier, with fewer defects, and with a lower total cost of ownership - so your business can be more profitable.
 
