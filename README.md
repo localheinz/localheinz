@@ -31,6 +31,14 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [Creating releases with GitHub Actions](http://localheinz.com/articles/2022/01/24/creating-releases-with-github-actions/) (1 year ago)
 - [Wrapping it up](http://localheinz.com/articles/2021/12/31/wrapping-it-up/) (1 year ago)
 
+### Recent sponsors on GitHub
+
+- [`@JesusValera`](https://github.com/JesusValera)
+- [`@Chemaclass`](https://github.com/Chemaclass)
+- [`@yesdevnull`](https://github.com/yesdevnull)
+- [`@indeedeng`](https://github.com/indeedeng)
+- [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial)
+
 ### Recent followers on GitHub
 
 - [`@AIMareKoPolloAI`](https://github.com/AIMareKoPolloAI)
