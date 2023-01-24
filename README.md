@@ -23,7 +23,7 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [`ergebnis/factory-bot`](https://github.com/ergebnis/factory-bot) ([1.3.0](https://github.com/ergebnis/factory-bot/releases/tag/1.3.0), 1 month ago) - :robot: Provides a fixture factory for doctrine/orm entities.
 - [`ergebnis/json`](https://github.com/ergebnis/json) ([1.0.1](https://github.com/ergebnis/json/releases/tag/1.0.1), 1 month ago) - :page_with_curl: Provides a Json value object for representing a valid JSON string.
 
-### Recent Articles
+### Recent articles
 
 - [Enhancing types](http://localheinz.com/articles/2022/09/20/enhancing-types/) (4 months ago)
 - [Asserting the output of Symfony console commands](http://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (4 months ago)
