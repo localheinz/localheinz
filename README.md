@@ -12,16 +12,16 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Latest releases I've contributed to
 
-- [ergebnis/.github](https://github.com/ergebnis/.github) ([1.8.0](https://github.com/ergebnis/.github/releases/tag/1.8.0), today) - :heart: Provides default community health files and composite actions for the @ergebnis organization.
-- [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.55.0](https://github.com/spryker/docker-sdk/releases/tag/1.55.0), 4 days ago) - Spryker Commerce OS - Docker SDK
-- [stripe/stripe-php](https://github.com/stripe/stripe-php) ([v10.5.0-beta.1](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.1), 5 days ago) - PHP library for the Stripe API.    
-- [friendsoftwig/twigcs](https://github.com/friendsoftwig/twigcs) ([6.2.0](https://github.com/friendsoftwig/twigcs/releases/tag/6.2.0), 1 week ago) - The missing checkstyle for twig!
-- [ergebnis/php-cs-fixer-config](https://github.com/ergebnis/php-cs-fixer-config) ([5.2.0](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.2.0), 2 weeks ago) - :notebook: Provides a configuration factory and multiple rule sets for friendsofphp/php-cs-fixer.
-- [spryker/code-sniffer](https://github.com/spryker/code-sniffer) ([0.17.18](https://github.com/spryker/code-sniffer/releases/tag/0.17.18), 2 weeks ago) - Spryker Code Sniffer
-- [gacela-project/gacela](https://github.com/gacela-project/gacela) ([1.0.0](https://github.com/gacela-project/gacela/releases/tag/1.0.0), 3 weeks ago) - Gacela helps you separate your project into modules, focusing on the application/infrastructure layer, totally decoupled from your domain.
-- [composer/composer](https://github.com/composer/composer) ([2.5.1](https://github.com/composer/composer/releases/tag/2.5.1), 1 month ago) - Dependency Manager for PHP
-- [ergebnis/factory-bot](https://github.com/ergebnis/factory-bot) ([1.3.0](https://github.com/ergebnis/factory-bot/releases/tag/1.3.0), 1 month ago) - :robot: Provides a fixture factory for doctrine/orm entities.
-- [ergebnis/json](https://github.com/ergebnis/json) ([1.0.1](https://github.com/ergebnis/json/releases/tag/1.0.1), 1 month ago) - :page_with_curl: Provides a Json value object for representing a valid JSON string.
+- [`ergebnis/.github`](https://github.com/ergebnis/.github) ([1.8.0](https://github.com/ergebnis/.github/releases/tag/1.8.0), today) - :heart: Provides default community health files and composite actions for the @ergebnis organization.
+- [`spryker/docker-sdk`](https://github.com/spryker/docker-sdk) ([1.55.0](https://github.com/spryker/docker-sdk/releases/tag/1.55.0), 4 days ago) - Spryker Commerce OS - Docker SDK
+- [`stripe/stripe-php`](https://github.com/stripe/stripe-php) ([v10.5.0-beta.1](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.1), 5 days ago) - PHP library for the Stripe API.    
+- [`friendsoftwig/twigcs`](https://github.com/friendsoftwig/twigcs) ([6.2.0](https://github.com/friendsoftwig/twigcs/releases/tag/6.2.0), 1 week ago) - The missing checkstyle for twig!
+- [`ergebnis/php-cs-fixer-config`](https://github.com/ergebnis/php-cs-fixer-config) ([5.2.0](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.2.0), 2 weeks ago) - :notebook: Provides a configuration factory and multiple rule sets for friendsofphp/php-cs-fixer.
+- [`spryker/code-sniffer`](https://github.com/spryker/code-sniffer) ([0.17.18](https://github.com/spryker/code-sniffer/releases/tag/0.17.18), 2 weeks ago) - Spryker Code Sniffer
+- [`gacela-project/gacela`](https://github.com/gacela-project/gacela) ([1.0.0](https://github.com/gacela-project/gacela/releases/tag/1.0.0), 3 weeks ago) - Gacela helps you separate your project into modules, focusing on the application/infrastructure layer, totally decoupled from your domain.
+- [`composer/composer`](https://github.com/composer/composer) ([2.5.1](https://github.com/composer/composer/releases/tag/2.5.1), 1 month ago) - Dependency Manager for PHP
+- [`ergebnis/factory-bot`](https://github.com/ergebnis/factory-bot) ([1.3.0](https://github.com/ergebnis/factory-bot/releases/tag/1.3.0), 1 month ago) - :robot: Provides a fixture factory for doctrine/orm entities.
+- [`ergebnis/json`](https://github.com/ergebnis/json) ([1.0.1](https://github.com/ergebnis/json/releases/tag/1.0.1), 1 month ago) - :page_with_curl: Provides a Json value object for representing a valid JSON string.
 
 ### Recent Articles
 
