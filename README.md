@@ -12,7 +12,6 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Latest releases I've contributed to
 
-
 - [ergebnis/.github](https://github.com/ergebnis/.github) ([1.8.0](https://github.com/ergebnis/.github/releases/tag/1.8.0), today) - :heart: Provides default community health files and composite actions for the @ergebnis organization.
 - [spryker/docker-sdk](https://github.com/spryker/docker-sdk) ([1.55.0](https://github.com/spryker/docker-sdk/releases/tag/1.55.0), 4 days ago) - Spryker Commerce OS - Docker SDK
 - [stripe/stripe-php](https://github.com/stripe/stripe-php) ([v10.5.0-beta.1](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.1), 5 days ago) - PHP library for the Stripe API.    
@@ -26,7 +25,6 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Recent Articles
 
-
 - [Enhancing types](http://localheinz.com/articles/2022/09/20/enhancing-types/) (4 months ago)
 - [Asserting the output of Symfony console commands](http://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (4 months ago)
 - [Naming constructors](http://localheinz.com/articles/2022/03/26/naming-constructors/) (10 months ago)
@@ -39,7 +37,6 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [Avoiding imports and aliases](http://localheinz.com/articles/2020/05/19/avoiding-imports-and-aliases/) (2 years ago)
 
 ### Recent followers
-
 
 - [AIMareKoPolloAI](https://github.com/AIMareKoPolloAI)
 - [ljluestc](https://github.com/ljluestc)
