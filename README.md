@@ -23,7 +23,7 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [`ergebnis/factory-bot`](https://github.com/ergebnis/factory-bot) ([1.3.0](https://github.com/ergebnis/factory-bot/releases/tag/1.3.0), 1 month ago) - :robot: Provides a fixture factory for doctrine/orm entities.
 - [`ergebnis/json`](https://github.com/ergebnis/json) ([1.0.1](https://github.com/ergebnis/json/releases/tag/1.0.1), 1 month ago) - :page_with_curl: Provides a Json value object for representing a valid JSON string.
 
-### Recent articles
+### Recent articles on [localheinz.com](https://localheinz.com)
 
 - [Enhancing types](http://localheinz.com/articles/2022/09/20/enhancing-types/) (4 months ago)
 - [Asserting the output of Symfony console commands](http://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (4 months ago)
@@ -36,7 +36,7 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [Rolling up database migrations with Doctrine](http://localheinz.com/articles/2020/06/10/rolling-up-database-migrations-with-doctrine/) (2 years ago)
 - [Avoiding imports and aliases](http://localheinz.com/articles/2020/05/19/avoiding-imports-and-aliases/) (2 years ago)
 
-### Recent followers
+### Recent followers on GitHub
 
 - [`@AIMareKoPolloAI`](https://github.com/AIMareKoPolloAI)
 - [`@ljluestc`](https://github.com/ljluestc)
