@@ -10,7 +10,7 @@ Occasionally, I write [blog posts](https://localheinz.com/blog/).
 
 With a focus on helping teams to modernize existing web applications and to build maintainable, well-tested software, I can help you ship software earlier, with fewer defects, and with a lower total cost of ownership - so your business can be more profitable.
 
-### Latest releases I've contributed to
+### Recent releases I've contributed to
 
 - [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0), today - :heart: Provides default community health files and composite actions for the @ergebnis organization.
 - [`spryker/docker-sdk:1.55.0`](https://github.com/spryker/docker-sdk/releases/tag/1.55.0), 4 days ago - Spryker Commerce OS - Docker SDK
