@@ -48,7 +48,7 @@ With a focus on helping teams to modernize existing web applications and to buil
     <a target="_blank" href="https://twitter.com/intent/follow?screen_name=localheinz" title="Follow @localheinz on Twitter"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/twitter.svg" width="24px" height="24px"></a>
 </p>
 
-### Do you enjoy working with pull requests as much as I do?
+### Are you working with pull requests?
 
 Buy some colorful stickers for you and your friends in my <a target="_blank" href="https://shop.localheinz.com" title="shop.localheinz.com">shop</a>!
 
