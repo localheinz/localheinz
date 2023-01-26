@@ -12,16 +12,16 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Recent releases I've contributed to
 
-- [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0), 1 day ago - :heart: Provides default community health files and composite actions for the @ergebnis organization.
-- [`spryker/docker-sdk:1.55.0`](https://github.com/spryker/docker-sdk/releases/tag/1.55.0), 5 days ago - Spryker Commerce OS - Docker SDK
-- [`stripe/stripe-php:v10.5.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.1), 6 days ago - PHP library for the Stripe API.    
+- [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0), 2 days ago - :heart: Provides default community health files and composite actions for the @ergebnis organization.
+- [`spryker/docker-sdk:1.55.0`](https://github.com/spryker/docker-sdk/releases/tag/1.55.0), 6 days ago - Spryker Commerce OS - Docker SDK
+- [`stripe/stripe-php:v10.5.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.1), 1 week ago - PHP library for the Stripe API.    
 - [`friendsoftwig/twigcs:6.2.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.2.0), 1 week ago - The missing checkstyle for twig!
-- [`ergebnis/php-cs-fixer-config:5.2.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.2.0), 2 weeks ago - :notebook: Provides a configuration factory and multiple rule sets for friendsofphp/php-cs-fixer.
+- [`ergebnis/php-cs-fixer-config:5.2.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.2.0), 3 weeks ago - :notebook: Provides a configuration factory and multiple rule sets for friendsofphp/php-cs-fixer.
 
 ### Recent articles on [localheinz.com](https://localheinz.com)
 
 - [Enhancing types](http://localheinz.com/articles/2022/09/20/enhancing-types/) (4 months ago)
-- [Asserting the output of Symfony console commands](http://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (4 months ago)
+- [Asserting the output of Symfony console commands](http://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (5 months ago)
 - [Naming constructors](http://localheinz.com/articles/2022/03/26/naming-constructors/) (10 months ago)
 - [Creating releases with GitHub Actions](http://localheinz.com/articles/2022/01/24/creating-releases-with-github-actions/) (1 year ago)
 - [Wrapping it up](http://localheinz.com/articles/2021/12/31/wrapping-it-up/) (1 year ago)
