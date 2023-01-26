@@ -36,11 +36,11 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Recent followers on GitHub
 
+- [`@ZENO-OPS`](https://github.com/ZENO-OPS)
 - [`@AIMareKoPolloAI`](https://github.com/AIMareKoPolloAI)
 - [`@ljluestc`](https://github.com/ljluestc)
 - [`@BrunoMoreno`](https://github.com/BrunoMoreno)
 - [`@flangofas`](https://github.com/flangofas)
-- [`@PrinsFrank`](https://github.com/PrinsFrank)
 
 ### Follow me on
 
