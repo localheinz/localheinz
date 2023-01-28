@@ -12,7 +12,7 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Recent releases I've contributed to
 
-- [`nicmart/Tree:0.6.0`](https://github.com/nicmart/Tree/releases/tag/0.6.0), 1 day ago - A basic but flexible tree data structure for php and a fluent tree builder implementation.
+- [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0), today - A basic but flexible tree data structure for php and a fluent tree builder implementation.
 - [`stripe/stripe-php:v10.5.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.2), 1 day ago - PHP library for the Stripe API.    
 - [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0), 4 days ago - :heart: Provides default community health files and composite actions for the @ergebnis organization.
 - [`spryker/docker-sdk:1.55.0`](https://github.com/spryker/docker-sdk/releases/tag/1.55.0), 1 week ago - Spryker Commerce OS - Docker SDK
