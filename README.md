@@ -20,11 +20,11 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Recent articles on [localheinz.com](https://localheinz.com)
 
+- [Documenting namespaces for test code in composer.json](http://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (today)
 - [Enhancing types](http://localheinz.com/articles/2022/09/20/enhancing-types/) (4 months ago)
 - [Asserting the output of Symfony console commands](http://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (5 months ago)
 - [Naming constructors](http://localheinz.com/articles/2022/03/26/naming-constructors/) (10 months ago)
 - [Creating releases with GitHub Actions](http://localheinz.com/articles/2022/01/24/creating-releases-with-github-actions/) (1 year ago)
-- [Wrapping it up](http://localheinz.com/articles/2021/12/31/wrapping-it-up/) (1 year ago)
 
 ### Recent sponsors on GitHub
 
