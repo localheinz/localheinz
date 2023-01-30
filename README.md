@@ -12,11 +12,11 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Recent releases I've contributed to
 
+- [`ergebnis/php-cs-fixer-config:5.3.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.0) (today)
 - [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (today)
 - [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (2 days ago)
 - [`stripe/stripe-php:v10.5.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.2) (3 days ago)
 - [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0) (6 days ago)
-- [`spryker/docker-sdk:1.55.0`](https://github.com/spryker/docker-sdk/releases/tag/1.55.0) (1 week ago)
 
 ### Recent articles on [localheinz.com](https://localheinz.com)
 
