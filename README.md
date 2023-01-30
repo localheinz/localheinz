@@ -12,11 +12,11 @@ With a focus on helping teams to modernize existing web applications and to buil
 
 ### Recent releases I've contributed to
 
-- [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (2 days ago) - A basic but flexible tree data structure for php and a fluent tree builder implementation.
-- [`stripe/stripe-php:v10.5.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.2) (3 days ago) - PHP library for the Stripe API.    
-- [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0) (6 days ago) - :heart: Provides default community health files and composite actions for the @ergebnis organization.
-- [`spryker/docker-sdk:1.55.0`](https://github.com/spryker/docker-sdk/releases/tag/1.55.0) (1 week ago) - Spryker Commerce OS - Docker SDK
-- [`friendsoftwig/twigcs:6.2.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.2.0) (2 weeks ago) - The missing checkstyle for twig!
+- [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (today)
+- [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (2 days ago)
+- [`stripe/stripe-php:v10.5.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.2) (3 days ago)
+- [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0) (6 days ago)
+- [`spryker/docker-sdk:1.55.0`](https://github.com/spryker/docker-sdk/releases/tag/1.55.0) (1 week ago)
 
 ### Recent articles on [localheinz.com](https://localheinz.com)
 
