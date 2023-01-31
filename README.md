@@ -10,14 +10,6 @@ Occasionally, I write [articles](https://localheinz.com/articles/).
 
 With a focus on helping teams to modernize existing web applications and to build maintainable, well-tested software, I can help you ship software earlier, with fewer defects, and with a lower total cost of ownership - so your business can be more profitable.
 
-### Recent releases I've contributed to
-
-- [`ergebnis/php-cs-fixer-config:5.3.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.0) (1 day ago)
-- [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (1 day ago)
-- [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (3 days ago)
-- [`stripe/stripe-php:v10.5.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.2) (4 days ago)
-- [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0) (1 week ago)
-
 ### Recent articles on [localheinz.com](https://localheinz.com)
 
 - [Documenting namespaces for test code in composer.json](http://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (2 days ago)
@@ -26,13 +18,13 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [Naming constructors](http://localheinz.com/articles/2022/03/26/naming-constructors/) (10 months ago)
 - [Creating releases with GitHub Actions](http://localheinz.com/articles/2022/01/24/creating-releases-with-github-actions/) (1 year ago)
 
-### Recent sponsors on GitHub
+### Recent releases I've contributed to
 
-- [`@JesusValera`](https://github.com/JesusValera)
-- [`@Chemaclass`](https://github.com/Chemaclass)
-- [`@yesdevnull`](https://github.com/yesdevnull)
-- [`@indeedeng`](https://github.com/indeedeng)
-- [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial)
+- [`ergebnis/php-cs-fixer-config:5.3.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.0) (1 day ago)
+- [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (1 day ago)
+- [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (3 days ago)
+- [`stripe/stripe-php:v10.5.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.2) (4 days ago)
+- [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0) (1 week ago)
 
 ### Recent followers on GitHub
 
@@ -41,6 +33,14 @@ With a focus on helping teams to modernize existing web applications and to buil
 - [`@AIMareKoPolloAI`](https://github.com/AIMareKoPolloAI)
 - [`@ljluestc`](https://github.com/ljluestc)
 - [`@BrunoMoreno`](https://github.com/BrunoMoreno)
+
+### Recent sponsors on GitHub
+
+- [`@JesusValera`](https://github.com/JesusValera)
+- [`@Chemaclass`](https://github.com/Chemaclass)
+- [`@yesdevnull`](https://github.com/yesdevnull)
+- [`@indeedeng`](https://github.com/indeedeng)
+- [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial)
 
 ### Follow me on
 
