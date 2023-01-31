@@ -28,11 +28,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@meinemitternacht`](https://github.com/meinemitternacht)
 - [`@VdoVd`](https://github.com/VdoVd)
 - [`@ZENO-OPS`](https://github.com/ZENO-OPS)
 - [`@AIMareKoPolloAI`](https://github.com/AIMareKoPolloAI)
 - [`@ljluestc`](https://github.com/ljluestc)
-- [`@BrunoMoreno`](https://github.com/BrunoMoreno)
 
 ### Recent sponsors on GitHub
 
