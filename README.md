@@ -18,7 +18,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Naming constructors](http://localheinz.com/articles/2022/03/26/naming-constructors/) (10 months ago)
 - [Creating releases with GitHub Actions](http://localheinz.com/articles/2022/01/24/creating-releases-with-github-actions/) (1 year ago)
 
-### Recent releases I've contributed to
+### Recent releases I have contributed to
 
 - [`ergebnis/php-cs-fixer-config:5.3.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.0) (1 day ago)
 - [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (1 day ago)
