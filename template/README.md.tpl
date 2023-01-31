@@ -15,7 +15,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-### Recent releases I've contributed to
+### Recent releases I have contributed to
 {{range recentReleases 5}}
 - [`{{.Name}}:{{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
