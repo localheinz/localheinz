@@ -10,7 +10,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 <hr>
 
-### Recent articles on [localheinz.com](https://localheinz.com)
+### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 {{range rss "https://localheinz.com//feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
