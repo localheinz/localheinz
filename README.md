@@ -10,7 +10,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 <hr>
 
-### Recent articles on [localheinz.com](https://localheinz.com)
+### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
 - [Documenting namespaces for test code in composer.json](http://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (2 days ago)
 - [Enhancing types](http://localheinz.com/articles/2022/09/20/enhancing-types/) (4 months ago)
