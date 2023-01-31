@@ -1,4 +1,4 @@
-:wave: Hello!
+## :wave: Hello!
 
 My name is Andreas Möller, and I am a self-employed Software Engineer and Consultant from Berlin, Germany.
 
@@ -7,6 +7,8 @@ For more than 25 years, I have been developing software. In a professional capac
 I maintain and contribute to [open-source](https://localheinz.com/open-source/) projects, publish [articles](https://localheinz.com/articles/), and give [talks](https://localheinz.com/talks).
 
 With a focus on modernizing legacy applications and teams, I can help your business become more profitable: by shipping software earlier, with fewer defects, and with a lower total cost of ownership.
+
+<hr>
 
 ### Recent articles on [localheinz.com](https://localheinz.com)
 
