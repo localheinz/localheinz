@@ -8,6 +8,8 @@ I maintain and contribute to [open-source](https://localheinz.com/open-source/) 
 
 With a focus on modernizing legacy applications and teams, I can help your business become more profitable: by shipping software earlier, with fewer defects, and with a lower total cost of ownership.
 
+<hr>
+
 ### Recent articles on [localheinz.com](https://localheinz.com)
 {{range rss "https://localheinz.com//feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
