@@ -10,24 +10,24 @@ Occasionally, I write [articles](https://localheinz.com/articles/).
 
 With a focus on helping teams to modernize existing web applications and to build maintainable, well-tested software, I can help you ship software earlier, with fewer defects, and with a lower total cost of ownership - so your business can be more profitable.
 
-### Recent releases I've contributed to
-{{range recentReleases 5}}
-- [`{{.Name}}:{{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
-{{- end}}
-
 ### Recent articles on [localheinz.com](https://localheinz.com)
 {{range rss "https://localheinz.com//feed.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-### Recent sponsors on GitHub
-{{range sponsors 5}}
-- [`@{{.User.Login}}`]({{.User.URL}})
+### Recent releases I've contributed to
+{{range recentReleases 5}}
+- [`{{.Name}}:{{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
 ### Recent followers on GitHub
 {{range followers 5}}
 - [`@{{.Login}}`]({{.URL}})
+{{- end}}
+
+### Recent sponsors on GitHub
+{{range sponsors 5}}
+- [`@{{.User.Login}}`]({{.User.URL}})
 {{- end}}
 
 ### Follow me on
