@@ -42,11 +42,15 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@indeedeng`](https://github.com/indeedeng)
 - [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial)
 
+<hr>
+
 ### Follow me on
 
 <p>
     <a target="_blank" href="https://twitter.com/intent/follow?screen_name=localheinz" title="Follow @localheinz on Twitter"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/twitter.svg" width="24px" height="24px"></a>
 </p>
+
+<hr>
 
 ### Are you working with pull requests?
 
