@@ -1,4 +1,4 @@
-:wave: Hello!
+## :wave: Hello!
 
 My name is Andreas Möller, and I am a self-employed Software Engineer and Consultant from Berlin, Germany.
 
