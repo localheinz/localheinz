@@ -28,19 +28,19 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@khalilcharfi`](https://github.com/khalilcharfi)
 - [`@meinemitternacht`](https://github.com/meinemitternacht)
 - [`@VdoVd`](https://github.com/VdoVd)
 - [`@ZENO-OPS`](https://github.com/ZENO-OPS)
 - [`@AIMareKoPolloAI`](https://github.com/AIMareKoPolloAI)
-- [`@ljluestc`](https://github.com/ljluestc)
 
 ### Recent sponsors on GitHub
 
-- [`@JesusValera`](https://github.com/JesusValera)
-- [`@Chemaclass`](https://github.com/Chemaclass)
-- [`@yesdevnull`](https://github.com/yesdevnull)
-- [`@indeedeng`](https://github.com/indeedeng)
-- [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial)
+- [`@JesusValera`](https://github.com/JesusValera) (3 months ago)
+- [`@Chemaclass`](https://github.com/Chemaclass) (3 months ago)
+- [`@yesdevnull`](https://github.com/yesdevnull) (11 months ago)
+- [`@indeedeng`](https://github.com/indeedeng) (1 year ago)
+- [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (2 years ago)
 
 <hr>
 
