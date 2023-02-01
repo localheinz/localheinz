@@ -22,12 +22,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 {{range followers 5}}
-- [`@{{.Login}}`]({{.URL}}) ({{humanize .CreatedAt}})
+- [`@{{.Login}}`]({{.URL}})
 {{- end}}
 
 ### Recent sponsors on GitHub
 {{range sponsors 5}}
-- [`@{{.User.Login}}`]({{.User.URL}})
+- [`@{{.User.Login}}`]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 <hr>
