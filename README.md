@@ -12,11 +12,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Documenting namespaces for test code in composer.json](http://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (3 days ago)
-- [Enhancing types](http://localheinz.com/articles/2022/09/20/enhancing-types/) (4 months ago)
-- [Asserting the output of Symfony console commands](http://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (5 months ago)
-- [Naming constructors](http://localheinz.com/articles/2022/03/26/naming-constructors/) (10 months ago)
-- [Creating releases with GitHub Actions](http://localheinz.com/articles/2022/01/24/creating-releases-with-github-actions/) (1 year ago)
+- [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (3 days ago)
+- [Enhancing types](https://localheinz.com/articles/2022/09/20/enhancing-types/) (4 months ago)
+- [Asserting the output of Symfony console commands](https://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (5 months ago)
+- [Naming constructors](https://localheinz.com/articles/2022/03/26/naming-constructors/) (10 months ago)
+- [Creating releases with GitHub Actions](https://localheinz.com/articles/2022/01/24/creating-releases-with-github-actions/) (1 year ago)
 
 ### Recent releases I have contributed to
 
