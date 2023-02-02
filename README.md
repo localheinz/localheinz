@@ -20,10 +20,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`stripe/stripe-php:v10.5.0`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0) (today)
 - [`ergebnis/php-cs-fixer-config:5.3.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.0) (3 days ago)
 - [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (3 days ago)
 - [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (5 days ago)
-- [`stripe/stripe-php:v10.5.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0-beta.2) (6 days ago)
 - [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0) (1 week ago)
 
 ### Recent followers on GitHub
