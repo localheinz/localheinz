@@ -28,11 +28,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@oruborus`](https://github.com/oruborus)
 - [`@AbdeenM`](https://github.com/AbdeenM)
 - [`@khalilcharfi`](https://github.com/khalilcharfi)
 - [`@meinemitternacht`](https://github.com/meinemitternacht)
 - [`@VdoVd`](https://github.com/VdoVd)
-- [`@ZENO-OPS`](https://github.com/ZENO-OPS)
 
 ### Recent sponsors on GitHub
 
