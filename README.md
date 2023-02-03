@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (4 days ago)
+- [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (5 days ago)
 - [Enhancing types](https://localheinz.com/articles/2022/09/20/enhancing-types/) (4 months ago)
 - [Asserting the output of Symfony console commands](https://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (5 months ago)
 - [Naming constructors](https://localheinz.com/articles/2022/03/26/naming-constructors/) (10 months ago)
@@ -20,10 +20,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.5.0`](https://github.com/stripe/stripe-php/releases/tag/v10.5.0) (today)
-- [`ergebnis/php-cs-fixer-config:5.3.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.0) (3 days ago)
-- [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (3 days ago)
-- [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (5 days ago)
+- [`stripe/stripe-php:v10.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.6.0-beta.1) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:5.3.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.0) (4 days ago)
+- [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (4 days ago)
+- [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (6 days ago)
 - [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0) (1 week ago)
 
 ### Recent followers on GitHub
