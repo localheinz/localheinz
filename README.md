@@ -20,11 +20,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpunit-slow-test-detector:1.0.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/1.0.0) (today)
 - [`stripe/stripe-php:v10.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.6.0-beta.1) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:5.3.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.0) (4 days ago)
 - [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (4 days ago)
 - [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (6 days ago)
-- [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0) (1 week ago)
 
 ### Recent followers on GitHub
 
