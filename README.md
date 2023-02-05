@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (6 days ago)
+- [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (1 week ago)
 - [Enhancing types](https://localheinz.com/articles/2022/09/20/enhancing-types/) (4 months ago)
 - [Asserting the output of Symfony console commands](https://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (5 months ago)
 - [Naming constructors](https://localheinz.com/articles/2022/03/26/naming-constructors/) (10 months ago)
@@ -20,11 +20,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`composer/composer:2.2.19`](https://github.com/composer/composer/releases/tag/2.2.19) (today)
-- [`ergebnis/phpunit-slow-test-detector:1.0.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/1.0.0) (1 day ago)
-- [`stripe/stripe-php:v10.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.6.0-beta.1) (2 days ago)
-- [`ergebnis/php-cs-fixer-config:5.3.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.0) (5 days ago)
-- [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (5 days ago)
+- [`composer/composer:2.2.19`](https://github.com/composer/composer/releases/tag/2.2.19) (1 day ago)
+- [`ergebnis/phpunit-slow-test-detector:1.0.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/1.0.0) (2 days ago)
+- [`stripe/stripe-php:v10.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.6.0-beta.1) (3 days ago)
+- [`ergebnis/php-cs-fixer-config:5.3.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.0) (6 days ago)
+- [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (6 days ago)
 
 ### Recent followers on GitHub
 
@@ -40,7 +40,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Chemaclass`](https://github.com/Chemaclass) (3 months ago)
 - [`@yesdevnull`](https://github.com/yesdevnull) (1 year ago)
 - [`@indeedeng`](https://github.com/indeedeng) (1 year ago)
-- [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (2 years ago)
+- [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (3 years ago)
 
 <hr>
 
