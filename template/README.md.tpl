@@ -11,22 +11,22 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 <hr>
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
-{{range rss "https://localheinz.com//feed.xml" 5}}
+{{range rss "https://localheinz.com//feed.xml" 10}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 ### Recent releases I have contributed to
-{{range recentReleases 5}}
+{{range recentReleases 10}}
 - [`{{.Name}}:{{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
 ### Recent followers on GitHub
-{{range followers 5}}
+{{range followers 10}}
 - [`@{{.Login}}`]({{.URL}})
 {{- end}}
 
 ### Recent sponsors on GitHub
-{{range sponsors 5}}
+{{range sponsors 10}}
 - [`@{{.User.Login}}`]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
