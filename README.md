@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/factory-bot:1.4.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.4.0) (today)
 - [`ergebnis/php-cs-fixer-config:5.3.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.1) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.14.4`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4) (today)
 - [`doctrine/DoctrineBundle:2.8.3`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.8.3) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (1 week ago)
 - [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (1 week ago)
 - [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0) (2 weeks ago)
-- [`spryker/docker-sdk:1.55.0`](https://github.com/spryker/docker-sdk/releases/tag/1.55.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
