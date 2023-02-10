@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`composer/composer:2.5.3`](https://github.com/composer/composer/releases/tag/2.5.3) (today)
+- [`composer/composer:2.2.20`](https://github.com/composer/composer/releases/tag/2.2.20) (today)
 - [`ergebnis/factory-bot:1.4.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.4.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:5.3.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.1) (1 day ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.14.4`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4) (1 day ago)
