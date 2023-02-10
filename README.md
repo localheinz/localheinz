@@ -41,13 +41,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@0x6d6c`](https://github.com/0x6d6c)
 - [`@LisaR61`](https://github.com/LisaR61)
 - [`@oruborus`](https://github.com/oruborus)
-- [`@AbdeenM`](https://github.com/AbdeenM)
 - [`@khalilcharfi`](https://github.com/khalilcharfi)
 - [`@meinemitternacht`](https://github.com/meinemitternacht)
 - [`@VdoVd`](https://github.com/VdoVd)
 - [`@AIMareKoPolloAI`](https://github.com/AIMareKoPolloAI)
 - [`@ljluestc`](https://github.com/ljluestc)
 - [`@BrunoMoreno`](https://github.com/BrunoMoreno)
+- [`@flangofas`](https://github.com/flangofas)
 
 ### Recent sponsors on GitHub
 
