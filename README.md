@@ -32,9 +32,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.14.4`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4) (2 days ago)
 - [`doctrine/DoctrineBundle:2.8.3`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.8.3) (5 days ago)
 - [`stripe/stripe-php:v10.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.6.0-beta.1) (1 week ago)
+- [`symfony/symfony:v6.2.6`](https://github.com/symfony/symfony/releases/tag/v6.2.6) (1 week ago)
 - [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (1 week ago)
 - [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (2 weeks ago)
-- [`ergebnis/.github:1.8.0`](https://github.com/ergebnis/.github/releases/tag/1.8.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
