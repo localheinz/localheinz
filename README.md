@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (today)
 - [`ergebnis/phpunit-slow-test-detector:2.1.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.0) (2 days ago)
 - [`composer/composer:2.2.20`](https://github.com/composer/composer/releases/tag/2.2.20) (4 days ago)
 - [`ergebnis/factory-bot:1.4.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.4.0) (5 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`stripe/stripe-php:v10.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.6.0-beta.1) (1 week ago)
 - [`symfony/symfony:v6.2.6`](https://github.com/symfony/symfony/releases/tag/v6.2.6) (1 week ago)
 - [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (2 weeks ago)
-- [`nicmart/Tree:0.7.0`](https://github.com/nicmart/Tree/releases/tag/0.7.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
