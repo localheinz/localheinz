@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@Sindou-dedv`](https://github.com/Sindou-dedv)
 - [`@swan1213`](https://github.com/swan1213)
 - [`@0x6d6c`](https://github.com/0x6d6c)
 - [`@LisaR61`](https://github.com/LisaR61)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@VdoVd`](https://github.com/VdoVd)
 - [`@AIMareKoPolloAI`](https://github.com/AIMareKoPolloAI)
 - [`@ljluestc`](https://github.com/ljluestc)
-- [`@BrunoMoreno`](https://github.com/BrunoMoreno)
 
 ### Recent sponsors on GitHub
 
