@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (today)
 - [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (1 day ago)
 - [`ergebnis/phpunit-slow-test-detector:2.1.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.0) (3 days ago)
-- [`composer/composer:2.2.20`](https://github.com/composer/composer/releases/tag/2.2.20) (5 days ago)
 - [`ergebnis/factory-bot:1.4.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.4.0) (6 days ago)
 - [`ergebnis/php-cs-fixer-config:5.3.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.1) (6 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.14.4`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4) (6 days ago)
