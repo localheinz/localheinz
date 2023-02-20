@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@DGS1337`](https://github.com/DGS1337)
 - [`@jacuer`](https://github.com/jacuer)
 - [`@mteu`](https://github.com/mteu)
 - [`@cumsoft`](https://github.com/cumsoft)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@0x6d6c`](https://github.com/0x6d6c)
 - [`@LisaR61`](https://github.com/LisaR61)
 - [`@oruborus`](https://github.com/oruborus)
-- [`@khalilcharfi`](https://github.com/khalilcharfi)
 
 ### Recent sponsors on GitHub
 
