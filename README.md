@@ -12,8 +12,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (5 days ago)
-- [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (1 week ago)
+- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (6 days ago)
+- [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (2 weeks ago)
 - [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (3 weeks ago)
 - [Enhancing types](https://localheinz.com/articles/2022/09/20/enhancing-types/) (5 months ago)
 - [Asserting the output of Symfony console commands](https://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (5 months ago)
@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.7.0-beta.1) (3 days ago)
-- [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (4 days ago)
-- [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (5 days ago)
+- [`stripe/stripe-php:v10.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.7.0-beta.1) (4 days ago)
+- [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (5 days ago)
+- [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (6 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.1.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.0) (1 week ago)
 - [`ergebnis/factory-bot:1.4.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.4.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.3.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.1) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.14.4`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4) (1 week ago)
-- [`doctrine/DoctrineBundle:2.8.3`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.8.3) (1 week ago)
+- [`doctrine/DoctrineBundle:2.8.3`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.8.3) (2 weeks ago)
 - [`symfony/symfony:v6.2.6`](https://github.com/symfony/symfony/releases/tag/v6.2.6) (2 weeks ago)
-- [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (2 weeks ago)
+- [`ergebnis/playground:0.11.0`](https://github.com/ergebnis/playground/releases/tag/0.11.0) (3 weeks ago)
 
 ### Recent followers on GitHub
 
