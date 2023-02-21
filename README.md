@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (6 days ago)
+- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (1 week ago)
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (2 weeks ago)
 - [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (3 weeks ago)
 - [Enhancing types](https://localheinz.com/articles/2022/09/20/enhancing-types/) (5 months ago)
@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.7.0-beta.1) (4 days ago)
-- [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (5 days ago)
-- [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (6 days ago)
+- [`stripe/stripe-php:v10.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.7.0-beta.1) (5 days ago)
+- [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (6 days ago)
+- [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.1.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.0) (1 week ago)
 - [`ergebnis/factory-bot:1.4.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.4.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.3.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.1) (1 week ago)
