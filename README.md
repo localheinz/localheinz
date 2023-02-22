@@ -12,6 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
+- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (today)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (1 week ago)
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (2 weeks ago)
 - [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (3 weeks ago)
@@ -21,7 +22,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Creating releases with GitHub Actions](https://localheinz.com/articles/2022/01/24/creating-releases-with-github-actions/) (1 year ago)
 - [Wrapping it up](https://localheinz.com/articles/2021/12/31/wrapping-it-up/) (1 year ago)
 - [Creating Doctrine entities populated with fake data](https://localheinz.com/articles/2020/07/16/creating-doctrine-entities-populated-with-fake-data/) (2 years ago)
-- [Merging pull requests with GitHub Actions](https://localheinz.com/articles/2020/06/15/merging-pull-requests-with-github-actions/) (2 years ago)
 
 ### Recent releases I have contributed to
 
