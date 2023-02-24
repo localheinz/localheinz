@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (1 day ago)
+- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (2 days ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (1 week ago)
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (2 weeks ago)
 - [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (3 weeks ago)
@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.6.1`](https://github.com/stripe/stripe-php/releases/tag/v10.6.1) (2 days ago)
+- [`stripe/stripe-php:v10.7.0`](https://github.com/stripe/stripe-php/releases/tag/v10.7.0) (1 day ago)
 - [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (1 week ago)
 - [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.1.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.0) (1 week ago)
@@ -51,8 +51,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent sponsors on GitHub
 
-- [`@JesusValera`](https://github.com/JesusValera) (3 months ago)
-- [`@Chemaclass`](https://github.com/Chemaclass) (3 months ago)
+- [`@JesusValera`](https://github.com/JesusValera) (4 months ago)
+- [`@Chemaclass`](https://github.com/Chemaclass) (4 months ago)
 - [`@yesdevnull`](https://github.com/yesdevnull) (1 year ago)
 - [`@indeedeng`](https://github.com/indeedeng) (1 year ago)
 - [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (3 years ago)
