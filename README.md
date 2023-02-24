@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.7.0`](https://github.com/stripe/stripe-php/releases/tag/v10.7.0) (1 day ago)
+- [`stripe/stripe-php:v10.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.8.0-beta.1) (today)
 - [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (1 week ago)
 - [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.1.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.0) (1 week ago)
