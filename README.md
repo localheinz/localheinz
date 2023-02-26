@@ -57,7 +57,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@indeedeng`](https://github.com/indeedeng) (1 year ago)
 - [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (3 years ago)
 - [`@adamlundrigan`](https://github.com/adamlundrigan) (3 years ago)
-- [`@jeromegamez`](https://github.com/jeromegamez) (3 years ago)
 
 <hr>
 
