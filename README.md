@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/json-normalizer:4.0.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.0) (today)
 - [`nicmart/Tree:0.7.1`](https://github.com/nicmart/Tree/releases/tag/0.7.1) (2 days ago)
 - [`stripe/stripe-php:v10.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.8.0-beta.1) (2 days ago)
 - [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (1 week ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/php-cs-fixer-config:5.3.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.1) (2 weeks ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.14.4`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4) (2 weeks ago)
 - [`doctrine/DoctrineBundle:2.8.3`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.8.3) (2 weeks ago)
-- [`symfony/symfony:v6.2.6`](https://github.com/symfony/symfony/releases/tag/v6.2.6) (3 weeks ago)
 
 ### Recent followers on GitHub
 
