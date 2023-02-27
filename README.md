@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/composer-normalize:2.30.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.0) (1 day ago)
-- [`ergebnis/json-normalizer:4.0.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.0) (1 day ago)
+- [`ergebnis/composer-normalize:2.30.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.1) (today)
+- [`ergebnis/json-normalizer:4.0.1`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.1) (today)
 - [`nicmart/Tree:0.7.1`](https://github.com/nicmart/Tree/releases/tag/0.7.1) (3 days ago)
 - [`stripe/stripe-php:v10.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.8.0-beta.1) (3 days ago)
 - [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (1 week ago)
