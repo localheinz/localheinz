@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/front-matter:2.0.0`](https://github.com/ergebnis/front-matter/releases/tag/2.0.0) (today)
 - [`ergebnis/composer-normalize:2.30.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.1) (today)
 - [`ergebnis/json-normalizer:4.0.1`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.1) (today)
 - [`nicmart/Tree:0.7.1`](https://github.com/nicmart/Tree/releases/tag/0.7.1) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/phpunit-slow-test-detector:2.1.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.0) (2 weeks ago)
 - [`ergebnis/factory-bot:1.4.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.4.0) (2 weeks ago)
 - [`ergebnis/php-cs-fixer-config:5.3.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.1) (2 weeks ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.14.4`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.14.4) (2 weeks ago)
 
 ### Recent followers on GitHub
 
