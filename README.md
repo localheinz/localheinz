@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (today)
 - [`symfony/symfony:v6.2.7`](https://github.com/symfony/symfony/releases/tag/v6.2.7) (today)
 - [`ergebnis/composer-normalize:2.30.2`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.2) (1 day ago)
 - [`ergebnis/json-normalizer:4.0.2`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.2) (1 day ago)
-- [`ergebnis/front-matter:2.0.0`](https://github.com/ergebnis/front-matter/releases/tag/2.0.0) (1 day ago)
 - [`adbario/php-dot-notation:3.3.0`](https://github.com/adbario/php-dot-notation/releases/tag/3.3.0) (4 days ago)
 - [`nicmart/Tree:0.7.1`](https://github.com/nicmart/Tree/releases/tag/0.7.1) (4 days ago)
 - [`stripe/stripe-php:v10.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.8.0-beta.1) (4 days ago)
