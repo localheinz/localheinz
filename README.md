@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`symfony/symfony:v5.4.21`](https://github.com/symfony/symfony/releases/tag/v5.4.21) (today)
+- [`symfony/symfony:v6.2.7`](https://github.com/symfony/symfony/releases/tag/v6.2.7) (today)
 - [`ergebnis/composer-normalize:2.30.2`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.2) (1 day ago)
 - [`ergebnis/json-normalizer:4.0.2`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.2) (1 day ago)
 - [`ergebnis/front-matter:2.0.0`](https://github.com/ergebnis/front-matter/releases/tag/2.0.0) (1 day ago)
