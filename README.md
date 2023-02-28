@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`symfony/symfony:v5.4.21`](https://github.com/symfony/symfony/releases/tag/v5.4.21) (today)
 - [`ergebnis/composer-normalize:2.30.2`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.2) (1 day ago)
 - [`ergebnis/json-normalizer:4.0.2`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.2) (1 day ago)
 - [`ergebnis/front-matter:2.0.0`](https://github.com/ergebnis/front-matter/releases/tag/2.0.0) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (1 week ago)
 - [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (2 weeks ago)
 - [`ergebnis/phpunit-slow-test-detector:2.1.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.0) (2 weeks ago)
-- [`ergebnis/factory-bot:1.4.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.4.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
