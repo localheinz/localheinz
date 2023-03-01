@@ -47,7 +47,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@cumsoft`](https://github.com/cumsoft)
 - [`@easbarba`](https://github.com/easbarba)
 - [`@Sindou-dedv`](https://github.com/Sindou-dedv)
-- [`@swan1213`](https://github.com/swan1213)
+- [`@0x6d6c`](https://github.com/0x6d6c)
 
 ### Recent sponsors on GitHub
 
