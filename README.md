@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pimcore/data-importer:v1.7.4`](https://github.com/pimcore/data-importer/releases/tag/v1.7.4) (today)
 - [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (1 day ago)
 - [`symfony/symfony:v6.2.7`](https://github.com/symfony/symfony/releases/tag/v6.2.7) (1 day ago)
 - [`ergebnis/composer-normalize:2.30.2`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.2) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`stripe/stripe-php:v10.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.8.0-beta.1) (5 days ago)
 - [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (2 weeks ago)
 - [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (2 weeks ago)
-- [`ergebnis/phpunit-slow-test-detector:2.1.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
