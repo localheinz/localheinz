@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`stripe/stripe-php:v10.8.0`](https://github.com/stripe/stripe-php/releases/tag/v10.8.0) (today)
 - [`pimcore/data-importer:v1.7.4`](https://github.com/pimcore/data-importer/releases/tag/v1.7.4) (1 day ago)
 - [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (2 days ago)
 - [`symfony/symfony:v6.2.7`](https://github.com/symfony/symfony/releases/tag/v6.2.7) (2 days ago)
@@ -32,7 +33,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-normalizer:4.0.2`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.2) (3 days ago)
 - [`adbario/php-dot-notation:3.3.0`](https://github.com/adbario/php-dot-notation/releases/tag/3.3.0) (6 days ago)
 - [`nicmart/Tree:0.7.1`](https://github.com/nicmart/Tree/releases/tag/0.7.1) (6 days ago)
-- [`stripe/stripe-php:v10.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.8.0-beta.1) (6 days ago)
 - [`composer/composer:2.5.4`](https://github.com/composer/composer/releases/tag/2.5.4) (2 weeks ago)
 - [`genkgo/camt:2.4.0`](https://github.com/genkgo/camt/releases/tag/2.4.0) (2 weeks ago)
 
