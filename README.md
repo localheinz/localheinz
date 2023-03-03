@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@mgouguasse`](https://github.com/mgouguasse)
 - [`@konjoinfinity`](https://github.com/konjoinfinity)
 - [`@sergekukharev`](https://github.com/sergekukharev)
 - [`@codedge`](https://github.com/codedge)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@cumsoft`](https://github.com/cumsoft)
 - [`@easbarba`](https://github.com/easbarba)
 - [`@Sindou-dedv`](https://github.com/Sindou-dedv)
-- [`@0x6d6c`](https://github.com/0x6d6c)
 
 ### Recent sponsors on GitHub
 
