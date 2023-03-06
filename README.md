@@ -43,11 +43,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@konjoinfinity`](https://github.com/konjoinfinity)
 - [`@sergekukharev`](https://github.com/sergekukharev)
 - [`@codedge`](https://github.com/codedge)
-- [`@DGS1337`](https://github.com/DGS1337)
 - [`@jacuer`](https://github.com/jacuer)
 - [`@mteu`](https://github.com/mteu)
 - [`@cumsoft`](https://github.com/cumsoft)
 - [`@easbarba`](https://github.com/easbarba)
+- [`@Sindou-dedv`](https://github.com/Sindou-dedv)
 
 ### Recent sponsors on GitHub
 
