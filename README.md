@@ -17,9 +17,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (3 weeks ago)
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (1 month ago)
 - [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (1 month ago)
-- [Enhancing types](https://localheinz.com/articles/2022/09/20/enhancing-types/) (5 months ago)
+- [Enhancing types in PHP](https://localheinz.com/articles/2022/09/20/enhancing-types-in-php/) (5 months ago)
 - [Asserting the output of Symfony console commands](https://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (6 months ago)
-- [Naming constructors](https://localheinz.com/articles/2022/03/26/naming-constructors/) (11 months ago)
+- [Naming constructors in PHP](https://localheinz.com/articles/2022/03/26/naming-constructors-in-php/) (11 months ago)
 - [Creating releases with GitHub Actions](https://localheinz.com/articles/2022/01/24/creating-releases-with-github-actions/) (1 year ago)
 - [Wrapping it up](https://localheinz.com/articles/2021/12/31/wrapping-it-up/) (1 year ago)
 
