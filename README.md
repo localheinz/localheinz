@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (5 days ago)
+- [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (6 days ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (2 weeks ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (3 weeks ago)
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (1 month ago)
@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`spryker/docker-sdk:1.56.0`](https://github.com/spryker/docker-sdk/releases/tag/1.56.0) (5 days ago)
-- [`stripe/stripe-php:v10.9.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.9.0-beta.1) (6 days ago)
+- [`spryker/docker-sdk:1.56.0`](https://github.com/spryker/docker-sdk/releases/tag/1.56.0) (6 days ago)
+- [`stripe/stripe-php:v10.9.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.9.0-beta.1) (1 week ago)
 - [`pimcore/data-importer:v1.7.4`](https://github.com/pimcore/data-importer/releases/tag/v1.7.4) (1 week ago)
 - [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (1 week ago)
 - [`symfony/symfony:v6.2.7`](https://github.com/symfony/symfony/releases/tag/v6.2.7) (1 week ago)
