@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.9.0`](https://github.com/stripe/stripe-php/releases/tag/v10.9.0) (today)
+- [`stripe/stripe-php:v10.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.10.0-beta.1) (today)
 - [`spryker/docker-sdk:1.56.0`](https://github.com/spryker/docker-sdk/releases/tag/1.56.0) (6 days ago)
 - [`pimcore/data-importer:v1.7.4`](https://github.com/pimcore/data-importer/releases/tag/v1.7.4) (1 week ago)
 - [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (1 week ago)
