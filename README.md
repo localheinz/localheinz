@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (today)
+- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (1 day ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (1 week ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (2 weeks ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (3 weeks ago)
@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.10.0-beta.1) (1 day ago)
+- [`stripe/stripe-php:v10.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.10.0-beta.1) (2 days ago)
 - [`spryker/docker-sdk:1.56.0`](https://github.com/spryker/docker-sdk/releases/tag/1.56.0) (1 week ago)
 - [`pimcore/data-importer:v1.7.4`](https://github.com/pimcore/data-importer/releases/tag/v1.7.4) (1 week ago)
 - [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (1 week ago)
