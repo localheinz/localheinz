@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (2 days ago)
+- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (3 days ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (1 week ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (2 weeks ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (3 weeks ago)
@@ -25,15 +25,15 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.15.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.0) (today)
-- [`gacela-project/gacela:1.0.1`](https://github.com/gacela-project/gacela/releases/tag/1.0.1) (today)
-- [`stripe/stripe-php:v10.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.10.0-beta.1) (3 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.15.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.0) (1 day ago)
+- [`gacela-project/gacela:1.0.1`](https://github.com/gacela-project/gacela/releases/tag/1.0.1) (1 day ago)
+- [`stripe/stripe-php:v10.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.10.0-beta.1) (4 days ago)
 - [`spryker/docker-sdk:1.56.0`](https://github.com/spryker/docker-sdk/releases/tag/1.56.0) (1 week ago)
 - [`pimcore/data-importer:v1.7.4`](https://github.com/pimcore/data-importer/releases/tag/v1.7.4) (1 week ago)
 - [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (1 week ago)
 - [`symfony/symfony:v6.2.7`](https://github.com/symfony/symfony/releases/tag/v6.2.7) (1 week ago)
-- [`ergebnis/composer-normalize:2.30.2`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.2) (1 week ago)
-- [`ergebnis/json-normalizer:4.0.2`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.2) (1 week ago)
+- [`ergebnis/composer-normalize:2.30.2`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.2) (2 weeks ago)
+- [`ergebnis/json-normalizer:4.0.2`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.2) (2 weeks ago)
 - [`adbario/php-dot-notation:3.3.0`](https://github.com/adbario/php-dot-notation/releases/tag/3.3.0) (2 weeks ago)
 
 ### Recent followers on GitHub
