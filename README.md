@@ -12,9 +12,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (4 days ago)
+- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (5 days ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (1 week ago)
-- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (2 weeks ago)
+- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (3 weeks ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (4 weeks ago)
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (1 month ago)
 - [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (1 month ago)
@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.9.1`](https://github.com/stripe/stripe-php/releases/tag/v10.9.1) (today)
-- [`ergebnis/php-cs-fixer-config:5.3.3`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.3) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.15.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (1 day ago)
-- [`gacela-project/gacela:1.0.1`](https://github.com/gacela-project/gacela/releases/tag/1.0.1) (2 days ago)
+- [`stripe/stripe-php:v10.9.1`](https://github.com/stripe/stripe-php/releases/tag/v10.9.1) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:5.3.3`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.3) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.15.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (2 days ago)
+- [`gacela-project/gacela:1.0.1`](https://github.com/gacela-project/gacela/releases/tag/1.0.1) (3 days ago)
 - [`spryker/docker-sdk:1.56.0`](https://github.com/spryker/docker-sdk/releases/tag/1.56.0) (1 week ago)
-- [`pimcore/data-importer:v1.7.4`](https://github.com/pimcore/data-importer/releases/tag/v1.7.4) (1 week ago)
+- [`pimcore/data-importer:v1.7.4`](https://github.com/pimcore/data-importer/releases/tag/v1.7.4) (2 weeks ago)
 - [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (2 weeks ago)
 - [`symfony/symfony:v6.2.7`](https://github.com/symfony/symfony/releases/tag/v6.2.7) (2 weeks ago)
 - [`ergebnis/composer-normalize:2.30.2`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.2) (2 weeks ago)
