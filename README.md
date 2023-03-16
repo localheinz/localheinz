@@ -30,11 +30,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/php-cs-fixer-config:5.3.3`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.3) (2 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.15.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (3 days ago)
 - [`gacela-project/gacela:1.0.1`](https://github.com/gacela-project/gacela/releases/tag/1.0.1) (4 days ago)
+- [`pestphp/pest:v1.22.5`](https://github.com/pestphp/pest/releases/tag/v1.22.5) (1 week ago)
 - [`spryker/docker-sdk:1.56.0`](https://github.com/spryker/docker-sdk/releases/tag/1.56.0) (1 week ago)
 - [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (2 weeks ago)
 - [`symfony/symfony:v6.2.7`](https://github.com/symfony/symfony/releases/tag/v6.2.7) (2 weeks ago)
 - [`ergebnis/composer-normalize:2.30.2`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.2) (2 weeks ago)
-- [`ergebnis/json-normalizer:4.0.2`](https://github.com/ergebnis/json-normalizer/releases/tag/4.0.2) (2 weeks ago)
 
 ### Recent followers on GitHub
 
