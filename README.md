@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.11.0-beta.1) (today)
-- [`pimcore/data-importer:v1.7.5`](https://github.com/pimcore/data-importer/releases/tag/v1.7.5) (2 days ago)
-- [`ergebnis/php-cs-fixer-config:5.3.3`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.3) (3 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.15.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (4 days ago)
-- [`gacela-project/gacela:1.0.1`](https://github.com/gacela-project/gacela/releases/tag/1.0.1) (5 days ago)
-- [`pestphp/pest:v1.22.5`](https://github.com/pestphp/pest/releases/tag/v1.22.5) (2 weeks ago)
+- [`pestphp/pest:v1.22.6`](https://github.com/pestphp/pest/releases/tag/v1.22.6) (1 day ago)
+- [`stripe/stripe-php:v10.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.11.0-beta.1) (1 day ago)
+- [`pimcore/data-importer:v1.7.5`](https://github.com/pimcore/data-importer/releases/tag/v1.7.5) (3 days ago)
+- [`ergebnis/php-cs-fixer-config:5.3.3`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.3) (4 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.15.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (5 days ago)
+- [`gacela-project/gacela:1.0.1`](https://github.com/gacela-project/gacela/releases/tag/1.0.1) (6 days ago)
 - [`spryker/docker-sdk:1.56.0`](https://github.com/spryker/docker-sdk/releases/tag/1.56.0) (2 weeks ago)
 - [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (2 weeks ago)
 - [`symfony/symfony:v6.2.7`](https://github.com/symfony/symfony/releases/tag/v6.2.7) (2 weeks ago)
