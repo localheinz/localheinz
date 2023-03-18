@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpunit-slow-test-detector:2.1.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.1) (today)
 - [`pestphp/pest:v1.22.6`](https://github.com/pestphp/pest/releases/tag/v1.22.6) (1 day ago)
 - [`stripe/stripe-php:v10.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.11.0-beta.1) (1 day ago)
 - [`pimcore/data-importer:v1.7.5`](https://github.com/pimcore/data-importer/releases/tag/v1.7.5) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`spryker/docker-sdk:1.56.0`](https://github.com/spryker/docker-sdk/releases/tag/1.56.0) (2 weeks ago)
 - [`ergebnis/front-matter:2.1.0`](https://github.com/ergebnis/front-matter/releases/tag/2.1.0) (2 weeks ago)
 - [`symfony/symfony:v6.2.7`](https://github.com/symfony/symfony/releases/tag/v6.2.7) (2 weeks ago)
-- [`ergebnis/composer-normalize:2.30.2`](https://github.com/ergebnis/composer-normalize/releases/tag/2.30.2) (2 weeks ago)
 
 ### Recent followers on GitHub
 
