@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.1.0`](https://github.com/pestphp/pest/releases/tag/v2.1.0) (today)
 - [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (today)
 - [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (today)
 - [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (today)
-- [`pestphp/pest:v2.0.2`](https://github.com/pestphp/pest/releases/tag/v2.0.2) (1 day ago)
 - [`ergebnis/phpunit-slow-test-detector:2.1.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.1) (3 days ago)
 - [`stripe/stripe-php:v10.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.11.0-beta.1) (4 days ago)
 - [`pimcore/data-importer:v1.7.5`](https://github.com/pimcore/data-importer/releases/tag/v1.7.5) (6 days ago)
