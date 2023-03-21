@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@JustNawaf`](https://github.com/JustNawaf)
 - [`@Lukicdev`](https://github.com/Lukicdev)
 - [`@pleveris`](https://github.com/pleveris)
 - [`@rotfuchs`](https://github.com/rotfuchs)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@sergekukharev`](https://github.com/sergekukharev)
 - [`@codedge`](https://github.com/codedge)
 - [`@jacuer`](https://github.com/jacuer)
-- [`@mteu`](https://github.com/mteu)
 
 ### Recent sponsors on GitHub
 
