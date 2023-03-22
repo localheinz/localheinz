@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.1.0`](https://github.com/pestphp/pest/releases/tag/v2.1.0) (1 day ago)
+- [`pestphp/pest:v2.2.0`](https://github.com/pestphp/pest/releases/tag/v2.2.0) (today)
 - [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (1 day ago)
 - [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (1 day ago)
 - [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (1 day ago)
