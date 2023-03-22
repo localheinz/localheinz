@@ -12,6 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
+- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (today)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (4 days ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (1 week ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (2 weeks ago)
@@ -21,7 +22,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (1 month ago)
 - [Enhancing types in PHP](https://localheinz.com/articles/2022/09/20/enhancing-types-in-php/) (6 months ago)
 - [Asserting the output of Symfony console commands](https://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (6 months ago)
-- [Naming constructors in PHP](https://localheinz.com/articles/2022/03/26/naming-constructors-in-php/) (1 year ago)
 
 ### Recent releases I have contributed to
 
