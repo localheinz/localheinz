@@ -12,8 +12,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (today)
-- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (4 days ago)
+- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (1 day ago)
+- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (5 days ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (1 week ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (2 weeks ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (4 weeks ago)
@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.2.0`](https://github.com/pestphp/pest/releases/tag/v2.2.0) (today)
-- [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (1 day ago)
-- [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (1 day ago)
-- [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (1 day ago)
-- [`ergebnis/phpunit-slow-test-detector:2.1.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.1) (4 days ago)
-- [`stripe/stripe-php:v10.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.11.0-beta.1) (5 days ago)
+- [`pestphp/pest:v2.2.0`](https://github.com/pestphp/pest/releases/tag/v2.2.0) (1 day ago)
+- [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (2 days ago)
+- [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (2 days ago)
+- [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (2 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.1.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.1) (5 days ago)
+- [`stripe/stripe-php:v10.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.11.0-beta.1) (6 days ago)
 - [`pimcore/data-importer:v1.7.5`](https://github.com/pimcore/data-importer/releases/tag/v1.7.5) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.3.3`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.3) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.15.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (1 week ago)
