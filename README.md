@@ -25,19 +25,20 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.2.2`](https://github.com/pestphp/pest/releases/tag/v2.2.2) (today)
+- [`stripe/stripe-php:v10.11.0`](https://github.com/stripe/stripe-php/releases/tag/v10.11.0) (today)
 - [`doctrine/DoctrineBundle:2.9.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.0) (today)
-- [`pestphp/pest:v2.2.0`](https://github.com/pestphp/pest/releases/tag/v2.2.0) (1 day ago)
 - [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (2 days ago)
 - [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (2 days ago)
 - [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (2 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.1.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.1) (5 days ago)
-- [`stripe/stripe-php:v10.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.11.0-beta.1) (6 days ago)
 - [`pimcore/data-importer:v1.7.5`](https://github.com/pimcore/data-importer/releases/tag/v1.7.5) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.3.3`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.3) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.15.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.15.1) (1 week ago)
 
 ### Recent followers on GitHub
 
+- [`@Mahammadnajaf`](https://github.com/Mahammadnajaf)
 - [`@yhoungdev`](https://github.com/yhoungdev)
 - [`@JustNawaf`](https://github.com/JustNawaf)
 - [`@Lukicdev`](https://github.com/Lukicdev)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@mgouguasse`](https://github.com/mgouguasse)
 - [`@konjoinfinity`](https://github.com/konjoinfinity)
 - [`@sergekukharev`](https://github.com/sergekukharev)
-- [`@codedge`](https://github.com/codedge)
 
 ### Recent sponsors on GitHub
 
