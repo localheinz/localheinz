@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (3 days ago)
+- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (4 days ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (1 week ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (2 weeks ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (3 weeks ago)
@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.2.3`](https://github.com/pestphp/pest/releases/tag/v2.2.3) (1 day ago)
-- [`stripe/stripe-php:v10.12.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.12.0-beta.1) (2 days ago)
-- [`doctrine/DoctrineBundle:2.9.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.0) (2 days ago)
-- [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (4 days ago)
-- [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (4 days ago)
-- [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (4 days ago)
+- [`pestphp/pest:v2.2.3`](https://github.com/pestphp/pest/releases/tag/v2.2.3) (2 days ago)
+- [`stripe/stripe-php:v10.12.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.12.0-beta.1) (3 days ago)
+- [`doctrine/DoctrineBundle:2.9.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.0) (3 days ago)
+- [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (5 days ago)
+- [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (5 days ago)
+- [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (5 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.1.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.1) (1 week ago)
 - [`pimcore/data-importer:v1.7.5`](https://github.com/pimcore/data-importer/releases/tag/v1.7.5) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.3.3`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.3.3) (1 week ago)
@@ -51,8 +51,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent sponsors on GitHub
 
-- [`@JesusValera`](https://github.com/JesusValera) (4 months ago)
-- [`@Chemaclass`](https://github.com/Chemaclass) (4 months ago)
+- [`@JesusValera`](https://github.com/JesusValera) (5 months ago)
+- [`@Chemaclass`](https://github.com/Chemaclass) (5 months ago)
 - [`@yesdevnull`](https://github.com/yesdevnull) (1 year ago)
 - [`@indeedeng`](https://github.com/indeedeng) (1 year ago)
 - [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (3 years ago)
