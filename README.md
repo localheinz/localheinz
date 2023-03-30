@@ -19,16 +19,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (1 month ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (1 month ago)
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (1 month ago)
-- [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (1 month ago)
+- [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (2 months ago)
 - [Enhancing types in PHP](https://localheinz.com/articles/2022/09/20/enhancing-types-in-php/) (6 months ago)
 - [Asserting the output of Symfony console commands](https://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (7 months ago)
 
 ### Recent releases I have contributed to
 
-- [`spryker/docker-sdk:1.57.0`](https://github.com/spryker/docker-sdk/releases/tag/1.57.0) (today)
-- [`pestphp/pest:v2.3.0`](https://github.com/pestphp/pest/releases/tag/v2.3.0) (1 day ago)
-- [`stripe/stripe-php:v10.12.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.12.0-beta.1) (6 days ago)
-- [`doctrine/DoctrineBundle:2.9.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.0) (6 days ago)
+- [`spryker/docker-sdk:1.57.0`](https://github.com/spryker/docker-sdk/releases/tag/1.57.0) (1 day ago)
+- [`pestphp/pest:v2.3.0`](https://github.com/pestphp/pest/releases/tag/v2.3.0) (2 days ago)
+- [`stripe/stripe-php:v10.12.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.12.0-beta.1) (1 week ago)
+- [`doctrine/DoctrineBundle:2.9.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.0) (1 week ago)
 - [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (1 week ago)
 - [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (1 week ago)
 - [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (1 week ago)
