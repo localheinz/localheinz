@@ -13,7 +13,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (1 week ago)
-- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (1 week ago)
+- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 weeks ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (3 weeks ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (4 weeks ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (1 month ago)
@@ -25,15 +25,15 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`symfony/symfony:v6.2.8`](https://github.com/symfony/symfony/releases/tag/v6.2.8) (today)
-- [`stripe/stripe-php:v10.13.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.1) (1 day ago)
-- [`spryker/docker-sdk:1.57.0`](https://github.com/spryker/docker-sdk/releases/tag/1.57.0) (2 days ago)
-- [`pestphp/pest:v2.3.0`](https://github.com/pestphp/pest/releases/tag/v2.3.0) (3 days ago)
+- [`symfony/symfony:v6.2.8`](https://github.com/symfony/symfony/releases/tag/v6.2.8) (1 day ago)
+- [`stripe/stripe-php:v10.13.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.1) (2 days ago)
+- [`spryker/docker-sdk:1.57.0`](https://github.com/spryker/docker-sdk/releases/tag/1.57.0) (3 days ago)
+- [`pestphp/pest:v2.3.0`](https://github.com/pestphp/pest/releases/tag/v2.3.0) (4 days ago)
 - [`doctrine/DoctrineBundle:2.9.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.0) (1 week ago)
 - [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (1 week ago)
 - [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (1 week ago)
 - [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (1 week ago)
-- [`ergebnis/phpunit-slow-test-detector:2.1.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.1) (1 week ago)
+- [`ergebnis/phpunit-slow-test-detector:2.1.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.1) (2 weeks ago)
 - [`pimcore/data-importer:v1.7.5`](https://github.com/pimcore/data-importer/releases/tag/v1.7.5) (2 weeks ago)
 
 ### Recent followers on GitHub
