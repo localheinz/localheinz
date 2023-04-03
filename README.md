@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/php-cs-fixer-config:5.4.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.4.0) (today)
 - [`pestphp/pest:v2.4.0`](https://github.com/pestphp/pest/releases/tag/v2.4.0) (1 day ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.16.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0) (1 day ago)
 - [`symfony/symfony:v6.2.8`](https://github.com/symfony/symfony/releases/tag/v6.2.8) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (1 week ago)
 - [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (1 week ago)
 - [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (1 week ago)
-- [`ergebnis/phpunit-slow-test-detector:2.1.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.1.1) (2 weeks ago)
 
 ### Recent followers on GitHub
 
