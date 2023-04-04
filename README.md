@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@Weldhappy`](https://github.com/Weldhappy)
 - [`@Jo1oPedro`](https://github.com/Jo1oPedro)
 - [`@SandroMiguel`](https://github.com/SandroMiguel)
 - [`@Mahammadnajaf`](https://github.com/Mahammadnajaf)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@pleveris`](https://github.com/pleveris)
 - [`@rotfuchs`](https://github.com/rotfuchs)
 - [`@Neustradamus`](https://github.com/Neustradamus)
-- [`@mgouguasse`](https://github.com/mgouguasse)
 
 ### Recent sponsors on GitHub
 
