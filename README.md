@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/php-cs-fixer-config:5.4.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.4.0) (today)
-- [`pestphp/pest:v2.4.0`](https://github.com/pestphp/pest/releases/tag/v2.4.0) (1 day ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.16.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0) (1 day ago)
-- [`symfony/symfony:v6.2.8`](https://github.com/symfony/symfony/releases/tag/v6.2.8) (3 days ago)
-- [`stripe/stripe-php:v10.13.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.1) (4 days ago)
-- [`spryker/docker-sdk:1.57.0`](https://github.com/spryker/docker-sdk/releases/tag/1.57.0) (5 days ago)
+- [`ergebnis/php-cs-fixer-config:5.4.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.4.0) (1 day ago)
+- [`pestphp/pest:v2.4.0`](https://github.com/pestphp/pest/releases/tag/v2.4.0) (2 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.16.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0) (2 days ago)
+- [`symfony/symfony:v6.2.8`](https://github.com/symfony/symfony/releases/tag/v6.2.8) (4 days ago)
+- [`stripe/stripe-php:v10.13.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.1) (5 days ago)
+- [`spryker/docker-sdk:1.57.0`](https://github.com/spryker/docker-sdk/releases/tag/1.57.0) (6 days ago)
 - [`doctrine/DoctrineBundle:2.9.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.0) (1 week ago)
-- [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (1 week ago)
-- [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (1 week ago)
-- [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (1 week ago)
+- [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (2 weeks ago)
+- [`laravel/pint:v1.7.0`](https://github.com/laravel/pint/releases/tag/v1.7.0) (2 weeks ago)
+- [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (2 weeks ago)
 
 ### Recent followers on GitHub
 
