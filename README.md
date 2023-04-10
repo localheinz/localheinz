@@ -12,6 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (today)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 weeks ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (3 weeks ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (1 month ago)
@@ -21,7 +22,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (2 months ago)
 - [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (2 months ago)
 - [Enhancing types in PHP](https://localheinz.com/articles/2022/09/20/enhancing-types-in-php/) (6 months ago)
-- [Asserting the output of Symfony console commands](https://localheinz.com/articles/2022/08/29/asserting-the-output-of-symfony-console-commands/) (7 months ago)
 
 ### Recent releases I have contributed to
 
