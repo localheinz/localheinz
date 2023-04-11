@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@adiloztaser`](https://github.com/adiloztaser)
 - [`@bardware`](https://github.com/bardware)
 - [`@CheyennePepper`](https://github.com/CheyennePepper)
 - [`@Weldhappy`](https://github.com/Weldhappy)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@yhoungdev`](https://github.com/yhoungdev)
 - [`@JustNawaf`](https://github.com/JustNawaf)
 - [`@Lukicdev`](https://github.com/Lukicdev)
-- [`@pleveris`](https://github.com/pleveris)
 
 ### Recent sponsors on GitHub
 
