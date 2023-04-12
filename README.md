@@ -12,8 +12,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (1 day ago)
-- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 weeks ago)
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (2 days ago)
+- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (3 weeks ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (3 weeks ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (1 month ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (1 month ago)
@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/php-cs-fixer-config:5.5.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.0) (today)
-- [`stripe/stripe-php:v10.13.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.2) (5 days ago)
+- [`ergebnis/php-cs-fixer-config:5.5.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.0) (1 day ago)
+- [`stripe/stripe-php:v10.13.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.2) (6 days ago)
 - [`laravel/pint:v1.8.0`](https://github.com/laravel/pint/releases/tag/v1.8.0) (1 week ago)
 - [`pestphp/pest:v2.4.0`](https://github.com/pestphp/pest/releases/tag/v2.4.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.16.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0) (1 week ago)
 - [`symfony/symfony:v6.2.8`](https://github.com/symfony/symfony/releases/tag/v6.2.8) (1 week ago)
-- [`spryker/docker-sdk:1.57.0`](https://github.com/spryker/docker-sdk/releases/tag/1.57.0) (1 week ago)
+- [`spryker/docker-sdk:1.57.0`](https://github.com/spryker/docker-sdk/releases/tag/1.57.0) (2 weeks ago)
 - [`doctrine/DoctrineBundle:2.9.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.0) (2 weeks ago)
 - [`gacela-project/gacela:1.1.0`](https://github.com/gacela-project/gacela/releases/tag/1.1.0) (3 weeks ago)
 - [`composer/composer:2.5.5`](https://github.com/composer/composer/releases/tag/2.5.5) (3 weeks ago)
