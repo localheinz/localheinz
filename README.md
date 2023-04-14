@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@Teun-vdB`](https://github.com/Teun-vdB)
 - [`@adiloztaser`](https://github.com/adiloztaser)
 - [`@bardware`](https://github.com/bardware)
 - [`@CheyennePepper`](https://github.com/CheyennePepper)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Mahammadnajaf`](https://github.com/Mahammadnajaf)
 - [`@yhoungdev`](https://github.com/yhoungdev)
 - [`@JustNawaf`](https://github.com/JustNawaf)
-- [`@Lukicdev`](https://github.com/Lukicdev)
 
 ### Recent sponsors on GitHub
 
