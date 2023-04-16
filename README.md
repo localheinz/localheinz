@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@nevo-david`](https://github.com/nevo-david)
 - [`@lizetiha18`](https://github.com/lizetiha18)
 - [`@Teun-vdB`](https://github.com/Teun-vdB)
 - [`@adiloztaser`](https://github.com/adiloztaser)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Jo1oPedro`](https://github.com/Jo1oPedro)
 - [`@SandroMiguel`](https://github.com/SandroMiguel)
 - [`@Mahammadnajaf`](https://github.com/Mahammadnajaf)
-- [`@yhoungdev`](https://github.com/yhoungdev)
 
 ### Recent sponsors on GitHub
 
