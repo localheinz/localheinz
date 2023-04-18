@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (today)
 - [`laravel/pint:v1.9.0`](https://github.com/laravel/pint/releases/tag/v1.9.0) (today)
 - [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (today)
-- [`spryker/spryker-docs:04.2023.03`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.03) (today)
 - [`pestphp/pest:v2.5.0`](https://github.com/pestphp/pest/releases/tag/v2.5.0) (4 days ago)
 - [`doctrine/DoctrineBundle:2.9.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.1) (4 days ago)
 - [`symfony/symfony:v6.2.9`](https://github.com/symfony/symfony/releases/tag/v6.2.9) (5 days ago)
