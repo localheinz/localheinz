@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`spryker/spryker-docs:04.2023.02`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.02) (today)
+- [`spryker/spryker-docs:04.2023.03`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.03) (today)
 - [`pestphp/pest:v2.5.0`](https://github.com/pestphp/pest/releases/tag/v2.5.0) (4 days ago)
 - [`doctrine/DoctrineBundle:2.9.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.1) (4 days ago)
 - [`symfony/symfony:v6.2.9`](https://github.com/symfony/symfony/releases/tag/v6.2.9) (5 days ago)
