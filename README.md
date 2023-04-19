@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`gacela-project/gacela:1.1.1`](https://github.com/gacela-project/gacela/releases/tag/1.1.1) (today)
 - [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (1 day ago)
 - [`laravel/pint:v1.9.0`](https://github.com/laravel/pint/releases/tag/v1.9.0) (1 day ago)
 - [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`stripe/stripe-php:v10.13.0-beta.3`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.3) (6 days ago)
 - [`pimcore/data-importer:v1.8.0-BETA1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-BETA1) (6 days ago)
 - [`ergebnis/php-cs-fixer-config:5.5.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.0) (1 week ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.16.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.16.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
