@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@JackBortoneLab`](https://github.com/JackBortoneLab)
 - [`@DevRaeph`](https://github.com/DevRaeph)
 - [`@nevo-david`](https://github.com/nevo-david)
 - [`@lizetiha18`](https://github.com/lizetiha18)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@CheyennePepper`](https://github.com/CheyennePepper)
 - [`@Weldhappy`](https://github.com/Weldhappy)
 - [`@Jo1oPedro`](https://github.com/Jo1oPedro)
-- [`@SandroMiguel`](https://github.com/SandroMiguel)
 
 ### Recent sponsors on GitHub
 
