@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.13.0-beta.4`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.4) (1 day ago)
-- [`gacela-project/gacela:1.1.1`](https://github.com/gacela-project/gacela/releases/tag/1.1.1) (2 days ago)
-- [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (3 days ago)
-- [`laravel/pint:v1.9.0`](https://github.com/laravel/pint/releases/tag/v1.9.0) (3 days ago)
-- [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (3 days ago)
+- [`stripe/stripe-php:v10.13.0-beta.4`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.4) (2 days ago)
+- [`gacela-project/gacela:1.1.1`](https://github.com/gacela-project/gacela/releases/tag/1.1.1) (3 days ago)
+- [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (4 days ago)
+- [`laravel/pint:v1.9.0`](https://github.com/laravel/pint/releases/tag/v1.9.0) (4 days ago)
+- [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (4 days ago)
 - [`pestphp/pest:v2.5.0`](https://github.com/pestphp/pest/releases/tag/v2.5.0) (1 week ago)
 - [`doctrine/DoctrineBundle:2.9.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.1) (1 week ago)
 - [`symfony/symfony:v6.2.9`](https://github.com/symfony/symfony/releases/tag/v6.2.9) (1 week ago)
