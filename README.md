@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/php-cs-fixer-config:5.5.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.1) (today)
+- [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (today)
 - [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (1 day ago)
 - [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (2 days ago)
 - [`stripe/stripe-php:v10.13.0-beta.4`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.4) (1 week ago)
