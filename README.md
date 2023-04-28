@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`symfony/symfony:v6.2.10`](https://github.com/symfony/symfony/releases/tag/v6.2.10) (today)
 - [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (1 day ago)
 - [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (2 days ago)
 - [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (1 week ago)
 - [`pestphp/pest:v2.5.0`](https://github.com/pestphp/pest/releases/tag/v2.5.0) (2 weeks ago)
 - [`doctrine/DoctrineBundle:2.9.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.1) (2 weeks ago)
-- [`symfony/symfony:v6.2.9`](https://github.com/symfony/symfony/releases/tag/v6.2.9) (2 weeks ago)
 
 ### Recent followers on GitHub
 
