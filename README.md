@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@deptrai21`](https://github.com/deptrai21)
 - [`@jws1837`](https://github.com/jws1837)
 - [`@Chemaclass`](https://github.com/Chemaclass)
 - [`@JackBortoneLab`](https://github.com/JackBortoneLab)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Teun-vdB`](https://github.com/Teun-vdB)
 - [`@adiloztaser`](https://github.com/adiloztaser)
 - [`@bardware`](https://github.com/bardware)
-- [`@CheyennePepper`](https://github.com/CheyennePepper)
 
 ### Recent sponsors on GitHub
 
