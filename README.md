@@ -20,15 +20,15 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (2 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (2 months ago)
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (2 months ago)
-- [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (2 months ago)
+- [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (3 months ago)
 - [Enhancing types in PHP](https://localheinz.com/articles/2022/09/20/enhancing-types-in-php/) (7 months ago)
 
 ### Recent releases I have contributed to
 
-- [`symfony/symfony:v6.2.10`](https://github.com/symfony/symfony/releases/tag/v6.2.10) (today)
-- [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (1 day ago)
-- [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (2 days ago)
-- [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (3 days ago)
+- [`symfony/symfony:v6.2.10`](https://github.com/symfony/symfony/releases/tag/v6.2.10) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (2 days ago)
+- [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (3 days ago)
+- [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (4 days ago)
 - [`stripe/stripe-php:v10.13.0-beta.4`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.4) (1 week ago)
 - [`gacela-project/gacela:1.1.1`](https://github.com/gacela-project/gacela/releases/tag/1.1.1) (1 week ago)
 - [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (1 week ago)
