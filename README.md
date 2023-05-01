@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpstan-rules:2.0.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.0.0) (today)
 - [`genkgo/camt:2.5.0`](https://github.com/genkgo/camt/releases/tag/2.5.0) (today)
 - [`symfony/symfony:v6.3.0-BETA1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (today)
 - [`gacela-project/gacela:1.2.0`](https://github.com/gacela-project/gacela/releases/tag/1.2.0) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`stripe/stripe-php:v10.13.0-beta.4`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.4) (1 week ago)
 - [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (1 week ago)
 - [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (1 week ago)
-- [`pestphp/pest:v2.5.0`](https://github.com/pestphp/pest/releases/tag/v2.5.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
