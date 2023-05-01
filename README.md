@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (2 weeks ago)
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (3 weeks ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (1 month ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (1 month ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (1 month ago)
@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`gacela-project/gacela:1.2.0`](https://github.com/gacela-project/gacela/releases/tag/1.2.0) (1 day ago)
-- [`symfony/symfony:v6.2.10`](https://github.com/symfony/symfony/releases/tag/v6.2.10) (2 days ago)
-- [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (3 days ago)
-- [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (4 days ago)
-- [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (5 days ago)
+- [`gacela-project/gacela:1.2.0`](https://github.com/gacela-project/gacela/releases/tag/1.2.0) (2 days ago)
+- [`symfony/symfony:v6.2.10`](https://github.com/symfony/symfony/releases/tag/v6.2.10) (3 days ago)
+- [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (4 days ago)
+- [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (5 days ago)
+- [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (6 days ago)
 - [`stripe/stripe-php:v10.13.0-beta.4`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.4) (1 week ago)
 - [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (1 week ago)
 - [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (1 week ago)
