@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@mainick`](https://github.com/mainick)
 - [`@Agung-Legowo`](https://github.com/Agung-Legowo)
 - [`@mvhirsch`](https://github.com/mvhirsch)
 - [`@deptrai21`](https://github.com/deptrai21)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@DevRaeph`](https://github.com/DevRaeph)
 - [`@nevo-david`](https://github.com/nevo-david)
 - [`@lizetiha18`](https://github.com/lizetiha18)
-- [`@Teun-vdB`](https://github.com/Teun-vdB)
 
 ### Recent sponsors on GitHub
 
