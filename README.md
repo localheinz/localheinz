@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`symfony/symfony:v6.3.0-BETA1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (today)
 - [`gacela-project/gacela:1.2.0`](https://github.com/gacela-project/gacela/releases/tag/1.2.0) (2 days ago)
-- [`symfony/symfony:v6.2.10`](https://github.com/symfony/symfony/releases/tag/v6.2.10) (3 days ago)
 - [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (4 days ago)
 - [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (5 days ago)
 - [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (6 days ago)
