@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`genkgo/camt:2.5.0`](https://github.com/genkgo/camt/releases/tag/2.5.0) (today)
 - [`symfony/symfony:v6.3.0-BETA1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (today)
 - [`gacela-project/gacela:1.2.0`](https://github.com/gacela-project/gacela/releases/tag/1.2.0) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (4 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (1 week ago)
 - [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (1 week ago)
 - [`pestphp/pest:v2.5.0`](https://github.com/pestphp/pest/releases/tag/v2.5.0) (2 weeks ago)
-- [`doctrine/DoctrineBundle:2.9.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.9.1) (2 weeks ago)
 
 ### Recent followers on GitHub
 
