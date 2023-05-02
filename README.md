@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`spryker/spryker-docs:04.2023.05`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.05) (today)
 - [`ergebnis/phpstan-rules:2.0.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.0.0) (1 day ago)
 - [`genkgo/camt:2.5.0`](https://github.com/genkgo/camt/releases/tag/2.5.0) (1 day ago)
 - [`symfony/symfony:v6.3.0-BETA1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (1 day ago)
@@ -33,7 +34,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (6 days ago)
 - [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (1 week ago)
 - [`stripe/stripe-php:v10.13.0-beta.4`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.4) (1 week ago)
-- [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (2 weeks ago)
 - [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (2 weeks ago)
 
 ### Recent followers on GitHub
