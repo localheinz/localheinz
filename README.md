@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (today)
 - [`ergebnis/json-normalizer:4.1.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.1.0) (today)
 - [`spryker/spryker-docs:04.2023.05`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.05) (today)
 - [`ergebnis/phpstan-rules:2.0.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.0.0) (1 day ago)
@@ -34,10 +35,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (5 days ago)
 - [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (6 days ago)
 - [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (1 week ago)
-- [`stripe/stripe-php:v10.13.0-beta.4`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.4) (1 week ago)
 
 ### Recent followers on GitHub
 
+- [`@qdequippe`](https://github.com/qdequippe)
 - [`@mainick`](https://github.com/mainick)
 - [`@Agung-Legowo`](https://github.com/Agung-Legowo)
 - [`@mvhirsch`](https://github.com/mvhirsch)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@JackBortoneLab`](https://github.com/JackBortoneLab)
 - [`@DevRaeph`](https://github.com/DevRaeph)
 - [`@nevo-david`](https://github.com/nevo-david)
-- [`@lizetiha18`](https://github.com/lizetiha18)
 
 ### Recent sponsors on GitHub
 
