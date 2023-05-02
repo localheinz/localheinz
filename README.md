@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@esin`](https://github.com/esin)
 - [`@qdequippe`](https://github.com/qdequippe)
 - [`@mainick`](https://github.com/mainick)
 - [`@Agung-Legowo`](https://github.com/Agung-Legowo)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Chemaclass`](https://github.com/Chemaclass)
 - [`@JackBortoneLab`](https://github.com/JackBortoneLab)
 - [`@DevRaeph`](https://github.com/DevRaeph)
-- [`@nevo-david`](https://github.com/nevo-david)
 
 ### Recent sponsors on GitHub
 
