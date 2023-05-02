@@ -16,7 +16,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (1 month ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (1 month ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (1 month ago)
-- [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (1 month ago)
+- [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (2 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (2 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (2 months ago)
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (2 months ago)
@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpstan-rules:2.0.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.0.0) (today)
-- [`genkgo/camt:2.5.0`](https://github.com/genkgo/camt/releases/tag/2.5.0) (today)
-- [`symfony/symfony:v6.3.0-BETA1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (today)
-- [`gacela-project/gacela:1.2.0`](https://github.com/gacela-project/gacela/releases/tag/1.2.0) (2 days ago)
-- [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (4 days ago)
-- [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (5 days ago)
-- [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (6 days ago)
+- [`ergebnis/phpstan-rules:2.0.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.0.0) (1 day ago)
+- [`genkgo/camt:2.5.0`](https://github.com/genkgo/camt/releases/tag/2.5.0) (1 day ago)
+- [`symfony/symfony:v6.3.0-BETA1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (1 day ago)
+- [`gacela-project/gacela:1.2.0`](https://github.com/gacela-project/gacela/releases/tag/1.2.0) (3 days ago)
+- [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (5 days ago)
+- [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (6 days ago)
+- [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (1 week ago)
 - [`stripe/stripe-php:v10.13.0-beta.4`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0-beta.4) (1 week ago)
-- [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (1 week ago)
-- [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (1 week ago)
+- [`spryker/spryker-docs:04.2023.04`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.04) (2 weeks ago)
+- [`phpspec/prophecy-phpunit:v2.0.2`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.0.2) (2 weeks ago)
 
 ### Recent followers on GitHub
 
