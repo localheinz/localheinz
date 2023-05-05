@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (2 days ago)
-- [`ergebnis/json-normalizer:4.1.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.1.0) (2 days ago)
-- [`spryker/spryker-docs:04.2023.05`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.05) (2 days ago)
-- [`ergebnis/phpstan-rules:2.0.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.0.0) (3 days ago)
-- [`genkgo/camt:2.5.0`](https://github.com/genkgo/camt/releases/tag/2.5.0) (3 days ago)
-- [`symfony/symfony:v6.3.0-BETA1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (3 days ago)
-- [`gacela-project/gacela:1.2.0`](https://github.com/gacela-project/gacela/releases/tag/1.2.0) (5 days ago)
+- [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (3 days ago)
+- [`ergebnis/json-normalizer:4.1.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.1.0) (3 days ago)
+- [`spryker/spryker-docs:04.2023.05`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.05) (3 days ago)
+- [`ergebnis/phpstan-rules:2.0.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.0.0) (4 days ago)
+- [`genkgo/camt:2.5.0`](https://github.com/genkgo/camt/releases/tag/2.5.0) (4 days ago)
+- [`symfony/symfony:v6.3.0-BETA1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA1) (4 days ago)
+- [`gacela-project/gacela:1.2.0`](https://github.com/gacela-project/gacela/releases/tag/1.2.0) (6 days ago)
 - [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (1 week ago)
 - [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (1 week ago)
 - [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (1 week ago)
