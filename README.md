@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (today)
 - [`symfony/symfony:v6.3.0-BETA2`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (1 day ago)
 - [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (6 days ago)
 - [`ergebnis/json-normalizer:4.1.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.1.0) (6 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`gacela-project/gacela:1.2.0`](https://github.com/gacela-project/gacela/releases/tag/1.2.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (1 week ago)
 - [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (1 week ago)
-- [`laravel/pint:v1.10.0`](https://github.com/laravel/pint/releases/tag/v1.10.0) (1 week ago)
 
 ### Recent followers on GitHub
 
