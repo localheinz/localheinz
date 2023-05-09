@@ -15,7 +15,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (4 weeks ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (1 month ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (1 month ago)
-- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (1 month ago)
+- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (2 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (2 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (2 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (2 months ago)
@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`gacela-project/gacela:1.3.0`](https://github.com/gacela-project/gacela/releases/tag/1.3.0) (today)
-- [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (today)
-- [`symfony/symfony:v6.3.0-BETA2`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (1 day ago)
-- [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (6 days ago)
-- [`ergebnis/json-normalizer:4.1.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.1.0) (6 days ago)
-- [`spryker/spryker-docs:04.2023.05`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.05) (6 days ago)
+- [`gacela-project/gacela:1.3.0`](https://github.com/gacela-project/gacela/releases/tag/1.3.0) (1 day ago)
+- [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (1 day ago)
+- [`symfony/symfony:v6.3.0-BETA2`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (2 days ago)
+- [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (1 week ago)
+- [`ergebnis/json-normalizer:4.1.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.1.0) (1 week ago)
+- [`spryker/spryker-docs:04.2023.05`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.05) (1 week ago)
 - [`ergebnis/phpstan-rules:2.0.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.0.0) (1 week ago)
 - [`genkgo/camt:2.5.0`](https://github.com/genkgo/camt/releases/tag/2.5.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (1 week ago)
