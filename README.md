@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`teapot-php/status-code:2.0.1`](https://github.com/teapot-php/status-code/releases/tag/2.0.1) (today)
+- [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (today)
 - [`gacela-project/gacela:1.3.0`](https://github.com/gacela-project/gacela/releases/tag/1.3.0) (3 days ago)
 - [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (3 days ago)
 - [`symfony/symfony:v6.3.0-BETA2`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (4 days ago)
