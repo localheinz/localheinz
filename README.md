@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.13.0`](https://github.com/stripe/stripe-php/releases/tag/v10.13.0) (today)
+- [`stripe/stripe-php:v10.14.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.1) (today)
 - [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (today)
 - [`gacela-project/gacela:1.3.0`](https://github.com/gacela-project/gacela/releases/tag/1.3.0) (3 days ago)
 - [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (3 days ago)
