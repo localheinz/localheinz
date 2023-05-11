@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`teapot-php/status-code:2.0.1`](https://github.com/teapot-php/status-code/releases/tag/2.0.1) (today)
 - [`gacela-project/gacela:1.3.0`](https://github.com/gacela-project/gacela/releases/tag/1.3.0) (3 days ago)
 - [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (3 days ago)
 - [`symfony/symfony:v6.3.0-BETA2`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (4 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/phpstan-rules:2.0.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.0.0) (1 week ago)
 - [`genkgo/camt:2.5.0`](https://github.com/genkgo/camt/releases/tag/2.5.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.5.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.5.2) (2 weeks ago)
-- [`pimcore/data-importer:v1.8.0-RC1`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0-RC1) (2 weeks ago)
 
 ### Recent followers on GitHub
 
