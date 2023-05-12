@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (1 day ago)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (2 days ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (1 month ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (1 month ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (1 month ago)
@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.14.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.1) (today)
-- [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (today)
-- [`gacela-project/gacela:1.3.0`](https://github.com/gacela-project/gacela/releases/tag/1.3.0) (3 days ago)
-- [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (3 days ago)
-- [`symfony/symfony:v6.3.0-BETA2`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (4 days ago)
+- [`stripe/stripe-php:v10.14.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.1) (1 day ago)
+- [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (1 day ago)
+- [`gacela-project/gacela:1.3.0`](https://github.com/gacela-project/gacela/releases/tag/1.3.0) (4 days ago)
+- [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (4 days ago)
+- [`symfony/symfony:v6.3.0-BETA2`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA2) (5 days ago)
 - [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (1 week ago)
 - [`ergebnis/json-normalizer:4.1.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.1.0) (1 week ago)
 - [`spryker/spryker-docs:04.2023.05`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.05) (1 week ago)
