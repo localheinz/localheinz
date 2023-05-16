@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pimcore/data-importer:v1.8.0`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0) (today)
 - [`symfony/symfony:v6.3.0-BETA3`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3) (3 days ago)
 - [`pestphp/pest:v2.6.1`](https://github.com/pestphp/pest/releases/tag/v2.6.1) (4 days ago)
 - [`stripe/stripe-php:v10.14.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.1) (5 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (2 weeks ago)
 - [`ergebnis/json-normalizer:4.1.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.1.0) (2 weeks ago)
 - [`spryker/spryker-docs:04.2023.05`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.05) (2 weeks ago)
-- [`ergebnis/phpstan-rules:2.0.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.0.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
