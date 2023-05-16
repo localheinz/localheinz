@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@Irfan-Majid`](https://github.com/Irfan-Majid)
 - [`@mitsxu`](https://github.com/mitsxu)
 - [`@cspray`](https://github.com/cspray)
 - [`@B0bbyD0llar`](https://github.com/B0bbyD0llar)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Agung-Legowo`](https://github.com/Agung-Legowo)
 - [`@mvhirsch`](https://github.com/mvhirsch)
 - [`@deptrai21`](https://github.com/deptrai21)
-- [`@jws1837`](https://github.com/jws1837)
 
 ### Recent sponsors on GitHub
 
