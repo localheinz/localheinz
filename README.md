@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/php-cs-fixer-config:5.6.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.6.0) (today)
 - [`pimcore/data-importer:v1.8.0`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0) (1 day ago)
 - [`symfony/symfony:v6.3.0-BETA3`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3) (4 days ago)
 - [`pestphp/pest:v2.6.1`](https://github.com/pestphp/pest/releases/tag/v2.6.1) (5 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (1 week ago)
 - [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (2 weeks ago)
 - [`ergebnis/json-normalizer:4.1.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.1.0) (2 weeks ago)
-- [`spryker/spryker-docs:04.2023.05`](https://github.com/spryker/spryker-docs/releases/tag/04.2023.05) (2 weeks ago)
 
 ### Recent followers on GitHub
 
