@@ -14,7 +14,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (1 week ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (1 month ago)
-- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (1 month ago)
+- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (2 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (2 months ago)
@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (today)
-- [`stripe/stripe-php:v10.14.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.2) (1 day ago)
-- [`ergebnis/php-cs-fixer-config:5.6.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.6.0) (3 days ago)
-- [`pimcore/data-importer:v1.8.0`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0) (4 days ago)
+- [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (1 day ago)
+- [`stripe/stripe-php:v10.14.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.2) (2 days ago)
+- [`ergebnis/php-cs-fixer-config:5.6.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.6.0) (4 days ago)
+- [`pimcore/data-importer:v1.8.0`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0) (5 days ago)
 - [`symfony/symfony:v6.3.0-BETA3`](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3) (1 week ago)
 - [`pestphp/pest:v2.6.1`](https://github.com/pestphp/pest/releases/tag/v2.6.1) (1 week ago)
 - [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (1 week ago)
