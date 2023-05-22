@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (today)
 - [`symfony/symfony:v6.3.0-RC1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC1) (today)
 - [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (2 days ago)
 - [`stripe/stripe-php:v10.14.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.2) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (1 week ago)
 - [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (2 weeks ago)
 - [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (2 weeks ago)
-- [`ergebnis/json-normalizer:4.1.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.1.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
