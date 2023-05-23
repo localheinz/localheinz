@@ -18,23 +18,23 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (2 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (2 months ago)
-- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (2 months ago)
+- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (3 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (3 months ago)
 - [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (3 months ago)
 - [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (3 months ago)
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (today)
-- [`symfony/symfony:v6.3.0-RC1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC1) (today)
-- [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (2 days ago)
-- [`stripe/stripe-php:v10.14.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.2) (3 days ago)
-- [`ergebnis/php-cs-fixer-config:5.6.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.6.0) (5 days ago)
-- [`pimcore/data-importer:v1.8.0`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0) (6 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (1 day ago)
+- [`symfony/symfony:v6.3.0-RC1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC1) (1 day ago)
+- [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (3 days ago)
+- [`stripe/stripe-php:v10.14.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.2) (4 days ago)
+- [`ergebnis/php-cs-fixer-config:5.6.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.6.0) (6 days ago)
+- [`pimcore/data-importer:v1.8.0`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0) (1 week ago)
 - [`pestphp/pest:v2.6.1`](https://github.com/pestphp/pest/releases/tag/v2.6.1) (1 week ago)
 - [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (1 week ago)
 - [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (2 weeks ago)
-- [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (2 weeks ago)
+- [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (3 weeks ago)
 
 ### Recent followers on GitHub
 
