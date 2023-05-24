@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`composer/composer:2.5.6`](https://github.com/composer/composer/releases/tag/2.5.6) (today)
 - [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (1 day ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (2 days ago)
 - [`symfony/symfony:v6.3.0-RC1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC1) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`pestphp/pest:v2.6.1`](https://github.com/pestphp/pest/releases/tag/v2.6.1) (1 week ago)
 - [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (1 week ago)
 - [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (2 weeks ago)
-- [`ergebnis/composer-normalize:2.31.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.31.0) (3 weeks ago)
 
 ### Recent followers on GitHub
 
