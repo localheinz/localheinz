@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (1 week ago)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (2 weeks ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (1 month ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 months ago)
@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (1 day ago)
-- [`symfony/symfony:v6.3.0-RC1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC1) (1 day ago)
-- [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (3 days ago)
-- [`stripe/stripe-php:v10.14.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.2) (4 days ago)
+- [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (2 days ago)
+- [`symfony/symfony:v6.3.0-RC1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC1) (2 days ago)
+- [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (4 days ago)
+- [`stripe/stripe-php:v10.14.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.2) (5 days ago)
 - [`pimcore/data-importer:v1.8.0`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0) (1 week ago)
 - [`pestphp/pest:v2.6.1`](https://github.com/pestphp/pest/releases/tag/v2.6.1) (1 week ago)
 - [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (1 week ago)
