@@ -25,15 +25,15 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`composer/composer:2.5.7`](https://github.com/composer/composer/releases/tag/2.5.7) (today)
-- [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (1 day ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (2 days ago)
-- [`symfony/symfony:v6.3.0-RC1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC1) (2 days ago)
-- [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (4 days ago)
-- [`stripe/stripe-php:v10.14.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.2) (5 days ago)
+- [`composer/composer:2.5.7`](https://github.com/composer/composer/releases/tag/2.5.7) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (2 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (3 days ago)
+- [`symfony/symfony:v6.3.0-RC1`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC1) (3 days ago)
+- [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (5 days ago)
+- [`stripe/stripe-php:v10.14.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.14.0-beta.2) (6 days ago)
 - [`pimcore/data-importer:v1.8.0`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0) (1 week ago)
 - [`pestphp/pest:v2.6.1`](https://github.com/pestphp/pest/releases/tag/v2.6.1) (1 week ago)
-- [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (1 week ago)
+- [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (2 weeks ago)
 - [`spryker/docker-sdk:1.58.0`](https://github.com/spryker/docker-sdk/releases/tag/1.58.0) (2 weeks ago)
 
 ### Recent followers on GitHub
@@ -51,8 +51,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent sponsors on GitHub
 
-- [`@JesusValera`](https://github.com/JesusValera) (6 months ago)
-- [`@Chemaclass`](https://github.com/Chemaclass) (6 months ago)
+- [`@JesusValera`](https://github.com/JesusValera) (7 months ago)
+- [`@Chemaclass`](https://github.com/Chemaclass) (7 months ago)
 - [`@yesdevnull`](https://github.com/yesdevnull) (1 year ago)
 - [`@indeedeng`](https://github.com/indeedeng) (1 year ago)
 - [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (3 years ago)
