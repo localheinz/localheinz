@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@matthiashamacher`](https://github.com/matthiashamacher)
 - [`@Mr-Chehata`](https://github.com/Mr-Chehata)
 - [`@tareqas`](https://github.com/tareqas)
 - [`@matyo91`](https://github.com/matyo91)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@B0bbyD0llar`](https://github.com/B0bbyD0llar)
 - [`@esin`](https://github.com/esin)
 - [`@qdequippe`](https://github.com/qdequippe)
-- [`@mainick`](https://github.com/mainick)
 
 ### Recent sponsors on GitHub
 
