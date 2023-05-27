@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`symfony/symfony:v5.4.24`](https://github.com/symfony/symfony/releases/tag/v5.4.24) (today)
+- [`symfony/symfony:v6.3.0-RC2`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2) (today)
 - [`ergebnis/phpunit-slow-test-detector:2.2.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.2.0) (1 day ago)
 - [`stripe/stripe-php:v10.15.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.1) (2 days ago)
 - [`composer/composer:2.5.7`](https://github.com/composer/composer/releases/tag/2.5.7) (3 days ago)
