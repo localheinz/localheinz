@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (today)
 - [`symfony/symfony:v6.3.0-RC2`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2) (3 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.2.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.2.0) (4 days ago)
 - [`stripe/stripe-php:v10.15.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.1) (5 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (1 week ago)
 - [`pimcore/data-importer:v1.8.0`](https://github.com/pimcore/data-importer/releases/tag/v1.8.0) (2 weeks ago)
 - [`pestphp/pest:v2.6.1`](https://github.com/pestphp/pest/releases/tag/v2.6.1) (2 weeks ago)
-- [`teapot-php/status-code:2.1.0`](https://github.com/teapot-php/status-code/releases/tag/2.1.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
