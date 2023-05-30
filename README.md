@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (today)
 - [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (today)
 - [`symfony/symfony:v6.3.0-RC2`](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC2) (3 days ago)
-- [`ergebnis/phpunit-slow-test-detector:2.2.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.2.0) (4 days ago)
 - [`stripe/stripe-php:v10.15.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.1) (5 days ago)
 - [`composer/composer:2.5.7`](https://github.com/composer/composer/releases/tag/2.5.7) (6 days ago)
 - [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (1 week ago)
