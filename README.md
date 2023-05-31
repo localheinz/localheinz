@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (2 weeks ago)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (3 weeks ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (1 month ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 months ago)
@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (today)
-- [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (today)
-- [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (today)
-- [`stripe/stripe-php:v10.15.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.1) (5 days ago)
-- [`composer/composer:2.5.7`](https://github.com/composer/composer/releases/tag/2.5.7) (6 days ago)
+- [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (1 day ago)
+- [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (1 day ago)
+- [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (1 day ago)
+- [`stripe/stripe-php:v10.15.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.1) (6 days ago)
+- [`composer/composer:2.5.7`](https://github.com/composer/composer/releases/tag/2.5.7) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (1 week ago)
 - [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (1 week ago)
