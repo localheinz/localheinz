@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@DvDty`](https://github.com/DvDty)
 - [`@bram-pkg`](https://github.com/bram-pkg)
 - [`@rbiya`](https://github.com/rbiya)
 - [`@saundefined`](https://github.com/saundefined)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@matyo91`](https://github.com/matyo91)
 - [`@Irfan-Majid`](https://github.com/Irfan-Majid)
 - [`@mitsxu`](https://github.com/mitsxu)
-- [`@cspray`](https://github.com/cspray)
 
 ### Recent sponsors on GitHub
 
