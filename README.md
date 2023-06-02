@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@MathiasReker`](https://github.com/MathiasReker)
 - [`@DvDty`](https://github.com/DvDty)
 - [`@bram-pkg`](https://github.com/bram-pkg)
 - [`@rbiya`](https://github.com/rbiya)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@tareqas`](https://github.com/tareqas)
 - [`@matyo91`](https://github.com/matyo91)
 - [`@Irfan-Majid`](https://github.com/Irfan-Majid)
-- [`@mitsxu`](https://github.com/mitsxu)
 
 ### Recent sponsors on GitHub
 
