@@ -20,19 +20,19 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (3 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (3 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (3 months ago)
-- [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (3 months ago)
+- [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (4 months ago)
 - [Documenting namespaces for test code in composer.json](https://localheinz.com/articles/2023/01/29/documenting-namespaces-for-test-code-in-composer.json/) (4 months ago)
 
 ### Recent releases I have contributed to
 
-- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (today)
-- [`stripe/stripe-php:v10.15.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.2) (4 days ago)
-- [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (5 days ago)
-- [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (6 days ago)
-- [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (6 days ago)
-- [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (6 days ago)
+- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (1 day ago)
+- [`stripe/stripe-php:v10.15.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.2) (5 days ago)
+- [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (6 days ago)
+- [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (1 week ago)
+- [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (1 week ago)
+- [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (1 week ago)
 - [`composer/composer:2.5.7`](https://github.com/composer/composer/releases/tag/2.5.7) (1 week ago)
-- [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (1 week ago)
+- [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (2 weeks ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (2 weeks ago)
 - [`gacela-project/gacela:1.4.0`](https://github.com/gacela-project/gacela/releases/tag/1.4.0) (2 weeks ago)
 
