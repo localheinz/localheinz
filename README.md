@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (3 weeks ago)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (4 weeks ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (1 month ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 months ago)
@@ -25,14 +25,14 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`laravel/pint:v1.10.1`](https://github.com/laravel/pint/releases/tag/v1.10.1) (today)
-- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (1 day ago)
-- [`stripe/stripe-php:v10.15.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.2) (5 days ago)
-- [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (6 days ago)
+- [`laravel/pint:v1.10.1`](https://github.com/laravel/pint/releases/tag/v1.10.1) (1 day ago)
+- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (2 days ago)
+- [`stripe/stripe-php:v10.15.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.2) (6 days ago)
+- [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (1 week ago)
 - [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (1 week ago)
 - [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (1 week ago)
-- [`composer/composer:2.5.7`](https://github.com/composer/composer/releases/tag/2.5.7) (1 week ago)
+- [`composer/composer:2.5.7`](https://github.com/composer/composer/releases/tag/2.5.7) (2 weeks ago)
 - [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (2 weeks ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (2 weeks ago)
 
