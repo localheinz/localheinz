@@ -16,7 +16,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (1 month ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 months ago)
-- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (2 months ago)
+- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (3 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (3 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (3 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (3 months ago)
@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`laravel/pint:v1.10.1`](https://github.com/laravel/pint/releases/tag/v1.10.1) (1 day ago)
-- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (2 days ago)
-- [`stripe/stripe-php:v10.15.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.2) (6 days ago)
+- [`laravel/pint:v1.10.1`](https://github.com/laravel/pint/releases/tag/v1.10.1) (2 days ago)
+- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (3 days ago)
+- [`stripe/stripe-php:v10.15.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.2) (1 week ago)
 - [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (1 week ago)
 - [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (1 week ago)
@@ -54,7 +54,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@JesusValera`](https://github.com/JesusValera) (7 months ago)
 - [`@Chemaclass`](https://github.com/Chemaclass) (7 months ago)
 - [`@yesdevnull`](https://github.com/yesdevnull) (1 year ago)
-- [`@indeedeng`](https://github.com/indeedeng) (1 year ago)
+- [`@indeedeng`](https://github.com/indeedeng) (2 years ago)
 - [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (3 years ago)
 - [`@adamlundrigan`](https://github.com/adamlundrigan) (3 years ago)
 
