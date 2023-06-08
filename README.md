@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.6.3`](https://github.com/pestphp/pest/releases/tag/v2.6.3) (today)
 - [`laravel/pint:v1.10.1`](https://github.com/laravel/pint/releases/tag/v1.10.1) (2 days ago)
 - [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (3 days ago)
 - [`stripe/stripe-php:v10.15.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0-beta.2) (1 week ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (1 week ago)
 - [`composer/composer:2.5.7`](https://github.com/composer/composer/releases/tag/2.5.7) (2 weeks ago)
 - [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (2 weeks ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.17.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.17.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
