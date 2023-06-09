@@ -12,8 +12,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (4 weeks ago)
-- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (1 month ago)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (1 month ago)
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (2 months ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (3 months ago)
@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (today)
-- [`pestphp/pest:v2.6.3`](https://github.com/pestphp/pest/releases/tag/v2.6.3) (today)
-- [`laravel/pint:v1.10.1`](https://github.com/laravel/pint/releases/tag/v1.10.1) (2 days ago)
-- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (3 days ago)
+- [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (1 day ago)
+- [`pestphp/pest:v2.6.3`](https://github.com/pestphp/pest/releases/tag/v2.6.3) (1 day ago)
+- [`laravel/pint:v1.10.1`](https://github.com/laravel/pint/releases/tag/v1.10.1) (3 days ago)
+- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (4 days ago)
 - [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (1 week ago)
 - [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (1 week ago)
