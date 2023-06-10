@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`composer/composer:2.5.8`](https://github.com/composer/composer/releases/tag/2.5.8) (today)
-- [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (1 day ago)
-- [`pestphp/pest:v2.6.3`](https://github.com/pestphp/pest/releases/tag/v2.6.3) (1 day ago)
-- [`laravel/pint:v1.10.1`](https://github.com/laravel/pint/releases/tag/v1.10.1) (3 days ago)
-- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (4 days ago)
+- [`composer/composer:2.5.8`](https://github.com/composer/composer/releases/tag/2.5.8) (1 day ago)
+- [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (2 days ago)
+- [`pestphp/pest:v2.6.3`](https://github.com/pestphp/pest/releases/tag/v2.6.3) (2 days ago)
+- [`laravel/pint:v1.10.1`](https://github.com/laravel/pint/releases/tag/v1.10.1) (4 days ago)
+- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (5 days ago)
 - [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (1 week ago)
 - [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (1 week ago)
