@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (today)
 - [`composer/composer:2.5.8`](https://github.com/composer/composer/releases/tag/2.5.8) (3 days ago)
 - [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (4 days ago)
 - [`pestphp/pest:v2.6.3`](https://github.com/pestphp/pest/releases/tag/v2.6.3) (4 days ago)
-- [`laravel/pint:v1.10.1`](https://github.com/laravel/pint/releases/tag/v1.10.1) (6 days ago)
 - [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (1 week ago)
 - [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (1 week ago)
 - [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (1 week ago)
