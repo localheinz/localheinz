@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (today)
-- [`composer/composer:2.5.8`](https://github.com/composer/composer/releases/tag/2.5.8) (3 days ago)
-- [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (4 days ago)
-- [`pestphp/pest:v2.6.3`](https://github.com/pestphp/pest/releases/tag/v2.6.3) (4 days ago)
+- [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (1 day ago)
+- [`composer/composer:2.5.8`](https://github.com/composer/composer/releases/tag/2.5.8) (4 days ago)
+- [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (5 days ago)
+- [`pestphp/pest:v2.6.3`](https://github.com/pestphp/pest/releases/tag/v2.6.3) (5 days ago)
 - [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (1 week ago)
 - [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (1 week ago)
-- [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (1 week ago)
-- [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (1 week ago)
-- [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (1 week ago)
-- [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (2 weeks ago)
+- [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (2 weeks ago)
+- [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (2 weeks ago)
+- [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (2 weeks ago)
+- [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (3 weeks ago)
 
 ### Recent followers on GitHub
 
