@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`spryker/docker-sdk:1.59.0`](https://github.com/spryker/docker-sdk/releases/tag/1.59.0) (today)
 - [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (1 day ago)
 - [`composer/composer:2.5.8`](https://github.com/composer/composer/releases/tag/2.5.8) (4 days ago)
 - [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (5 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (2 weeks ago)
 - [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (2 weeks ago)
 - [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (2 weeks ago)
-- [`ergebnis/php-cs-fixer-config:5.7.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.7.0) (3 weeks ago)
 
 ### Recent followers on GitHub
 
