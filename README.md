@@ -38,7 +38,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
-- [`@joselong-dev`](https://github.com/joselong-dev)
 - [`@flavioheleno`](https://github.com/flavioheleno)
 - [`@n7bct00`](https://github.com/n7bct00)
 - [`@MathiasReker`](https://github.com/MathiasReker)
@@ -48,6 +47,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@saundefined`](https://github.com/saundefined)
 - [`@matthiashamacher`](https://github.com/matthiashamacher)
 - [`@Mr-Chehata`](https://github.com/Mr-Chehata)
+- [`@tareqas`](https://github.com/tareqas)
 
 ### Recent sponsors on GitHub
 
