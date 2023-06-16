@@ -15,7 +15,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (1 month ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (2 months ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 months ago)
-- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 months ago)
+- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (3 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (3 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (3 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (3 months ago)
@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.7.0`](https://github.com/pestphp/pest/releases/tag/v2.7.0) (today)
-- [`spryker/docker-sdk:1.59.0`](https://github.com/spryker/docker-sdk/releases/tag/1.59.0) (2 days ago)
-- [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (3 days ago)
-- [`composer/composer:2.5.8`](https://github.com/composer/composer/releases/tag/2.5.8) (6 days ago)
+- [`pestphp/pest:v2.7.0`](https://github.com/pestphp/pest/releases/tag/v2.7.0) (1 day ago)
+- [`spryker/docker-sdk:1.59.0`](https://github.com/spryker/docker-sdk/releases/tag/1.59.0) (3 days ago)
+- [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (4 days ago)
+- [`composer/composer:2.5.8`](https://github.com/composer/composer/releases/tag/2.5.8) (1 week ago)
 - [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (1 week ago)
 - [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (1 week ago)
 - [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (2 weeks ago)
