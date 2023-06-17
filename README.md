@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.7.0`](https://github.com/pestphp/pest/releases/tag/v2.7.0) (1 day ago)
-- [`spryker/docker-sdk:1.59.0`](https://github.com/spryker/docker-sdk/releases/tag/1.59.0) (3 days ago)
-- [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (4 days ago)
+- [`pestphp/pest:v2.7.0`](https://github.com/pestphp/pest/releases/tag/v2.7.0) (2 days ago)
+- [`spryker/docker-sdk:1.59.0`](https://github.com/spryker/docker-sdk/releases/tag/1.59.0) (4 days ago)
+- [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (5 days ago)
 - [`composer/composer:2.5.8`](https://github.com/composer/composer/releases/tag/2.5.8) (1 week ago)
 - [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (1 week ago)
 - [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (1 week ago)
