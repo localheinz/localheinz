@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`nicmart/Tree:0.7.2`](https://github.com/nicmart/Tree/releases/tag/0.7.2) (today)
 - [`pestphp/pest:v2.7.0`](https://github.com/pestphp/pest/releases/tag/v2.7.0) (3 days ago)
 - [`spryker/docker-sdk:1.59.0`](https://github.com/spryker/docker-sdk/releases/tag/1.59.0) (5 days ago)
 - [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (6 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (2 weeks ago)
 - [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (2 weeks ago)
 - [`ergebnis/phpunit-slow-test-detector:2.3.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.3.0) (2 weeks ago)
-- [`genkgo/camt:2.6.0`](https://github.com/genkgo/camt/releases/tag/2.6.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
