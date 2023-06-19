@@ -25,14 +25,14 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.18.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.18.0) (today)
-- [`nicmart/Tree:0.7.2`](https://github.com/nicmart/Tree/releases/tag/0.7.2) (today)
-- [`pestphp/pest:v2.7.0`](https://github.com/pestphp/pest/releases/tag/v2.7.0) (3 days ago)
-- [`spryker/docker-sdk:1.59.0`](https://github.com/spryker/docker-sdk/releases/tag/1.59.0) (5 days ago)
-- [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (6 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.18.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.18.0) (1 day ago)
+- [`nicmart/Tree:0.7.2`](https://github.com/nicmart/Tree/releases/tag/0.7.2) (1 day ago)
+- [`pestphp/pest:v2.7.0`](https://github.com/pestphp/pest/releases/tag/v2.7.0) (4 days ago)
+- [`spryker/docker-sdk:1.59.0`](https://github.com/spryker/docker-sdk/releases/tag/1.59.0) (6 days ago)
+- [`laravel/pint:v1.10.2`](https://github.com/laravel/pint/releases/tag/v1.10.2) (1 week ago)
 - [`composer/composer:2.5.8`](https://github.com/composer/composer/releases/tag/2.5.8) (1 week ago)
 - [`stripe/stripe-php:v10.15.0`](https://github.com/stripe/stripe-php/releases/tag/v10.15.0) (1 week ago)
-- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (1 week ago)
+- [`doctrine/DoctrineBundle:2.10.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.0) (2 weeks ago)
 - [`spryker/spryker-docs:05.2023`](https://github.com/spryker/spryker-docs/releases/tag/05.2023) (2 weeks ago)
 - [`symfony/symfony:v6.3.0`](https://github.com/symfony/symfony/releases/tag/v6.3.0) (2 weeks ago)
 
