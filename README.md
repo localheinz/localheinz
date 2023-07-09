@@ -12,8 +12,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (1 month ago)
-- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (2 months ago)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (2 months ago)
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (3 months ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (3 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (3 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (4 months ago)
@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (1 day ago)
-- [`ergebnis/php-cs-fixer-config:5.11.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.11.0) (3 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.21.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1) (3 days ago)
-- [`ergebnis/front-matter:3.0.0`](https://github.com/ergebnis/front-matter/releases/tag/3.0.0) (3 days ago)
-- [`pestphp/pest:v2.8.2`](https://github.com/pestphp/pest/releases/tag/v2.8.2) (5 days ago)
-- [`spryker/spryker-docs:06.2023`](https://github.com/spryker/spryker-docs/releases/tag/06.2023) (5 days ago)
+- [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (2 days ago)
+- [`ergebnis/php-cs-fixer-config:5.11.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.11.0) (4 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.21.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1) (4 days ago)
+- [`ergebnis/front-matter:3.0.0`](https://github.com/ergebnis/front-matter/releases/tag/3.0.0) (4 days ago)
+- [`pestphp/pest:v2.8.2`](https://github.com/pestphp/pest/releases/tag/v2.8.2) (6 days ago)
+- [`spryker/spryker-docs:06.2023`](https://github.com/spryker/spryker-docs/releases/tag/06.2023) (6 days ago)
 - [`gacela-project/gacela:1.5.0`](https://github.com/gacela-project/gacela/releases/tag/1.5.0) (1 week ago)
 - [`ergebnis/composer-normalize:2.32.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.32.0) (1 week ago)
 - [`stripe/stripe-php:v10.16.0`](https://github.com/stripe/stripe-php/releases/tag/v10.16.0) (1 week ago)
