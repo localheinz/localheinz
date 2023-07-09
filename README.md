@@ -25,6 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/composer-normalize:2.33.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.33.0) (today)
+- [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (today)
 - [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:5.11.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.11.0) (4 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.21.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1) (4 days ago)
@@ -32,9 +34,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`pestphp/pest:v2.8.2`](https://github.com/pestphp/pest/releases/tag/v2.8.2) (6 days ago)
 - [`spryker/spryker-docs:06.2023`](https://github.com/spryker/spryker-docs/releases/tag/06.2023) (6 days ago)
 - [`gacela-project/gacela:1.5.0`](https://github.com/gacela-project/gacela/releases/tag/1.5.0) (1 week ago)
-- [`ergebnis/composer-normalize:2.32.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.32.0) (1 week ago)
 - [`stripe/stripe-php:v10.16.0`](https://github.com/stripe/stripe-php/releases/tag/v10.16.0) (1 week ago)
-- [`doctrine/DoctrineBundle:2.10.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.1) (1 week ago)
 
 ### Recent followers on GitHub
 
