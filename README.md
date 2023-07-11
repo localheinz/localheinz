@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/composer-normalize:2.33.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.33.0) (1 day ago)
-- [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (1 day ago)
-- [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (3 days ago)
-- [`ergebnis/php-cs-fixer-config:5.11.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.11.0) (5 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.21.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1) (5 days ago)
-- [`ergebnis/front-matter:3.0.0`](https://github.com/ergebnis/front-matter/releases/tag/3.0.0) (5 days ago)
+- [`ergebnis/composer-normalize:2.33.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.33.0) (2 days ago)
+- [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (2 days ago)
+- [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (4 days ago)
+- [`ergebnis/php-cs-fixer-config:5.11.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.11.0) (6 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.21.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1) (6 days ago)
+- [`ergebnis/front-matter:3.0.0`](https://github.com/ergebnis/front-matter/releases/tag/3.0.0) (6 days ago)
 - [`pestphp/pest:v2.8.2`](https://github.com/pestphp/pest/releases/tag/v2.8.2) (1 week ago)
 - [`spryker/spryker-docs:06.2023`](https://github.com/spryker/spryker-docs/releases/tag/06.2023) (1 week ago)
 - [`gacela-project/gacela:1.5.0`](https://github.com/gacela-project/gacela/releases/tag/1.5.0) (1 week ago)
