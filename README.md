@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@munasikawa`](https://github.com/munasikawa)
 - [`@FarhanHamza`](https://github.com/FarhanHamza)
 - [`@RubikIdeaCom`](https://github.com/RubikIdeaCom)
 - [`@WebGuru1228`](https://github.com/WebGuru1228)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@carstingaxion`](https://github.com/carstingaxion)
 - [`@digicommons`](https://github.com/digicommons)
 - [`@GeorgII-web`](https://github.com/GeorgII-web)
-- [`@yankewei`](https://github.com/yankewei)
 
 ### Recent sponsors on GitHub
 
