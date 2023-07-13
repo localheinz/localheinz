@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`stripe/stripe-php:v10.18.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0-beta.1) (today)
 - [`pestphp/pest:v2.8.3`](https://github.com/pestphp/pest/releases/tag/v2.8.3) (today)
 - [`laravel/pint:v1.10.4`](https://github.com/laravel/pint/releases/tag/v1.10.4) (2 days ago)
 - [`ergebnis/composer-normalize:2.33.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.33.0) (4 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.21.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1) (1 week ago)
 - [`ergebnis/front-matter:3.0.0`](https://github.com/ergebnis/front-matter/releases/tag/3.0.0) (1 week ago)
 - [`spryker/spryker-docs:06.2023`](https://github.com/spryker/spryker-docs/releases/tag/06.2023) (1 week ago)
-- [`gacela-project/gacela:1.5.0`](https://github.com/gacela-project/gacela/releases/tag/1.5.0) (1 week ago)
 
 ### Recent followers on GitHub
 
