@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`laravel/pint:v1.10.5`](https://github.com/laravel/pint/releases/tag/v1.10.5) (today)
 - [`stripe/stripe-php:v10.18.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0-beta.1) (1 day ago)
 - [`pestphp/pest:v2.8.3`](https://github.com/pestphp/pest/releases/tag/v2.8.3) (1 day ago)
-- [`laravel/pint:v1.10.4`](https://github.com/laravel/pint/releases/tag/v1.10.4) (3 days ago)
 - [`ergebnis/composer-normalize:2.33.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.33.0) (5 days ago)
 - [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (5 days ago)
 - [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (1 week ago)
