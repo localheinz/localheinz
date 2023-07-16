@@ -15,7 +15,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (2 months ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (3 months ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (3 months ago)
-- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (3 months ago)
+- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (4 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (4 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (4 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (4 months ago)
@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`laravel/pint:v1.10.5`](https://github.com/laravel/pint/releases/tag/v1.10.5) (1 day ago)
-- [`stripe/stripe-php:v10.18.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0-beta.1) (2 days ago)
-- [`pestphp/pest:v2.8.3`](https://github.com/pestphp/pest/releases/tag/v2.8.3) (2 days ago)
-- [`ergebnis/composer-normalize:2.33.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.33.0) (6 days ago)
-- [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (6 days ago)
+- [`laravel/pint:v1.10.5`](https://github.com/laravel/pint/releases/tag/v1.10.5) (2 days ago)
+- [`stripe/stripe-php:v10.18.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0-beta.1) (3 days ago)
+- [`pestphp/pest:v2.8.3`](https://github.com/pestphp/pest/releases/tag/v2.8.3) (3 days ago)
+- [`ergebnis/composer-normalize:2.33.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.33.0) (1 week ago)
+- [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (1 week ago)
 - [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.11.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.11.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.21.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.1) (1 week ago)
