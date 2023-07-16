@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/data-provider:3.0.0`](https://github.com/ergebnis/data-provider/releases/tag/3.0.0) (today)
 - [`ergebnis/php-cs-fixer-config:5.11.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.11.1) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.21.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.21.2) (today)
 - [`laravel/pint:v1.10.5`](https://github.com/laravel/pint/releases/tag/v1.10.5) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (1 week ago)
 - [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (1 week ago)
 - [`ergebnis/front-matter:3.0.0`](https://github.com/ergebnis/front-matter/releases/tag/3.0.0) (1 week ago)
-- [`spryker/spryker-docs:06.2023`](https://github.com/spryker/spryker-docs/releases/tag/06.2023) (1 week ago)
 
 ### Recent followers on GitHub
 
