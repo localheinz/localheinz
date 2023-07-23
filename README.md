@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (6 days ago)
+- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (1 week ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (2 months ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (3 months ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (4 months ago)
@@ -25,14 +25,14 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.9.3`](https://github.com/pestphp/pest/releases/tag/v2.9.3) (2 days ago)
-- [`stripe/stripe-php:v10.18.0`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0) (2 days ago)
-- [`ergebnis/php-cs-fixer-config:5.12.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.12.0) (5 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.22.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0) (6 days ago)
-- [`ergebnis/data-provider:3.0.0`](https://github.com/ergebnis/data-provider/releases/tag/3.0.0) (6 days ago)
+- [`pestphp/pest:v2.9.3`](https://github.com/pestphp/pest/releases/tag/v2.9.3) (3 days ago)
+- [`stripe/stripe-php:v10.18.0`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0) (3 days ago)
+- [`ergebnis/php-cs-fixer-config:5.12.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.12.0) (6 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.22.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0) (1 week ago)
+- [`ergebnis/data-provider:3.0.0`](https://github.com/ergebnis/data-provider/releases/tag/3.0.0) (1 week ago)
 - [`laravel/pint:v1.10.5`](https://github.com/laravel/pint/releases/tag/v1.10.5) (1 week ago)
-- [`ergebnis/composer-normalize:2.33.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.33.0) (1 week ago)
-- [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (1 week ago)
+- [`ergebnis/composer-normalize:2.33.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.33.0) (2 weeks ago)
+- [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (2 weeks ago)
 - [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (2 weeks ago)
 - [`ergebnis/front-matter:3.0.0`](https://github.com/ergebnis/front-matter/releases/tag/3.0.0) (2 weeks ago)
 
