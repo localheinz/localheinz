@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.9.3`](https://github.com/pestphp/pest/releases/tag/v2.9.3) (3 days ago)
-- [`stripe/stripe-php:v10.18.0`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0) (3 days ago)
-- [`ergebnis/php-cs-fixer-config:5.12.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.12.0) (6 days ago)
+- [`pestphp/pest:v2.9.3`](https://github.com/pestphp/pest/releases/tag/v2.9.3) (4 days ago)
+- [`stripe/stripe-php:v10.18.0`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0) (4 days ago)
+- [`ergebnis/php-cs-fixer-config:5.12.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.12.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.22.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0) (1 week ago)
 - [`ergebnis/data-provider:3.0.0`](https://github.com/ergebnis/data-provider/releases/tag/3.0.0) (1 week ago)
 - [`laravel/pint:v1.10.5`](https://github.com/laravel/pint/releases/tag/v1.10.5) (1 week ago)
@@ -51,8 +51,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent sponsors on GitHub
 
-- [`@JesusValera`](https://github.com/JesusValera) (8 months ago)
-- [`@Chemaclass`](https://github.com/Chemaclass) (8 months ago)
+- [`@JesusValera`](https://github.com/JesusValera) (9 months ago)
+- [`@Chemaclass`](https://github.com/Chemaclass) (9 months ago)
 - [`@yesdevnull`](https://github.com/yesdevnull) (1 year ago)
 - [`@indeedeng`](https://github.com/indeedeng) (2 years ago)
 - [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (3 years ago)
