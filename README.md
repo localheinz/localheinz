@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@marijuanaweed`](https://github.com/marijuanaweed)
 - [`@munasikawa`](https://github.com/munasikawa)
 - [`@FarhanHamza`](https://github.com/FarhanHamza)
 - [`@RubikIdeaCom`](https://github.com/RubikIdeaCom)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@geisi`](https://github.com/geisi)
 - [`@carstingaxion`](https://github.com/carstingaxion)
 - [`@digicommons`](https://github.com/digicommons)
-- [`@GeorgII-web`](https://github.com/GeorgII-web)
 
 ### Recent sponsors on GitHub
 
