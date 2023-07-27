@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.9.3`](https://github.com/pestphp/pest/releases/tag/v2.9.3) (6 days ago)
-- [`stripe/stripe-php:v10.18.0`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0) (6 days ago)
+- [`pestphp/pest:v2.9.3`](https://github.com/pestphp/pest/releases/tag/v2.9.3) (1 week ago)
+- [`stripe/stripe-php:v10.18.0`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.12.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.12.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.22.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0) (1 week ago)
 - [`ergebnis/data-provider:3.0.0`](https://github.com/ergebnis/data-provider/releases/tag/3.0.0) (1 week ago)
