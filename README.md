@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/http-method:2.4.0`](https://github.com/ergebnis/http-method/releases/tag/2.4.0) (today)
+- [`stripe/stripe-php:v10.19.0`](https://github.com/stripe/stripe-php/releases/tag/v10.19.0) (1 day ago)
+- [`ergebnis/http-method:2.4.0`](https://github.com/ergebnis/http-method/releases/tag/2.4.0) (1 day ago)
 - [`pestphp/pest:v2.9.3`](https://github.com/pestphp/pest/releases/tag/v2.9.3) (1 week ago)
-- [`stripe/stripe-php:v10.18.0`](https://github.com/stripe/stripe-php/releases/tag/v10.18.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.12.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.12.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.22.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.22.0) (1 week ago)
 - [`ergebnis/data-provider:3.0.0`](https://github.com/ergebnis/data-provider/releases/tag/3.0.0) (1 week ago)
-- [`laravel/pint:v1.10.5`](https://github.com/laravel/pint/releases/tag/v1.10.5) (1 week ago)
+- [`laravel/pint:v1.10.5`](https://github.com/laravel/pint/releases/tag/v1.10.5) (2 weeks ago)
 - [`ergebnis/composer-normalize:2.33.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.33.0) (2 weeks ago)
 - [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (2 weeks ago)
-- [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (2 weeks ago)
+- [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (3 weeks ago)
 
 ### Recent followers on GitHub
 
