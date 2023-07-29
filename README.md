@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`symfony/symfony:v5.4.26`](https://github.com/symfony/symfony/releases/tag/v5.4.26) (today)
 - [`stripe/stripe-php:v10.20.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.20.0-beta.2) (1 day ago)
 - [`ergebnis/composer-normalize:2.34.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.34.0) (1 day ago)
 - [`ergebnis/http-method:2.4.0`](https://github.com/ergebnis/http-method/releases/tag/2.4.0) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/data-provider:3.0.0`](https://github.com/ergebnis/data-provider/releases/tag/3.0.0) (1 week ago)
 - [`laravel/pint:v1.10.5`](https://github.com/laravel/pint/releases/tag/v1.10.5) (2 weeks ago)
 - [`ergebnis/json-normalizer:4.2.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.2.0) (2 weeks ago)
-- [`ergebnis/twig-front-matter:1.0.1`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.0.1) (3 weeks ago)
 
 ### Recent followers on GitHub
 
