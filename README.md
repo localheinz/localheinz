@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`symfony/symfony:v6.2.13`](https://github.com/symfony/symfony/releases/tag/v6.2.13) (today)
+- [`symfony/symfony:v6.3.2`](https://github.com/symfony/symfony/releases/tag/v6.3.2) (today)
 - [`stripe/stripe-php:v10.20.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v10.20.0-beta.2) (2 days ago)
 - [`ergebnis/composer-normalize:2.34.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.34.0) (2 days ago)
 - [`ergebnis/http-method:2.4.0`](https://github.com/ergebnis/http-method/releases/tag/2.4.0) (3 days ago)
