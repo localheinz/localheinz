@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v10.20.0`](https://github.com/stripe/stripe-php/releases/tag/v10.20.0) (today)
+- [`stripe/stripe-php:v10.21.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.21.0-beta.1) (today)
 - [`pimcore/data-importer:v1.8.2`](https://github.com/pimcore/data-importer/releases/tag/v1.8.2) (today)
 - [`pestphp/pest:v2.12.0`](https://github.com/pestphp/pest/releases/tag/v2.12.0) (today)
 - [`spryker/spryker-docs:07.2023`](https://github.com/spryker/spryker-docs/releases/tag/07.2023) (2 days ago)
