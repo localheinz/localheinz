@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.12.2`](https://github.com/pestphp/pest/releases/tag/v2.12.2) (today)
+- [`pestphp/pest:v2.13.0`](https://github.com/pestphp/pest/releases/tag/v2.13.0) (today)
 - [`laravel/pint:v1.10.6`](https://github.com/laravel/pint/releases/tag/v1.10.6) (1 day ago)
 - [`doctrine/DoctrineBundle:2.10.2`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.2) (1 day ago)
 - [`stripe/stripe-php:v10.21.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.21.0-beta.1) (6 days ago)
