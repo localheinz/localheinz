@@ -39,7 +39,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 ### Recent followers on GitHub
 
 - [`@AesthetiCoder`](https://github.com/AesthetiCoder)
-- [`@tal7aouy`](https://github.com/tal7aouy)
 - [`@Zack4DEV`](https://github.com/Zack4DEV)
 - [`@bezin`](https://github.com/bezin)
 - [`@munasikawa`](https://github.com/munasikawa)
@@ -48,6 +47,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@WebGuru1228`](https://github.com/WebGuru1228)
 - [`@WatheqAlshowaiter`](https://github.com/WatheqAlshowaiter)
 - [`@zayedadel`](https://github.com/zayedadel)
+- [`@geisi`](https://github.com/geisi)
 
 ### Recent sponsors on GitHub
 
