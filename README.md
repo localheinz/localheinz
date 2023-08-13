@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@Zack4DEV`](https://github.com/Zack4DEV)
 - [`@bezin`](https://github.com/bezin)
 - [`@munasikawa`](https://github.com/munasikawa)
 - [`@FarhanHamza`](https://github.com/FarhanHamza)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@zayedadel`](https://github.com/zayedadel)
 - [`@geisi`](https://github.com/geisi)
 - [`@carstingaxion`](https://github.com/carstingaxion)
-- [`@digicommons`](https://github.com/digicommons)
 
 ### Recent sponsors on GitHub
 
