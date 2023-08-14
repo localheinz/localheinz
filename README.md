@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.14.0`](https://github.com/pestphp/pest/releases/tag/v2.14.0) (today)
 - [`ergebnis/composer-normalize:2.35.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.35.0) (3 days ago)
 - [`stripe/stripe-php:v10.22.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.22.0-beta.1) (3 days ago)
-- [`pestphp/pest:v2.13.0`](https://github.com/pestphp/pest/releases/tag/v2.13.0) (5 days ago)
 - [`laravel/pint:v1.10.6`](https://github.com/laravel/pint/releases/tag/v1.10.6) (6 days ago)
 - [`doctrine/DoctrineBundle:2.10.2`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.2) (6 days ago)
 - [`pimcore/data-importer:v1.8.2`](https://github.com/pimcore/data-importer/releases/tag/v1.8.2) (1 week ago)
