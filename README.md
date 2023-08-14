@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.23.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (today)
 - [`pestphp/pest:v2.14.0`](https://github.com/pestphp/pest/releases/tag/v2.14.0) (today)
 - [`ergebnis/composer-normalize:2.35.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.35.0) (3 days ago)
 - [`stripe/stripe-php:v10.22.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.22.0-beta.1) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`spryker/spryker-docs:07.2023`](https://github.com/spryker/spryker-docs/releases/tag/07.2023) (1 week ago)
 - [`symfony/symfony:v6.2.14`](https://github.com/symfony/symfony/releases/tag/v6.2.14) (2 weeks ago)
 - [`ergebnis/http-method:2.4.0`](https://github.com/ergebnis/http-method/releases/tag/2.4.0) (2 weeks ago)
-- [`ergebnis/php-cs-fixer-config:5.12.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.12.0) (4 weeks ago)
 
 ### Recent followers on GitHub
 
