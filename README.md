@@ -12,11 +12,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (4 weeks ago)
+- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (1 month ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (3 months ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (4 months ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (4 months ago)
-- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (4 months ago)
+- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (5 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (5 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (5 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (5 months ago)
@@ -25,15 +25,15 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/php-cs-fixer-config:5.13.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.13.0) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.23.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (today)
-- [`pestphp/pest:v2.14.0`](https://github.com/pestphp/pest/releases/tag/v2.14.0) (today)
-- [`ergebnis/composer-normalize:2.35.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.35.0) (3 days ago)
-- [`stripe/stripe-php:v10.22.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.22.0-beta.1) (3 days ago)
-- [`laravel/pint:v1.10.6`](https://github.com/laravel/pint/releases/tag/v1.10.6) (6 days ago)
-- [`doctrine/DoctrineBundle:2.10.2`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.2) (6 days ago)
+- [`ergebnis/php-cs-fixer-config:5.13.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.13.0) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.23.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (1 day ago)
+- [`pestphp/pest:v2.14.0`](https://github.com/pestphp/pest/releases/tag/v2.14.0) (1 day ago)
+- [`ergebnis/composer-normalize:2.35.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.35.0) (4 days ago)
+- [`stripe/stripe-php:v10.22.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v10.22.0-beta.1) (4 days ago)
+- [`laravel/pint:v1.10.6`](https://github.com/laravel/pint/releases/tag/v1.10.6) (1 week ago)
+- [`doctrine/DoctrineBundle:2.10.2`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.2) (1 week ago)
 - [`pimcore/data-importer:v1.8.2`](https://github.com/pimcore/data-importer/releases/tag/v1.8.2) (1 week ago)
-- [`spryker/spryker-docs:07.2023`](https://github.com/spryker/spryker-docs/releases/tag/07.2023) (1 week ago)
+- [`spryker/spryker-docs:07.2023`](https://github.com/spryker/spryker-docs/releases/tag/07.2023) (2 weeks ago)
 - [`symfony/symfony:v6.2.14`](https://github.com/symfony/symfony/releases/tag/v6.2.14) (2 weeks ago)
 
 ### Recent followers on GitHub
