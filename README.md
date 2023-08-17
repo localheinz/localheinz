@@ -25,8 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.15.0`](https://github.com/pestphp/pest/releases/tag/v2.15.0) (today)
+- [`ergebnis/phpstan-rules:2.1.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.1.0) (today)
 - [`stripe/stripe-php:v11.0.0`](https://github.com/stripe/stripe-php/releases/tag/v11.0.0) (1 day ago)
-- [`pestphp/pest:v2.14.1`](https://github.com/pestphp/pest/releases/tag/v2.14.1) (1 day ago)
 - [`laravel/pint:v1.11.0`](https://github.com/laravel/pint/releases/tag/v1.11.0) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:5.13.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.13.0) (3 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.23.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.23.0) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`doctrine/DoctrineBundle:2.10.2`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.2) (1 week ago)
 - [`pimcore/data-importer:v1.8.2`](https://github.com/pimcore/data-importer/releases/tag/v1.8.2) (2 weeks ago)
 - [`spryker/spryker-docs:07.2023`](https://github.com/spryker/spryker-docs/releases/tag/07.2023) (2 weeks ago)
-- [`symfony/symfony:v6.2.14`](https://github.com/symfony/symfony/releases/tag/v6.2.14) (2 weeks ago)
 
 ### Recent followers on GitHub
 
