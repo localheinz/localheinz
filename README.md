@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`stripe/stripe-php:v12.0.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.0.0-beta.1) (today)
 - [`pestphp/pest:v2.16.0`](https://github.com/pestphp/pest/releases/tag/v2.16.0) (3 days ago)
-- [`stripe/stripe-php:v12.0.0`](https://github.com/stripe/stripe-php/releases/tag/v12.0.0) (6 days ago)
 - [`ergebnis/phpstan-rules:2.1.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.1.0) (1 week ago)
 - [`laravel/pint:v1.11.0`](https://github.com/laravel/pint/releases/tag/v1.11.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:5.13.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.13.0) (1 week ago)
