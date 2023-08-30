@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@theodorejb`](https://github.com/theodorejb)
 - [`@Ringer-D`](https://github.com/Ringer-D)
 - [`@AesthetiCoder`](https://github.com/AesthetiCoder)
 - [`@Zack4DEV`](https://github.com/Zack4DEV)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@RubikIdeaCom`](https://github.com/RubikIdeaCom)
 - [`@WebGuru1228`](https://github.com/WebGuru1228)
 - [`@WatheqAlshowaiter`](https://github.com/WatheqAlshowaiter)
-- [`@zayedadel`](https://github.com/zayedadel)
 
 ### Recent sponsors on GitHub
 
