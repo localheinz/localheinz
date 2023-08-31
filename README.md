@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`stripe/stripe-php:v12.1.0`](https://github.com/stripe/stripe-php/releases/tag/v12.1.0) (today)
 - [`pimcore/data-importer:v1.8.3`](https://github.com/pimcore/data-importer/releases/tag/v1.8.3) (today)
 - [`composer/semver:3.4.0`](https://github.com/composer/semver/releases/tag/3.4.0) (today)
 - [`ergebnis/php-cs-fixer-config:5.14.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.14.0) (1 day ago)
@@ -32,7 +33,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.24.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.24.0) (2 days ago)
 - [`pestphp/pest:v2.16.1`](https://github.com/pestphp/pest/releases/tag/v2.16.1) (2 days ago)
 - [`symfony/symfony:v6.3.4`](https://github.com/symfony/symfony/releases/tag/v6.3.4) (5 days ago)
-- [`stripe/stripe-php:v12.0.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.0.0-beta.1) (1 week ago)
 - [`ergebnis/phpstan-rules:2.1.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.1.0) (2 weeks ago)
 - [`ergebnis/composer-normalize:2.35.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.35.0) (2 weeks ago)
 
