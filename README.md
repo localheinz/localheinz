@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pimcore/data-importer:v1.8.3`](https://github.com/pimcore/data-importer/releases/tag/v1.8.3) (today)
 - [`composer/semver:3.4.0`](https://github.com/composer/semver/releases/tag/3.4.0) (today)
 - [`ergebnis/php-cs-fixer-config:5.14.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.14.0) (1 day ago)
 - [`laravel/pint:v1.12.0`](https://github.com/laravel/pint/releases/tag/v1.12.0) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`stripe/stripe-php:v12.0.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.0.0-beta.1) (1 week ago)
 - [`ergebnis/phpstan-rules:2.1.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.1.0) (2 weeks ago)
 - [`ergebnis/composer-normalize:2.35.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.35.0) (2 weeks ago)
-- [`doctrine/DoctrineBundle:2.10.2`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.10.2) (3 weeks ago)
 
 ### Recent followers on GitHub
 
