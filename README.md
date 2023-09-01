@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`composer/composer:2.6.0`](https://github.com/composer/composer/releases/tag/2.6.0) (today)
+- [`composer/composer:2.6.1`](https://github.com/composer/composer/releases/tag/2.6.1) (today)
 - [`ergebnis/php-cs-fixer-config:5.14.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.14.1) (today)
 - [`stripe/stripe-php:v12.2.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.2.0-beta.1) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.25.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.0) (1 day ago)
