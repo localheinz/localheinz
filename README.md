@@ -21,19 +21,19 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (6 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (6 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (6 months ago)
-- [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (6 months ago)
+- [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (7 months ago)
 
 ### Recent releases I have contributed to
 
-- [`composer/composer:2.6.2`](https://github.com/composer/composer/releases/tag/2.6.2) (today)
-- [`spryker/spryker-docs:08.2023`](https://github.com/spryker/spryker-docs/releases/tag/08.2023) (2 days ago)
-- [`ergebnis/php-cs-fixer-config:5.14.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.14.1) (2 days ago)
-- [`stripe/stripe-php:v12.2.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.2.0-beta.1) (2 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.25.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.0) (3 days ago)
-- [`pimcore/data-importer:v1.8.3`](https://github.com/pimcore/data-importer/releases/tag/v1.8.3) (3 days ago)
-- [`composer/semver:3.4.0`](https://github.com/composer/semver/releases/tag/3.4.0) (3 days ago)
-- [`laravel/pint:v1.12.0`](https://github.com/laravel/pint/releases/tag/v1.12.0) (4 days ago)
-- [`pestphp/pest:v2.16.1`](https://github.com/pestphp/pest/releases/tag/v2.16.1) (5 days ago)
+- [`composer/composer:2.6.2`](https://github.com/composer/composer/releases/tag/2.6.2) (1 day ago)
+- [`spryker/spryker-docs:08.2023`](https://github.com/spryker/spryker-docs/releases/tag/08.2023) (3 days ago)
+- [`ergebnis/php-cs-fixer-config:5.14.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.14.1) (3 days ago)
+- [`stripe/stripe-php:v12.2.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.2.0-beta.1) (3 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.25.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.0) (4 days ago)
+- [`pimcore/data-importer:v1.8.3`](https://github.com/pimcore/data-importer/releases/tag/v1.8.3) (4 days ago)
+- [`composer/semver:3.4.0`](https://github.com/composer/semver/releases/tag/3.4.0) (4 days ago)
+- [`laravel/pint:v1.12.0`](https://github.com/laravel/pint/releases/tag/v1.12.0) (5 days ago)
+- [`pestphp/pest:v2.16.1`](https://github.com/pestphp/pest/releases/tag/v2.16.1) (6 days ago)
 - [`symfony/symfony:v6.3.4`](https://github.com/symfony/symfony/releases/tag/v6.3.4) (1 week ago)
 
 ### Recent followers on GitHub
