@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`laravel/pint:v1.13.0`](https://github.com/laravel/pint/releases/tag/v1.13.0) (1 day ago)
+- [`laravel/pint:v1.13.1`](https://github.com/laravel/pint/releases/tag/v1.13.1) (today)
 - [`laravel/cashier-stripe:v14.12.5`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.5) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:5.14.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.14.2) (2 days ago)
 - [`ergebnis/composer-normalize:2.36.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.36.0) (2 days ago)
