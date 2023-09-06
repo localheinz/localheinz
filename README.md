@@ -38,6 +38,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@RikValens1988`](https://github.com/RikValens1988)
+- [`@theoboldalex`](https://github.com/theoboldalex)
 - [`@dyriavin`](https://github.com/dyriavin)
 - [`@theodorejb`](https://github.com/theodorejb)
 - [`@Ringer-D`](https://github.com/Ringer-D)
@@ -46,8 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@bezin`](https://github.com/bezin)
 - [`@munasikawa`](https://github.com/munasikawa)
 - [`@FarhanHamza`](https://github.com/FarhanHamza)
-- [`@RubikIdeaCom`](https://github.com/RubikIdeaCom)
-- [`@WebGuru1228`](https://github.com/WebGuru1228)
 
 ### Recent sponsors on GitHub
 
