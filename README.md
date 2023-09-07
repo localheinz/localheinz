@@ -25,15 +25,15 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.18.0`](https://github.com/pestphp/pest/releases/tag/v2.18.0) (today)
+- [`stripe/stripe-php:v12.2.0`](https://github.com/stripe/stripe-php/releases/tag/v12.2.0) (today)
 - [`laravel/pint:v1.13.1`](https://github.com/laravel/pint/releases/tag/v1.13.1) (1 day ago)
 - [`laravel/cashier-stripe:v14.12.5`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.5) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:5.14.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.14.2) (3 days ago)
 - [`ergebnis/composer-normalize:2.36.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.36.0) (3 days ago)
-- [`pestphp/pest:v2.17.0`](https://github.com/pestphp/pest/releases/tag/v2.17.0) (3 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.25.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.1) (3 days ago)
 - [`composer/composer:2.6.2`](https://github.com/composer/composer/releases/tag/2.6.2) (4 days ago)
 - [`spryker/spryker-docs:08.2023`](https://github.com/spryker/spryker-docs/releases/tag/08.2023) (6 days ago)
-- [`stripe/stripe-php:v12.2.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.2.0-beta.1) (6 days ago)
 - [`pimcore/data-importer:v1.8.3`](https://github.com/pimcore/data-importer/releases/tag/v1.8.3) (1 week ago)
 
 ### Recent followers on GitHub
