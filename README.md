@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/php-cs-fixer-config:5.15.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.15.1) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.26.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (today)
-- [`ergebnis/php-cs-fixer-config:5.15.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.15.0) (today)
 - [`laravel/cashier-stripe:v14.12.6`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.6) (today)
 - [`stripe/stripe-php:v12.3.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.3.0-beta.1) (1 day ago)
 - [`pestphp/pest:v2.18.0`](https://github.com/pestphp/pest/releases/tag/v2.18.0) (1 day ago)
