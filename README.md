@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.26.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.0) (today)
 - [`laravel/cashier-stripe:v14.12.6`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.6) (today)
 - [`stripe/stripe-php:v12.3.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.3.0-beta.1) (1 day ago)
 - [`pestphp/pest:v2.18.0`](https://github.com/pestphp/pest/releases/tag/v2.18.0) (1 day ago)
 - [`laravel/pint:v1.13.1`](https://github.com/laravel/pint/releases/tag/v1.13.1) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:5.14.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.14.2) (4 days ago)
 - [`ergebnis/composer-normalize:2.36.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.36.0) (4 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.25.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.25.1) (4 days ago)
 - [`composer/composer:2.6.2`](https://github.com/composer/composer/releases/tag/2.6.2) (5 days ago)
 - [`spryker/spryker-docs:08.2023`](https://github.com/spryker/spryker-docs/releases/tag/08.2023) (1 week ago)
 - [`pimcore/data-importer:v1.8.3`](https://github.com/pimcore/data-importer/releases/tag/v1.8.3) (1 week ago)
