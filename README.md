@@ -42,7 +42,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@theoboldalex`](https://github.com/theoboldalex)
 - [`@dyriavin`](https://github.com/dyriavin)
 - [`@theodorejb`](https://github.com/theodorejb)
-- [`@Ringer-D`](https://github.com/Ringer-D)
+- [`@dusanringer`](https://github.com/dusanringer)
 - [`@AesthetiCoder`](https://github.com/AesthetiCoder)
 - [`@Zack4DEV`](https://github.com/Zack4DEV)
 - [`@bezin`](https://github.com/bezin)
