@@ -12,6 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (today)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (1 month ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (4 months ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (5 months ago)
@@ -21,7 +22,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (6 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (6 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (7 months ago)
-- [Indenting YAML files](https://localheinz.com/articles/2023/02/06/indenting-yaml-files/) (7 months ago)
 
 ### Recent releases I have contributed to
 
