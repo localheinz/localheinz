@@ -25,6 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/license:2.2.0`](https://github.com/ergebnis/license/releases/tag/2.2.0) (today)
+- [`ergebnis/classy:1.5.0`](https://github.com/ergebnis/classy/releases/tag/1.5.0) (today)
 - [`segmentio/analytics-php:3.7.0`](https://github.com/segmentio/analytics-php/releases/tag/3.7.0) (2 days ago)
 - [`pestphp/pest:v2.18.1`](https://github.com/pestphp/pest/releases/tag/v2.18.1) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:5.15.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.15.1) (5 days ago)
@@ -33,8 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`stripe/stripe-php:v12.3.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.3.0-beta.1) (6 days ago)
 - [`laravel/pint:v1.13.1`](https://github.com/laravel/pint/releases/tag/v1.13.1) (1 week ago)
 - [`ergebnis/composer-normalize:2.36.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.36.0) (1 week ago)
-- [`composer/composer:2.6.2`](https://github.com/composer/composer/releases/tag/2.6.2) (1 week ago)
-- [`spryker/spryker-docs:08.2023`](https://github.com/spryker/spryker-docs/releases/tag/08.2023) (1 week ago)
 
 ### Recent followers on GitHub
 
