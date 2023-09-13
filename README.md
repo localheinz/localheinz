@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.18.2`](https://github.com/pestphp/pest/releases/tag/v2.18.2) (today)
 - [`ergebnis/license:2.2.0`](https://github.com/ergebnis/license/releases/tag/2.2.0) (today)
 - [`ergebnis/classy:1.5.0`](https://github.com/ergebnis/classy/releases/tag/1.5.0) (today)
 - [`segmentio/analytics-php:3.7.0`](https://github.com/segmentio/analytics-php/releases/tag/3.7.0) (2 days ago)
-- [`pestphp/pest:v2.18.1`](https://github.com/pestphp/pest/releases/tag/v2.18.1) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:5.15.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.15.1) (5 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.26.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (5 days ago)
 - [`laravel/cashier-stripe:v14.12.6`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.6) (5 days ago)
