@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (today)
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (1 day ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (1 month ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (4 months ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (5 months ago)
@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`segmentio/analytics-php:3.7.0`](https://github.com/segmentio/analytics-php/releases/tag/3.7.0) (1 day ago)
-- [`pestphp/pest:v2.18.1`](https://github.com/pestphp/pest/releases/tag/v2.18.1) (1 day ago)
-- [`ergebnis/php-cs-fixer-config:5.15.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.15.1) (4 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.26.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (4 days ago)
-- [`laravel/cashier-stripe:v14.12.6`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.6) (4 days ago)
-- [`stripe/stripe-php:v12.3.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.3.0-beta.1) (5 days ago)
-- [`laravel/pint:v1.13.1`](https://github.com/laravel/pint/releases/tag/v1.13.1) (6 days ago)
+- [`segmentio/analytics-php:3.7.0`](https://github.com/segmentio/analytics-php/releases/tag/3.7.0) (2 days ago)
+- [`pestphp/pest:v2.18.1`](https://github.com/pestphp/pest/releases/tag/v2.18.1) (2 days ago)
+- [`ergebnis/php-cs-fixer-config:5.15.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.15.1) (5 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.26.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (5 days ago)
+- [`laravel/cashier-stripe:v14.12.6`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.6) (5 days ago)
+- [`stripe/stripe-php:v12.3.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.3.0-beta.1) (6 days ago)
+- [`laravel/pint:v1.13.1`](https://github.com/laravel/pint/releases/tag/v1.13.1) (1 week ago)
 - [`ergebnis/composer-normalize:2.36.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.36.0) (1 week ago)
 - [`composer/composer:2.6.2`](https://github.com/composer/composer/releases/tag/2.6.2) (1 week ago)
 - [`spryker/spryker-docs:08.2023`](https://github.com/spryker/spryker-docs/releases/tag/08.2023) (1 week ago)
