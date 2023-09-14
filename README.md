@@ -12,12 +12,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (1 day ago)
-- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (1 month ago)
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (2 days ago)
+- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (2 months ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (4 months ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (5 months ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (5 months ago)
-- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (5 months ago)
+- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (6 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (6 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (6 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (6 months ago)
@@ -25,14 +25,14 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.18.2`](https://github.com/pestphp/pest/releases/tag/v2.18.2) (today)
-- [`ergebnis/license:2.2.0`](https://github.com/ergebnis/license/releases/tag/2.2.0) (today)
-- [`ergebnis/classy:1.5.0`](https://github.com/ergebnis/classy/releases/tag/1.5.0) (today)
-- [`segmentio/analytics-php:3.7.0`](https://github.com/segmentio/analytics-php/releases/tag/3.7.0) (2 days ago)
-- [`ergebnis/php-cs-fixer-config:5.15.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.15.1) (5 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.26.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (5 days ago)
-- [`laravel/cashier-stripe:v14.12.6`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.6) (5 days ago)
-- [`stripe/stripe-php:v12.3.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.3.0-beta.1) (6 days ago)
+- [`pestphp/pest:v2.18.2`](https://github.com/pestphp/pest/releases/tag/v2.18.2) (1 day ago)
+- [`ergebnis/license:2.2.0`](https://github.com/ergebnis/license/releases/tag/2.2.0) (1 day ago)
+- [`ergebnis/classy:1.5.0`](https://github.com/ergebnis/classy/releases/tag/1.5.0) (1 day ago)
+- [`segmentio/analytics-php:3.7.0`](https://github.com/segmentio/analytics-php/releases/tag/3.7.0) (3 days ago)
+- [`ergebnis/php-cs-fixer-config:5.15.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.15.1) (6 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.26.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (6 days ago)
+- [`laravel/cashier-stripe:v14.12.6`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.6) (6 days ago)
+- [`stripe/stripe-php:v12.3.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.3.0-beta.1) (1 week ago)
 - [`laravel/pint:v1.13.1`](https://github.com/laravel/pint/releases/tag/v1.13.1) (1 week ago)
 - [`ergebnis/composer-normalize:2.36.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.36.0) (1 week ago)
 
