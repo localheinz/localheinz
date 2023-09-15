@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/composer-normalize:2.37.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.37.0) (today)
 - [`composer/composer:2.6.3`](https://github.com/composer/composer/releases/tag/2.6.3) (today)
 - [`stripe/stripe-php:v12.4.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.4.0-beta.1) (today)
 - [`pestphp/pest:v2.18.2`](https://github.com/pestphp/pest/releases/tag/v2.18.2) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/php-cs-fixer-config:5.15.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.15.1) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.26.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (1 week ago)
 - [`laravel/cashier-stripe:v14.12.6`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.6) (1 week ago)
-- [`laravel/pint:v1.13.1`](https://github.com/laravel/pint/releases/tag/v1.13.1) (1 week ago)
 
 ### Recent followers on GitHub
 
