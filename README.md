@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@MauricioFauth`](https://github.com/MauricioFauth)
 - [`@RikValens1988`](https://github.com/RikValens1988)
 - [`@theoboldalex`](https://github.com/theoboldalex)
 - [`@dyriavin`](https://github.com/dyriavin)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Zack4DEV`](https://github.com/Zack4DEV)
 - [`@bezin`](https://github.com/bezin)
 - [`@munasikawa`](https://github.com/munasikawa)
-- [`@FarhanHamza`](https://github.com/FarhanHamza)
 
 ### Recent sponsors on GitHub
 
