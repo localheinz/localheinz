@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (4 days ago)
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (5 days ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (2 months ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (4 months ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (5 months ago)
@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/composer-normalize:2.37.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.37.0) (1 day ago)
-- [`composer/composer:2.6.3`](https://github.com/composer/composer/releases/tag/2.6.3) (1 day ago)
-- [`stripe/stripe-php:v12.4.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.4.0-beta.1) (1 day ago)
-- [`pestphp/pest:v2.18.2`](https://github.com/pestphp/pest/releases/tag/v2.18.2) (3 days ago)
-- [`ergebnis/license:2.2.0`](https://github.com/ergebnis/license/releases/tag/2.2.0) (3 days ago)
-- [`ergebnis/classy:1.5.0`](https://github.com/ergebnis/classy/releases/tag/1.5.0) (3 days ago)
-- [`segmentio/analytics-php:3.7.0`](https://github.com/segmentio/analytics-php/releases/tag/3.7.0) (5 days ago)
+- [`ergebnis/composer-normalize:2.37.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.37.0) (2 days ago)
+- [`composer/composer:2.6.3`](https://github.com/composer/composer/releases/tag/2.6.3) (2 days ago)
+- [`stripe/stripe-php:v12.4.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.4.0-beta.1) (2 days ago)
+- [`pestphp/pest:v2.18.2`](https://github.com/pestphp/pest/releases/tag/v2.18.2) (4 days ago)
+- [`ergebnis/license:2.2.0`](https://github.com/ergebnis/license/releases/tag/2.2.0) (4 days ago)
+- [`ergebnis/classy:1.5.0`](https://github.com/ergebnis/classy/releases/tag/1.5.0) (4 days ago)
+- [`segmentio/analytics-php:3.7.0`](https://github.com/segmentio/analytics-php/releases/tag/3.7.0) (6 days ago)
 - [`ergebnis/php-cs-fixer-config:5.15.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/5.15.1) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.26.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.26.1) (1 week ago)
 - [`laravel/cashier-stripe:v14.12.6`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.6) (1 week ago)
