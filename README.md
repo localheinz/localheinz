@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/php-cs-fixer-config:6.5.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.5.0) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.32.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.32.0) (today)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.34.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.0) (today)
+- [`ergebnis/php-cs-fixer-config:6.6.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.6.0) (today)
 - [`composer/composer:2.6.4`](https://github.com/composer/composer/releases/tag/2.6.4) (today)
 - [`stripe/stripe-php:v12.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.6.0-beta.1) (today)
 - [`pimcore/data-importer:v1.8.4`](https://github.com/pimcore/data-importer/releases/tag/v1.8.4) (1 day ago)
