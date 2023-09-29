@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.31.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.31.0) (today)
+- [`ergebnis/php-cs-fixer-config:6.5.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.5.0) (today)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.32.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.32.0) (today)
 - [`composer/composer:2.6.4`](https://github.com/composer/composer/releases/tag/2.6.4) (today)
 - [`stripe/stripe-php:v12.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.6.0-beta.1) (today)
 - [`pimcore/data-importer:v1.8.4`](https://github.com/pimcore/data-importer/releases/tag/v1.8.4) (1 day ago)
-- [`ergebnis/php-cs-fixer-config:6.4.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.4.0) (2 days ago)
 - [`laravel/cashier-stripe:v14.12.7`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.7) (3 days ago)
 - [`php-fig/http-client:1.0.3`](https://github.com/php-fig/http-client/releases/tag/1.0.3) (6 days ago)
 - [`laravel/pint:v1.13.2`](https://github.com/laravel/pint/releases/tag/v1.13.2) (1 week ago)
