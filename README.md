@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@krithikpriyan`](https://github.com/krithikpriyan)
 - [`@wblessen`](https://github.com/wblessen)
 - [`@shakiliitju`](https://github.com/shakiliitju)
 - [`@kristos80`](https://github.com/kristos80)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@theoboldalex`](https://github.com/theoboldalex)
 - [`@dyriavin`](https://github.com/dyriavin)
 - [`@theodorejb`](https://github.com/theodorejb)
-- [`@dusanringer`](https://github.com/dusanringer)
 
 ### Recent sponsors on GitHub
 
