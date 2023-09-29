@@ -19,22 +19,22 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (6 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (6 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (6 months ago)
-- [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (6 months ago)
+- [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (7 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (7 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (7 months ago)
 
 ### Recent releases I have contributed to
 
-- [`pimcore/data-importer:v1.8.4`](https://github.com/pimcore/data-importer/releases/tag/v1.8.4) (today)
-- [`ergebnis/php-cs-fixer-config:6.4.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.4.0) (1 day ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.30.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.30.0) (2 days ago)
-- [`laravel/cashier-stripe:v14.12.7`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.7) (2 days ago)
-- [`php-fig/http-client:1.0.3`](https://github.com/php-fig/http-client/releases/tag/1.0.3) (5 days ago)
-- [`stripe/stripe-php:v12.5.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.5.0-beta.1) (1 week ago)
+- [`stripe/stripe-php:v12.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.6.0-beta.1) (today)
+- [`pimcore/data-importer:v1.8.4`](https://github.com/pimcore/data-importer/releases/tag/v1.8.4) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:6.4.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.4.0) (2 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.30.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.30.0) (3 days ago)
+- [`laravel/cashier-stripe:v14.12.7`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.7) (3 days ago)
+- [`php-fig/http-client:1.0.3`](https://github.com/php-fig/http-client/releases/tag/1.0.3) (6 days ago)
 - [`laravel/pint:v1.13.2`](https://github.com/laravel/pint/releases/tag/v1.13.2) (1 week ago)
 - [`pestphp/pest:v2.19.2`](https://github.com/pestphp/pest/releases/tag/v2.19.2) (1 week ago)
-- [`ergebnis/composer-normalize:2.37.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.37.0) (1 week ago)
-- [`composer/composer:2.6.3`](https://github.com/composer/composer/releases/tag/2.6.3) (1 week ago)
+- [`ergebnis/composer-normalize:2.37.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.37.0) (2 weeks ago)
+- [`composer/composer:2.6.3`](https://github.com/composer/composer/releases/tag/2.6.3) (2 weeks ago)
 
 ### Recent followers on GitHub
 
