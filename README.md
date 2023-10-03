@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (2 weeks ago)
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (3 weeks ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (2 months ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (4 months ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (5 months ago)
@@ -25,15 +25,15 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/rector-rules:0.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.1.0) (2 days ago)
-- [`symfony/symfony:v6.3.5`](https://github.com/symfony/symfony/releases/tag/v6.3.5) (2 days ago)
-- [`pestphp/pest:v2.20.0`](https://github.com/pestphp/pest/releases/tag/v2.20.0) (3 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.34.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.0) (3 days ago)
-- [`ergebnis/php-cs-fixer-config:6.6.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.6.0) (3 days ago)
-- [`composer/composer:2.6.4`](https://github.com/composer/composer/releases/tag/2.6.4) (3 days ago)
-- [`stripe/stripe-php:v12.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.6.0-beta.1) (3 days ago)
-- [`pimcore/data-importer:v1.8.4`](https://github.com/pimcore/data-importer/releases/tag/v1.8.4) (4 days ago)
-- [`laravel/cashier-stripe:v14.12.7`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.7) (6 days ago)
+- [`ergebnis/rector-rules:0.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.1.0) (3 days ago)
+- [`symfony/symfony:v6.3.5`](https://github.com/symfony/symfony/releases/tag/v6.3.5) (3 days ago)
+- [`pestphp/pest:v2.20.0`](https://github.com/pestphp/pest/releases/tag/v2.20.0) (4 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.34.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.0) (4 days ago)
+- [`ergebnis/php-cs-fixer-config:6.6.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.6.0) (4 days ago)
+- [`composer/composer:2.6.4`](https://github.com/composer/composer/releases/tag/2.6.4) (4 days ago)
+- [`stripe/stripe-php:v12.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.6.0-beta.1) (4 days ago)
+- [`pimcore/data-importer:v1.8.4`](https://github.com/pimcore/data-importer/releases/tag/v1.8.4) (5 days ago)
+- [`laravel/cashier-stripe:v14.12.7`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.7) (1 week ago)
 - [`php-fig/http-client:1.0.3`](https://github.com/php-fig/http-client/releases/tag/1.0.3) (1 week ago)
 
 ### Recent followers on GitHub
@@ -51,7 +51,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent sponsors on GitHub
 
-- [`@clue`](https://github.com/clue) (1 week ago)
+- [`@clue`](https://github.com/clue) (2 weeks ago)
 - [`@JesusValera`](https://github.com/JesusValera) (11 months ago)
 - [`@Chemaclass`](https://github.com/Chemaclass) (11 months ago)
 - [`@yesdevnull`](https://github.com/yesdevnull) (2 years ago)
