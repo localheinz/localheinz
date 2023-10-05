@@ -25,15 +25,15 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.34.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.1) (1 day ago)
-- [`laravel/cashier-stripe:v14.12.8`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.8) (1 day ago)
-- [`ergebnis/rector-rules:0.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.1.0) (4 days ago)
-- [`symfony/symfony:v6.3.5`](https://github.com/symfony/symfony/releases/tag/v6.3.5) (4 days ago)
-- [`pestphp/pest:v2.20.0`](https://github.com/pestphp/pest/releases/tag/v2.20.0) (5 days ago)
-- [`ergebnis/php-cs-fixer-config:6.6.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.6.0) (5 days ago)
-- [`composer/composer:2.6.4`](https://github.com/composer/composer/releases/tag/2.6.4) (5 days ago)
-- [`stripe/stripe-php:v12.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.6.0-beta.1) (5 days ago)
-- [`pimcore/data-importer:v1.8.4`](https://github.com/pimcore/data-importer/releases/tag/v1.8.4) (6 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.34.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.34.1) (2 days ago)
+- [`laravel/cashier-stripe:v14.12.8`](https://github.com/laravel/cashier-stripe/releases/tag/v14.12.8) (2 days ago)
+- [`ergebnis/rector-rules:0.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.1.0) (5 days ago)
+- [`symfony/symfony:v6.3.5`](https://github.com/symfony/symfony/releases/tag/v6.3.5) (5 days ago)
+- [`pestphp/pest:v2.20.0`](https://github.com/pestphp/pest/releases/tag/v2.20.0) (6 days ago)
+- [`ergebnis/php-cs-fixer-config:6.6.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.6.0) (6 days ago)
+- [`composer/composer:2.6.4`](https://github.com/composer/composer/releases/tag/2.6.4) (6 days ago)
+- [`stripe/stripe-php:v12.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v12.6.0-beta.1) (6 days ago)
+- [`pimcore/data-importer:v1.8.4`](https://github.com/pimcore/data-importer/releases/tag/v1.8.4) (1 week ago)
 - [`php-fig/http-client:1.0.3`](https://github.com/php-fig/http-client/releases/tag/1.0.3) (1 week ago)
 
 ### Recent followers on GitHub
