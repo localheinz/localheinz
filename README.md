@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`stripe/stripe-php:v13.4.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.4.0-beta.1) (today)
 - [`symfony/symfony:v7.0.0-BETA3`](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3) (today)
-- [`stripe/stripe-php:v13.3.0`](https://github.com/stripe/stripe-php/releases/tag/v13.3.0) (1 day ago)
 - [`pimcore/data-importer:v1.8.5`](https://github.com/pimcore/data-importer/releases/tag/v1.8.5) (1 day ago)
 - [`laravel/cashier-stripe:v14.13.1`](https://github.com/laravel/cashier-stripe/releases/tag/v14.13.1) (2 days ago)
 - [`pestphp/pest:v2.24.3`](https://github.com/pestphp/pest/releases/tag/v2.24.3) (2 days ago)
