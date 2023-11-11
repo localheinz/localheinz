@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@EvS444`](https://github.com/EvS444)
 - [`@Joseph0207`](https://github.com/Joseph0207)
 - [`@puf-puf-42`](https://github.com/puf-puf-42)
 - [`@vinceAmstoutz`](https://github.com/vinceAmstoutz)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@CodePromoter`](https://github.com/CodePromoter)
 - [`@alineai21`](https://github.com/alineai21)
 - [`@dinosoid`](https://github.com/dinosoid)
-- [`@athosss23`](https://github.com/athosss23)
 
 ### Recent sponsors on GitHub
 
