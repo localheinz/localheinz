@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`doctrine/DoctrineBundle:2.11.0`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.0) (today)
 - [`stripe/stripe-php:v13.4.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.4.0-beta.1) (2 days ago)
 - [`symfony/symfony:v7.0.0-BETA3`](https://github.com/symfony/symfony/releases/tag/v7.0.0-BETA3) (2 days ago)
 - [`pimcore/data-importer:v1.8.5`](https://github.com/pimcore/data-importer/releases/tag/v1.8.5) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/phpunit-slow-test-detector:2.4.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.4.0) (5 days ago)
 - [`ergebnis/php-cs-fixer-config:6.11.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.11.0) (5 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.38.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.0) (5 days ago)
-- [`laminas/laminas-tag:2.10.0`](https://github.com/laminas/laminas-tag/releases/tag/2.10.0) (1 week ago)
 
 ### Recent followers on GitHub
 
