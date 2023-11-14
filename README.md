@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@zhenrong-wang`](https://github.com/zhenrong-wang)
 - [`@EvS444`](https://github.com/EvS444)
 - [`@Joseph0207`](https://github.com/Joseph0207)
 - [`@puf-puf-42`](https://github.com/puf-puf-42)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@jimmyurl`](https://github.com/jimmyurl)
 - [`@CodePromoter`](https://github.com/CodePromoter)
 - [`@alineai21`](https://github.com/alineai21)
-- [`@dinosoid`](https://github.com/dinosoid)
 
 ### Recent sponsors on GitHub
 
