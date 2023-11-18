@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`teapot-php/status-code:2.2.0`](https://github.com/teapot-php/status-code/releases/tag/2.2.0) (today)
-- [`doctrine/DoctrineBundle:2.11.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.1) (2 days ago)
-- [`symfony/symfony:v7.0.0-RC1`](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (2 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.38.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2) (3 days ago)
+- [`teapot-php/status-code:2.2.0`](https://github.com/teapot-php/status-code/releases/tag/2.2.0) (1 day ago)
+- [`doctrine/DoctrineBundle:2.11.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.1) (3 days ago)
+- [`symfony/symfony:v7.0.0-RC1`](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (3 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.38.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.38.2) (4 days ago)
 - [`stripe/stripe-php:v13.4.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.4.0-beta.1) (1 week ago)
 - [`pimcore/data-importer:v1.8.5`](https://github.com/pimcore/data-importer/releases/tag/v1.8.5) (1 week ago)
 - [`laravel/cashier-stripe:v14.13.1`](https://github.com/laravel/cashier-stripe/releases/tag/v14.13.1) (1 week ago)
