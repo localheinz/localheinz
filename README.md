@@ -38,6 +38,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@phpfriend95`](https://github.com/phpfriend95)
+- [`@athosss23`](https://github.com/athosss23)
 - [`@GravataPreta`](https://github.com/GravataPreta)
 - [`@alineai21`](https://github.com/alineai21)
 - [`@A909M`](https://github.com/A909M)
@@ -46,8 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@EvS444`](https://github.com/EvS444)
 - [`@Joseph0207`](https://github.com/Joseph0207)
 - [`@puf-puf-42`](https://github.com/puf-puf-42)
-- [`@vinceAmstoutz`](https://github.com/vinceAmstoutz)
-- [`@fezfez`](https://github.com/fezfez)
 
 ### Recent sponsors on GitHub
 
