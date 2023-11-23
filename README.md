@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pimcore/data-importer:v1.8.6`](https://github.com/pimcore/data-importer/releases/tag/v1.8.6) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.39.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.0) (1 day ago)
 - [`pestphp/pest:v2.25.0`](https://github.com/pestphp/pest/releases/tag/v2.25.0) (1 day ago)
 - [`stripe/stripe-php:v13.5.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.5.0-beta.1) (2 days ago)
@@ -32,7 +33,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`teapot-php/status-code:2.2.0`](https://github.com/teapot-php/status-code/releases/tag/2.2.0) (6 days ago)
 - [`doctrine/DoctrineBundle:2.11.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.1) (1 week ago)
 - [`symfony/symfony:v7.0.0-RC1`](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (1 week ago)
-- [`pimcore/data-importer:v1.8.5`](https://github.com/pimcore/data-importer/releases/tag/v1.8.5) (2 weeks ago)
 - [`laravel/pint:v1.13.6`](https://github.com/laravel/pint/releases/tag/v1.13.6) (2 weeks ago)
 - [`ergebnis/phpunit-slow-test-detector:2.4.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.4.0) (2 weeks ago)
 
