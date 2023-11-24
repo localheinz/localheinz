@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.39.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.1) (today)
 - [`laminas/laminas-tag:2.11.0`](https://github.com/laminas/laminas-tag/releases/tag/2.11.0) (today)
 - [`pimcore/data-importer:v1.8.6`](https://github.com/pimcore/data-importer/releases/tag/v1.8.6) (1 day ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.39.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.0) (2 days ago)
 - [`pestphp/pest:v2.25.0`](https://github.com/pestphp/pest/releases/tag/v2.25.0) (2 days ago)
 - [`stripe/stripe-php:v13.5.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.5.0-beta.1) (3 days ago)
 - [`laravel/cashier-stripe:v14.14.0`](https://github.com/laravel/cashier-stripe/releases/tag/v14.14.0) (3 days ago)
