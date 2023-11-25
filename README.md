@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.39.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.1) (today)
-- [`laminas/laminas-tag:2.11.0`](https://github.com/laminas/laminas-tag/releases/tag/2.11.0) (today)
-- [`pimcore/data-importer:v1.8.6`](https://github.com/pimcore/data-importer/releases/tag/v1.8.6) (1 day ago)
-- [`pestphp/pest:v2.25.0`](https://github.com/pestphp/pest/releases/tag/v2.25.0) (2 days ago)
-- [`stripe/stripe-php:v13.5.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.5.0-beta.1) (3 days ago)
-- [`laravel/cashier-stripe:v14.14.0`](https://github.com/laravel/cashier-stripe/releases/tag/v14.14.0) (3 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.39.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.39.1) (1 day ago)
+- [`laminas/laminas-tag:2.11.0`](https://github.com/laminas/laminas-tag/releases/tag/2.11.0) (1 day ago)
+- [`pimcore/data-importer:v1.8.6`](https://github.com/pimcore/data-importer/releases/tag/v1.8.6) (2 days ago)
+- [`pestphp/pest:v2.25.0`](https://github.com/pestphp/pest/releases/tag/v2.25.0) (3 days ago)
+- [`stripe/stripe-php:v13.5.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.5.0-beta.1) (4 days ago)
+- [`laravel/cashier-stripe:v14.14.0`](https://github.com/laravel/cashier-stripe/releases/tag/v14.14.0) (4 days ago)
 - [`teapot-php/status-code:2.2.0`](https://github.com/teapot-php/status-code/releases/tag/2.2.0) (1 week ago)
 - [`doctrine/DoctrineBundle:2.11.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.1) (1 week ago)
 - [`symfony/symfony:v7.0.0-RC1`](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC1) (1 week ago)
