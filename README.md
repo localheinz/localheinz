@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/php-cs-fixer-config:6.12.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.12.0) (today)
 - [`symfony/symfony:v7.0.0-RC2`](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2) (1 day ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.0) (1 day ago)
 - [`laminas/laminas-tag:2.11.0`](https://github.com/laminas/laminas-tag/releases/tag/2.11.0) (3 days ago)
@@ -34,10 +35,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`laravel/cashier-stripe:v14.14.0`](https://github.com/laravel/cashier-stripe/releases/tag/v14.14.0) (6 days ago)
 - [`teapot-php/status-code:2.2.0`](https://github.com/teapot-php/status-code/releases/tag/2.2.0) (1 week ago)
 - [`doctrine/DoctrineBundle:2.11.1`](https://github.com/doctrine/DoctrineBundle/releases/tag/2.11.1) (1 week ago)
-- [`laravel/pint:v1.13.6`](https://github.com/laravel/pint/releases/tag/v1.13.6) (2 weeks ago)
 
 ### Recent followers on GitHub
 
+- [`@LtMost`](https://github.com/LtMost)
 - [`@A909M`](https://github.com/A909M)
 - [`@cyprianmeister`](https://github.com/cyprianmeister)
 - [`@zhenrong-wang`](https://github.com/zhenrong-wang)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@fezfez`](https://github.com/fezfez)
 - [`@chrisipiranga`](https://github.com/chrisipiranga)
 - [`@jimmyurl`](https://github.com/jimmyurl)
-- [`@emilw991119`](https://github.com/emilw991119)
 
 ### Recent sponsors on GitHub
 
