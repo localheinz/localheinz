@@ -25,6 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/classy:1.6.0`](https://github.com/ergebnis/classy/releases/tag/1.6.0) (today)
+- [`ergebnis/license:2.3.0`](https://github.com/ergebnis/license/releases/tag/2.3.0) (today)
 - [`ergebnis/data-provider:3.1.0`](https://github.com/ergebnis/data-provider/releases/tag/3.1.0) (today)
 - [`ergebnis/php-cs-fixer-config:6.12.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.12.0) (today)
 - [`symfony/symfony:v7.0.0-RC2`](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2) (1 day ago)
@@ -33,8 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`pimcore/data-importer:v1.8.6`](https://github.com/pimcore/data-importer/releases/tag/v1.8.6) (4 days ago)
 - [`pestphp/pest:v2.25.0`](https://github.com/pestphp/pest/releases/tag/v2.25.0) (5 days ago)
 - [`stripe/stripe-php:v13.5.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.5.0-beta.1) (6 days ago)
-- [`laravel/cashier-stripe:v14.14.0`](https://github.com/laravel/cashier-stripe/releases/tag/v14.14.0) (6 days ago)
-- [`teapot-php/status-code:2.2.0`](https://github.com/teapot-php/status-code/releases/tag/2.2.0) (1 week ago)
 
 ### Recent followers on GitHub
 
