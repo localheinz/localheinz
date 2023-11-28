@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/environment-variables:1.5.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.5.0) (today)
 - [`ergebnis/classy:1.6.0`](https://github.com/ergebnis/classy/releases/tag/1.6.0) (1 day ago)
 - [`ergebnis/license:2.3.0`](https://github.com/ergebnis/license/releases/tag/2.3.0) (1 day ago)
 - [`ergebnis/data-provider:3.1.0`](https://github.com/ergebnis/data-provider/releases/tag/3.1.0) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`laminas/laminas-tag:2.11.0`](https://github.com/laminas/laminas-tag/releases/tag/2.11.0) (4 days ago)
 - [`pimcore/data-importer:v1.8.6`](https://github.com/pimcore/data-importer/releases/tag/v1.8.6) (5 days ago)
 - [`pestphp/pest:v2.25.0`](https://github.com/pestphp/pest/releases/tag/v2.25.0) (6 days ago)
-- [`stripe/stripe-php:v13.5.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.5.0-beta.1) (1 week ago)
 
 ### Recent followers on GitHub
 
