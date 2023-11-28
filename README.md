@@ -42,12 +42,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@A909M`](https://github.com/A909M)
 - [`@cyprianmeister`](https://github.com/cyprianmeister)
 - [`@zhenrong-wang`](https://github.com/zhenrong-wang)
-- [`@EvS444`](https://github.com/EvS444)
 - [`@Joseph0207`](https://github.com/Joseph0207)
 - [`@vinceAmstoutz`](https://github.com/vinceAmstoutz)
 - [`@fezfez`](https://github.com/fezfez)
 - [`@chrisipiranga`](https://github.com/chrisipiranga)
 - [`@jimmyurl`](https://github.com/jimmyurl)
+- [`@emilw991119`](https://github.com/emilw991119)
 
 ### Recent sponsors on GitHub
 
