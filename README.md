@@ -25,6 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/http-method:2.5.0`](https://github.com/ergebnis/http-method/releases/tag/2.5.0) (today)
+- [`ergebnis/factory-bot:1.5.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.5.0) (today)
 - [`ergebnis/environment-variables:1.5.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.5.0) (today)
 - [`ergebnis/classy:1.6.0`](https://github.com/ergebnis/classy/releases/tag/1.6.0) (1 day ago)
 - [`ergebnis/license:2.3.0`](https://github.com/ergebnis/license/releases/tag/2.3.0) (1 day ago)
@@ -33,8 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`symfony/symfony:v7.0.0-RC2`](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2) (2 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.0) (2 days ago)
 - [`laminas/laminas-tag:2.11.0`](https://github.com/laminas/laminas-tag/releases/tag/2.11.0) (4 days ago)
-- [`pimcore/data-importer:v1.8.6`](https://github.com/pimcore/data-importer/releases/tag/v1.8.6) (5 days ago)
-- [`pestphp/pest:v2.25.0`](https://github.com/pestphp/pest/releases/tag/v2.25.0) (6 days ago)
 
 ### Recent followers on GitHub
 
