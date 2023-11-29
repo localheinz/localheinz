@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.26.0`](https://github.com/pestphp/pest/releases/tag/v2.26.0) (today)
 - [`ergebnis/rector-rules:0.2.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.2.0) (1 day ago)
 - [`ergebnis/http-method:2.5.0`](https://github.com/ergebnis/http-method/releases/tag/2.5.0) (1 day ago)
 - [`ergebnis/factory-bot:1.5.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.5.0) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/data-provider:3.1.0`](https://github.com/ergebnis/data-provider/releases/tag/3.1.0) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:6.12.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.12.0) (2 days ago)
 - [`symfony/symfony:v7.0.0-RC2`](https://github.com/symfony/symfony/releases/tag/v7.0.0-RC2) (3 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.0) (3 days ago)
 
 ### Recent followers on GitHub
 
