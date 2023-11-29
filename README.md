@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/rector-rules:0.3.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.3.0) (today)
 - [`friendsoftwig/twigcs:6.3.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.3.0) (today)
 - [`symfony/symfony:v7.0.0`](https://github.com/symfony/symfony/releases/tag/v7.0.0) (today)
 - [`pestphp/pest:v2.26.0`](https://github.com/pestphp/pest/releases/tag/v2.26.0) (today)
-- [`ergebnis/rector-rules:0.2.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.2.0) (1 day ago)
 - [`ergebnis/http-method:2.5.0`](https://github.com/ergebnis/http-method/releases/tag/2.5.0) (1 day ago)
 - [`ergebnis/factory-bot:1.5.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.5.0) (1 day ago)
 - [`ergebnis/environment-variables:1.5.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.5.0) (1 day ago)
