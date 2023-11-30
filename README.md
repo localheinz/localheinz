@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`stripe/stripe-php:v13.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.6.0-beta.1) (today)
 - [`ergebnis/data-provider:3.2.0`](https://github.com/ergebnis/data-provider/releases/tag/3.2.0) (today)
 - [`ergebnis/license:2.4.0`](https://github.com/ergebnis/license/releases/tag/2.4.0) (today)
 - [`ergebnis/php-cs-fixer-config:6.13.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.0) (today)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`pestphp/pest:v2.26.0`](https://github.com/pestphp/pest/releases/tag/v2.26.0) (1 day ago)
 - [`ergebnis/http-method:2.5.0`](https://github.com/ergebnis/http-method/releases/tag/2.5.0) (2 days ago)
 - [`ergebnis/factory-bot:1.5.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.5.0) (2 days ago)
-- [`ergebnis/environment-variables:1.5.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.5.0) (2 days ago)
 
 ### Recent followers on GitHub
 
