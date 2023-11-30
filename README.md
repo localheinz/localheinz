@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/license:2.4.0`](https://github.com/ergebnis/license/releases/tag/2.4.0) (today)
 - [`ergebnis/php-cs-fixer-config:6.13.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.0) (today)
 - [`ergebnis/rector-rules:0.3.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.3.0) (1 day ago)
 - [`friendsoftwig/twigcs:6.3.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.3.0) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/factory-bot:1.5.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.5.0) (2 days ago)
 - [`ergebnis/environment-variables:1.5.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.5.0) (2 days ago)
 - [`ergebnis/classy:1.6.0`](https://github.com/ergebnis/classy/releases/tag/1.6.0) (3 days ago)
-- [`ergebnis/license:2.3.0`](https://github.com/ergebnis/license/releases/tag/2.3.0) (3 days ago)
 
 ### Recent followers on GitHub
 
