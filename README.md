@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpunit-slow-test-detector:2.6.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.6.0) (today)
+- [`ergebnis/phpunit-slow-test-detector:2.7.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.7.0) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (today)
 - [`nicmart/Tree:0.8.0`](https://github.com/nicmart/Tree/releases/tag/0.8.0) (1 day ago)
 - [`symfony/symfony:v7.0.1`](https://github.com/symfony/symfony/releases/tag/v7.0.1) (2 days ago)
