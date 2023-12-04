@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpunit-slow-test-detector:2.7.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.7.0) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (today)
-- [`nicmart/Tree:0.8.0`](https://github.com/nicmart/Tree/releases/tag/0.8.0) (1 day ago)
-- [`symfony/symfony:v7.0.1`](https://github.com/symfony/symfony/releases/tag/v7.0.1) (2 days ago)
-- [`stripe/stripe-php:v13.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.6.0-beta.1) (3 days ago)
-- [`ergebnis/data-provider:3.2.0`](https://github.com/ergebnis/data-provider/releases/tag/3.2.0) (3 days ago)
-- [`ergebnis/license:2.4.0`](https://github.com/ergebnis/license/releases/tag/2.4.0) (3 days ago)
-- [`ergebnis/php-cs-fixer-config:6.13.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.0) (3 days ago)
-- [`ergebnis/rector-rules:0.3.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.3.0) (4 days ago)
-- [`friendsoftwig/twigcs:6.3.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.3.0) (4 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.7.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.7.0) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (1 day ago)
+- [`nicmart/Tree:0.8.0`](https://github.com/nicmart/Tree/releases/tag/0.8.0) (2 days ago)
+- [`symfony/symfony:v7.0.1`](https://github.com/symfony/symfony/releases/tag/v7.0.1) (3 days ago)
+- [`stripe/stripe-php:v13.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.6.0-beta.1) (4 days ago)
+- [`ergebnis/data-provider:3.2.0`](https://github.com/ergebnis/data-provider/releases/tag/3.2.0) (4 days ago)
+- [`ergebnis/license:2.4.0`](https://github.com/ergebnis/license/releases/tag/2.4.0) (4 days ago)
+- [`ergebnis/php-cs-fixer-config:6.13.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.0) (4 days ago)
+- [`ergebnis/rector-rules:0.3.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.3.0) (5 days ago)
+- [`friendsoftwig/twigcs:6.3.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.3.0) (5 days ago)
 
 ### Recent followers on GitHub
 
