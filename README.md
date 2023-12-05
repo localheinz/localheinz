@@ -18,23 +18,23 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (7 months ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (8 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (8 months ago)
-- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (8 months ago)
+- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (9 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (9 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (9 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (9 months ago)
 
 ### Recent releases I have contributed to
 
-- [`optimizely/php-sdk:4.0.1`](https://github.com/optimizely/php-sdk/releases/tag/4.0.1) (today)
-- [`ergebnis/php-cs-fixer-config:6.13.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.1) (today)
-- [`pestphp/pest:v2.27.0`](https://github.com/pestphp/pest/releases/tag/v2.27.0) (today)
-- [`ergebnis/phpunit-slow-test-detector:2.7.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.7.0) (1 day ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (1 day ago)
-- [`nicmart/Tree:0.8.0`](https://github.com/nicmart/Tree/releases/tag/0.8.0) (2 days ago)
-- [`symfony/symfony:v7.0.1`](https://github.com/symfony/symfony/releases/tag/v7.0.1) (3 days ago)
-- [`stripe/stripe-php:v13.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.6.0-beta.1) (4 days ago)
-- [`ergebnis/data-provider:3.2.0`](https://github.com/ergebnis/data-provider/releases/tag/3.2.0) (4 days ago)
-- [`ergebnis/license:2.4.0`](https://github.com/ergebnis/license/releases/tag/2.4.0) (4 days ago)
+- [`optimizely/php-sdk:4.0.1`](https://github.com/optimizely/php-sdk/releases/tag/4.0.1) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:6.13.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.1) (1 day ago)
+- [`pestphp/pest:v2.27.0`](https://github.com/pestphp/pest/releases/tag/v2.27.0) (1 day ago)
+- [`ergebnis/phpunit-slow-test-detector:2.7.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.7.0) (2 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (2 days ago)
+- [`nicmart/Tree:0.8.0`](https://github.com/nicmart/Tree/releases/tag/0.8.0) (3 days ago)
+- [`symfony/symfony:v7.0.1`](https://github.com/symfony/symfony/releases/tag/v7.0.1) (4 days ago)
+- [`stripe/stripe-php:v13.6.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.6.0-beta.1) (5 days ago)
+- [`ergebnis/data-provider:3.2.0`](https://github.com/ergebnis/data-provider/releases/tag/3.2.0) (5 days ago)
+- [`ergebnis/license:2.4.0`](https://github.com/ergebnis/license/releases/tag/2.4.0) (5 days ago)
 
 ### Recent followers on GitHub
 
