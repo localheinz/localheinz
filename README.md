@@ -14,8 +14,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 - [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (2 months ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (4 months ago)
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (6 months ago)
-- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (7 months ago)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (7 months ago)
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (8 months ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (8 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (8 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (9 months ago)
@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`laravel/pint:v1.13.7`](https://github.com/laravel/pint/releases/tag/v1.13.7) (today)
-- [`pestphp/pest:v2.28.0`](https://github.com/pestphp/pest/releases/tag/v2.28.0) (today)
-- [`ergebnis/composer-normalize:2.40.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.40.0) (today)
-- [`friendsoftwig/twigcs:6.4.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.4.0) (today)
-- [`optimizely/php-sdk:4.0.1`](https://github.com/optimizely/php-sdk/releases/tag/4.0.1) (1 day ago)
-- [`ergebnis/php-cs-fixer-config:6.13.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.1) (1 day ago)
-- [`ergebnis/phpunit-slow-test-detector:2.7.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.7.0) (2 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (2 days ago)
-- [`nicmart/Tree:0.8.0`](https://github.com/nicmart/Tree/releases/tag/0.8.0) (3 days ago)
-- [`symfony/symfony:v7.0.1`](https://github.com/symfony/symfony/releases/tag/v7.0.1) (4 days ago)
+- [`laravel/pint:v1.13.7`](https://github.com/laravel/pint/releases/tag/v1.13.7) (1 day ago)
+- [`pestphp/pest:v2.28.0`](https://github.com/pestphp/pest/releases/tag/v2.28.0) (1 day ago)
+- [`ergebnis/composer-normalize:2.40.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.40.0) (1 day ago)
+- [`friendsoftwig/twigcs:6.4.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.4.0) (1 day ago)
+- [`optimizely/php-sdk:4.0.1`](https://github.com/optimizely/php-sdk/releases/tag/4.0.1) (2 days ago)
+- [`ergebnis/php-cs-fixer-config:6.13.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.1) (2 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.7.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.7.0) (3 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (3 days ago)
+- [`nicmart/Tree:0.8.0`](https://github.com/nicmart/Tree/releases/tag/0.8.0) (4 days ago)
+- [`symfony/symfony:v7.0.1`](https://github.com/symfony/symfony/releases/tag/v7.0.1) (5 days ago)
 
 ### Recent followers on GitHub
 
@@ -55,7 +55,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Chemaclass`](https://github.com/Chemaclass) (1 year ago)
 - [`@yesdevnull`](https://github.com/yesdevnull) (2 years ago)
 - [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (3 years ago)
-- [`@adamlundrigan`](https://github.com/adamlundrigan) (3 years ago)
+- [`@adamlundrigan`](https://github.com/adamlundrigan) (4 years ago)
 
 <hr>
 
