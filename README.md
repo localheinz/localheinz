@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@pfpro`](https://github.com/pfpro)
 - [`@LtMost`](https://github.com/LtMost)
 - [`@A909M`](https://github.com/A909M)
 - [`@cyprianmeister`](https://github.com/cyprianmeister)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@fezfez`](https://github.com/fezfez)
 - [`@chrisipiranga`](https://github.com/chrisipiranga)
 - [`@jimmyurl`](https://github.com/jimmyurl)
-- [`@emilw991119`](https://github.com/emilw991119)
 
 ### Recent sponsors on GitHub
 
