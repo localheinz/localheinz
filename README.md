@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`phpspec/prophecy-phpunit:v2.1.0`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.1.0) (today)
 - [`stripe/stripe-php:v13.6.0`](https://github.com/stripe/stripe-php/releases/tag/v13.6.0) (1 day ago)
 - [`laravel/pint:v1.13.7`](https://github.com/laravel/pint/releases/tag/v1.13.7) (3 days ago)
 - [`pestphp/pest:v2.28.0`](https://github.com/pestphp/pest/releases/tag/v2.28.0) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/php-cs-fixer-config:6.13.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.1) (4 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.7.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.7.0) (5 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.40.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.40.2) (5 days ago)
-- [`nicmart/Tree:0.8.0`](https://github.com/nicmart/Tree/releases/tag/0.8.0) (6 days ago)
 
 ### Recent followers on GitHub
 
