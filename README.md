@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.0) (2 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (today)
 - [`stripe/stripe-php:v13.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.7.0-beta.1) (2 days ago)
 - [`composer/composer:2.6.6`](https://github.com/composer/composer/releases/tag/2.6.6) (2 days ago)
 - [`phpspec/prophecy-phpunit:v2.1.0`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.1.0) (2 days ago)
