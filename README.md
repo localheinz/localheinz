@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (2 months ago)
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (3 months ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (4 months ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (7 months ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (8 months ago)
@@ -21,20 +21,20 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (9 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (9 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (9 months ago)
-- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (9 months ago)
+- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (10 months ago)
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (today)
-- [`stripe/stripe-php:v13.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.7.0-beta.1) (2 days ago)
-- [`composer/composer:2.6.6`](https://github.com/composer/composer/releases/tag/2.6.6) (2 days ago)
-- [`phpspec/prophecy-phpunit:v2.1.0`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.1.0) (2 days ago)
-- [`laravel/pint:v1.13.7`](https://github.com/laravel/pint/releases/tag/v1.13.7) (5 days ago)
-- [`pestphp/pest:v2.28.0`](https://github.com/pestphp/pest/releases/tag/v2.28.0) (5 days ago)
-- [`ergebnis/composer-normalize:2.40.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.40.0) (5 days ago)
-- [`friendsoftwig/twigcs:6.4.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.4.0) (5 days ago)
-- [`optimizely/php-sdk:4.0.1`](https://github.com/optimizely/php-sdk/releases/tag/4.0.1) (6 days ago)
-- [`ergebnis/php-cs-fixer-config:6.13.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.1) (6 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (1 day ago)
+- [`stripe/stripe-php:v13.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.7.0-beta.1) (3 days ago)
+- [`composer/composer:2.6.6`](https://github.com/composer/composer/releases/tag/2.6.6) (3 days ago)
+- [`phpspec/prophecy-phpunit:v2.1.0`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.1.0) (3 days ago)
+- [`laravel/pint:v1.13.7`](https://github.com/laravel/pint/releases/tag/v1.13.7) (6 days ago)
+- [`pestphp/pest:v2.28.0`](https://github.com/pestphp/pest/releases/tag/v2.28.0) (6 days ago)
+- [`ergebnis/composer-normalize:2.40.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.40.0) (6 days ago)
+- [`friendsoftwig/twigcs:6.4.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.4.0) (6 days ago)
+- [`optimizely/php-sdk:4.0.1`](https://github.com/optimizely/php-sdk/releases/tag/4.0.1) (1 week ago)
+- [`ergebnis/php-cs-fixer-config:6.13.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.1) (1 week ago)
 
 ### Recent followers on GitHub
 
