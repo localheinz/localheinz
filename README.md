@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/playground:0.12.0`](https://github.com/ergebnis/playground/releases/tag/0.12.0) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (1 day ago)
 - [`stripe/stripe-php:v13.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.7.0-beta.1) (3 days ago)
 - [`composer/composer:2.6.6`](https://github.com/composer/composer/releases/tag/2.6.6) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/composer-normalize:2.40.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.40.0) (6 days ago)
 - [`friendsoftwig/twigcs:6.4.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.4.0) (6 days ago)
 - [`optimizely/php-sdk:4.0.1`](https://github.com/optimizely/php-sdk/releases/tag/4.0.1) (1 week ago)
-- [`ergebnis/php-cs-fixer-config:6.13.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.13.1) (1 week ago)
 
 ### Recent followers on GitHub
 
