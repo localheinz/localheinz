@@ -25,19 +25,20 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/playground:0.12.0`](https://github.com/ergebnis/playground/releases/tag/0.12.0) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (1 day ago)
-- [`stripe/stripe-php:v13.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.7.0-beta.1) (3 days ago)
-- [`composer/composer:2.6.6`](https://github.com/composer/composer/releases/tag/2.6.6) (3 days ago)
-- [`phpspec/prophecy-phpunit:v2.1.0`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.1.0) (3 days ago)
-- [`laravel/pint:v1.13.7`](https://github.com/laravel/pint/releases/tag/v1.13.7) (6 days ago)
-- [`pestphp/pest:v2.28.0`](https://github.com/pestphp/pest/releases/tag/v2.28.0) (6 days ago)
-- [`ergebnis/composer-normalize:2.40.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.40.0) (6 days ago)
-- [`friendsoftwig/twigcs:6.4.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.4.0) (6 days ago)
+- [`ergebnis/playground:0.12.0`](https://github.com/ergebnis/playground/releases/tag/0.12.0) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (2 days ago)
+- [`stripe/stripe-php:v13.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.7.0-beta.1) (4 days ago)
+- [`composer/composer:2.6.6`](https://github.com/composer/composer/releases/tag/2.6.6) (4 days ago)
+- [`phpspec/prophecy-phpunit:v2.1.0`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.1.0) (4 days ago)
+- [`laravel/pint:v1.13.7`](https://github.com/laravel/pint/releases/tag/v1.13.7) (1 week ago)
+- [`pestphp/pest:v2.28.0`](https://github.com/pestphp/pest/releases/tag/v2.28.0) (1 week ago)
+- [`ergebnis/composer-normalize:2.40.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.40.0) (1 week ago)
+- [`friendsoftwig/twigcs:6.4.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.4.0) (1 week ago)
 - [`optimizely/php-sdk:4.0.1`](https://github.com/optimizely/php-sdk/releases/tag/4.0.1) (1 week ago)
 
 ### Recent followers on GitHub
 
+- [`@DevAbdoTolba`](https://github.com/DevAbdoTolba)
 - [`@pfpro`](https://github.com/pfpro)
 - [`@LtMost`](https://github.com/LtMost)
 - [`@A909M`](https://github.com/A909M)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@vinceAmstoutz`](https://github.com/vinceAmstoutz)
 - [`@fezfez`](https://github.com/fezfez)
 - [`@chrisipiranga`](https://github.com/chrisipiranga)
-- [`@jimmyurl`](https://github.com/jimmyurl)
 
 ### Recent sponsors on GitHub
 
