@@ -25,7 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`genkgo/camt:2.6.1`](https://github.com/genkgo/camt/releases/tag/2.6.1) (today)
+- [`ergebnis/day-one-to-obsidian-converter:1.1.0`](https://github.com/ergebnis/day-one-to-obsidian-converter/releases/tag/1.1.0) (today)
+- [`genkgo/camt:2.6.2`](https://github.com/genkgo/camt/releases/tag/2.6.2) (today)
 - [`ergebnis/php-cs-fixer-config:6.14.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.14.0) (today)
 - [`ergebnis/playground:0.12.0`](https://github.com/ergebnis/playground/releases/tag/0.12.0) (1 day ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`phpspec/prophecy-phpunit:v2.1.0`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.1.0) (4 days ago)
 - [`laravel/pint:v1.13.7`](https://github.com/laravel/pint/releases/tag/v1.13.7) (1 week ago)
 - [`pestphp/pest:v2.28.0`](https://github.com/pestphp/pest/releases/tag/v2.28.0) (1 week ago)
-- [`ergebnis/composer-normalize:2.40.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.40.0) (1 week ago)
 
 ### Recent followers on GitHub
 
