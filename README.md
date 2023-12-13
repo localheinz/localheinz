@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (today)
 - [`ergebnis/day-one-to-obsidian-converter:1.1.0`](https://github.com/ergebnis/day-one-to-obsidian-converter/releases/tag/1.1.0) (1 day ago)
 - [`genkgo/camt:2.6.2`](https://github.com/genkgo/camt/releases/tag/2.6.2) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.14.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.14.0) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`composer/composer:2.6.6`](https://github.com/composer/composer/releases/tag/2.6.6) (5 days ago)
 - [`phpspec/prophecy-phpunit:v2.1.0`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.1.0) (5 days ago)
 - [`laravel/pint:v1.13.7`](https://github.com/laravel/pint/releases/tag/v1.13.7) (1 week ago)
-- [`pestphp/pest:v2.28.0`](https://github.com/pestphp/pest/releases/tag/v2.28.0) (1 week ago)
 
 ### Recent followers on GitHub
 
