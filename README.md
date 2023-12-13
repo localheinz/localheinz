@@ -25,6 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/composer-normalize:2.41.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.41.0) (today)
+- [`ergebnis/json-normalizer:4.4.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.4.0) (today)
 - [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (today)
 - [`ergebnis/day-one-to-obsidian-converter:1.1.0`](https://github.com/ergebnis/day-one-to-obsidian-converter/releases/tag/1.1.0) (1 day ago)
 - [`genkgo/camt:2.6.2`](https://github.com/genkgo/camt/releases/tag/2.6.2) (1 day ago)
@@ -33,8 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (3 days ago)
 - [`stripe/stripe-php:v13.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.7.0-beta.1) (5 days ago)
 - [`composer/composer:2.6.6`](https://github.com/composer/composer/releases/tag/2.6.6) (5 days ago)
-- [`phpspec/prophecy-phpunit:v2.1.0`](https://github.com/phpspec/prophecy-phpunit/releases/tag/v2.1.0) (5 days ago)
-- [`laravel/pint:v1.13.7`](https://github.com/laravel/pint/releases/tag/v1.13.7) (1 week ago)
 
 ### Recent followers on GitHub
 
