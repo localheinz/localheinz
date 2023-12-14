@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/composer-normalize:2.41.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.41.0) (1 day ago)
-- [`ergebnis/json-normalizer:4.4.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.4.0) (1 day ago)
+- [`ergebnis/composer-normalize:2.41.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.41.1) (today)
+- [`ergebnis/json-normalizer:4.4.1`](https://github.com/ergebnis/json-normalizer/releases/tag/4.4.1) (today)
 - [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (1 day ago)
 - [`ergebnis/day-one-to-obsidian-converter:1.1.0`](https://github.com/ergebnis/day-one-to-obsidian-converter/releases/tag/1.1.0) (2 days ago)
 - [`genkgo/camt:2.6.2`](https://github.com/genkgo/camt/releases/tag/2.6.2) (2 days ago)
