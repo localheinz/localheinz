@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.28.1`](https://github.com/pestphp/pest/releases/tag/v2.28.1) (today)
 - [`ergebnis/composer-normalize:2.41.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.41.1) (1 day ago)
 - [`ergebnis/json-normalizer:4.4.1`](https://github.com/ergebnis/json-normalizer/releases/tag/4.4.1) (1 day ago)
 - [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/playground:0.12.0`](https://github.com/ergebnis/playground/releases/tag/0.12.0) (4 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (5 days ago)
 - [`stripe/stripe-php:v13.7.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.7.0-beta.1) (1 week ago)
-- [`composer/composer:2.6.6`](https://github.com/composer/composer/releases/tag/2.6.6) (1 week ago)
 
 ### Recent followers on GitHub
 
