@@ -16,7 +16,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (5 months ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (7 months ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (8 months ago)
-- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (8 months ago)
+- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (9 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (9 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (9 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (9 months ago)
@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (today)
-- [`ergebnis/.github:1.9.0`](https://github.com/ergebnis/.github/releases/tag/1.9.0) (today)
-- [`pestphp/pest:v2.28.1`](https://github.com/pestphp/pest/releases/tag/v2.28.1) (1 day ago)
-- [`ergebnis/composer-normalize:2.41.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.41.1) (2 days ago)
-- [`ergebnis/json-normalizer:4.4.1`](https://github.com/ergebnis/json-normalizer/releases/tag/4.4.1) (2 days ago)
-- [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (3 days ago)
-- [`ergebnis/day-one-to-obsidian-converter:1.1.0`](https://github.com/ergebnis/day-one-to-obsidian-converter/releases/tag/1.1.0) (4 days ago)
-- [`genkgo/camt:2.6.2`](https://github.com/genkgo/camt/releases/tag/2.6.2) (4 days ago)
-- [`ergebnis/php-cs-fixer-config:6.14.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.14.0) (4 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (6 days ago)
+- [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (1 day ago)
+- [`ergebnis/.github:1.9.0`](https://github.com/ergebnis/.github/releases/tag/1.9.0) (1 day ago)
+- [`pestphp/pest:v2.28.1`](https://github.com/pestphp/pest/releases/tag/v2.28.1) (2 days ago)
+- [`ergebnis/composer-normalize:2.41.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.41.1) (3 days ago)
+- [`ergebnis/json-normalizer:4.4.1`](https://github.com/ergebnis/json-normalizer/releases/tag/4.4.1) (3 days ago)
+- [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (4 days ago)
+- [`ergebnis/day-one-to-obsidian-converter:1.1.0`](https://github.com/ergebnis/day-one-to-obsidian-converter/releases/tag/1.1.0) (5 days ago)
+- [`genkgo/camt:2.6.2`](https://github.com/genkgo/camt/releases/tag/2.6.2) (5 days ago)
+- [`ergebnis/php-cs-fixer-config:6.14.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.14.0) (5 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (1 week ago)
 
 ### Recent followers on GitHub
 
