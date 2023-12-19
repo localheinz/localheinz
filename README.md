@@ -20,20 +20,20 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (9 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (9 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (9 months ago)
-- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (9 months ago)
+- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (10 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (10 months ago)
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (2 days ago)
-- [`ergebnis/.github:1.9.0`](https://github.com/ergebnis/.github/releases/tag/1.9.0) (2 days ago)
-- [`pestphp/pest:v2.28.1`](https://github.com/pestphp/pest/releases/tag/v2.28.1) (3 days ago)
-- [`ergebnis/composer-normalize:2.41.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.41.1) (4 days ago)
-- [`ergebnis/json-normalizer:4.4.1`](https://github.com/ergebnis/json-normalizer/releases/tag/4.4.1) (4 days ago)
-- [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (5 days ago)
-- [`ergebnis/day-one-to-obsidian-converter:1.1.0`](https://github.com/ergebnis/day-one-to-obsidian-converter/releases/tag/1.1.0) (6 days ago)
-- [`genkgo/camt:2.6.2`](https://github.com/genkgo/camt/releases/tag/2.6.2) (6 days ago)
-- [`ergebnis/php-cs-fixer-config:6.14.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.14.0) (6 days ago)
+- [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (3 days ago)
+- [`ergebnis/.github:1.9.0`](https://github.com/ergebnis/.github/releases/tag/1.9.0) (3 days ago)
+- [`pestphp/pest:v2.28.1`](https://github.com/pestphp/pest/releases/tag/v2.28.1) (4 days ago)
+- [`ergebnis/composer-normalize:2.41.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.41.1) (5 days ago)
+- [`ergebnis/json-normalizer:4.4.1`](https://github.com/ergebnis/json-normalizer/releases/tag/4.4.1) (5 days ago)
+- [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (6 days ago)
+- [`ergebnis/day-one-to-obsidian-converter:1.1.0`](https://github.com/ergebnis/day-one-to-obsidian-converter/releases/tag/1.1.0) (1 week ago)
+- [`genkgo/camt:2.6.2`](https://github.com/genkgo/camt/releases/tag/2.6.2) (1 week ago)
+- [`ergebnis/php-cs-fixer-config:6.14.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.14.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.41.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.41.1) (1 week ago)
 
 ### Recent followers on GitHub
