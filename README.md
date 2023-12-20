@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`doctrine/orm:2.17.2`](https://github.com/doctrine/orm/releases/tag/2.17.2) (today)
 - [`Roave/BackwardCompatibilityCheck:8.6.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0) (today)
 - [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (4 days ago)
 - [`ergebnis/.github:1.9.0`](https://github.com/ergebnis/.github/releases/tag/1.9.0) (4 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (1 week ago)
 - [`ergebnis/day-one-to-obsidian-converter:1.1.0`](https://github.com/ergebnis/day-one-to-obsidian-converter/releases/tag/1.1.0) (1 week ago)
 - [`genkgo/camt:2.6.2`](https://github.com/genkgo/camt/releases/tag/2.6.2) (1 week ago)
-- [`ergebnis/php-cs-fixer-config:6.14.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.14.0) (1 week ago)
 
 ### Recent followers on GitHub
 
