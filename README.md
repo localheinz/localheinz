@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`Roave/BackwardCompatibilityCheck:8.5.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.5.0) (today)
+- [`Roave/BackwardCompatibilityCheck:8.6.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0) (today)
 - [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (4 days ago)
 - [`ergebnis/.github:1.9.0`](https://github.com/ergebnis/.github/releases/tag/1.9.0) (4 days ago)
 - [`pestphp/pest:v2.28.1`](https://github.com/pestphp/pest/releases/tag/v2.28.1) (5 days ago)
