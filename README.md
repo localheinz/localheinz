@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpunit-slow-test-detector:2.8.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.8.0) (today)
 - [`doctrine/orm:2.17.2`](https://github.com/doctrine/orm/releases/tag/2.17.2) (1 day ago)
 - [`Roave/BackwardCompatibilityCheck:8.6.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0) (1 day ago)
 - [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (5 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-normalizer:4.4.1`](https://github.com/ergebnis/json-normalizer/releases/tag/4.4.1) (1 week ago)
 - [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (1 week ago)
 - [`ergebnis/day-one-to-obsidian-converter:1.1.0`](https://github.com/ergebnis/day-one-to-obsidian-converter/releases/tag/1.1.0) (1 week ago)
-- [`genkgo/camt:2.6.2`](https://github.com/genkgo/camt/releases/tag/2.6.2) (1 week ago)
 
 ### Recent followers on GitHub
 
