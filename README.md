@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`gacela-project/gacela:1.7.0`](https://github.com/gacela-project/gacela/releases/tag/1.7.0) (today)
-- [`ergebnis/phpunit-slow-test-detector:2.8.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.8.0) (today)
-- [`doctrine/orm:2.17.2`](https://github.com/doctrine/orm/releases/tag/2.17.2) (1 day ago)
-- [`Roave/BackwardCompatibilityCheck:8.6.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0) (1 day ago)
-- [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (5 days ago)
-- [`ergebnis/.github:1.9.0`](https://github.com/ergebnis/.github/releases/tag/1.9.0) (5 days ago)
-- [`pestphp/pest:v2.28.1`](https://github.com/pestphp/pest/releases/tag/v2.28.1) (6 days ago)
+- [`gacela-project/gacela:1.7.0`](https://github.com/gacela-project/gacela/releases/tag/1.7.0) (1 day ago)
+- [`ergebnis/phpunit-slow-test-detector:2.8.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.8.0) (1 day ago)
+- [`doctrine/orm:2.17.2`](https://github.com/doctrine/orm/releases/tag/2.17.2) (2 days ago)
+- [`Roave/BackwardCompatibilityCheck:8.6.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0) (2 days ago)
+- [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (6 days ago)
+- [`ergebnis/.github:1.9.0`](https://github.com/ergebnis/.github/releases/tag/1.9.0) (6 days ago)
+- [`pestphp/pest:v2.28.1`](https://github.com/pestphp/pest/releases/tag/v2.28.1) (1 week ago)
 - [`ergebnis/composer-normalize:2.41.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.41.1) (1 week ago)
 - [`ergebnis/json-normalizer:4.4.1`](https://github.com/ergebnis/json-normalizer/releases/tag/4.4.1) (1 week ago)
 - [`ergebnis/factory-bot:1.6.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.6.0) (1 week ago)
