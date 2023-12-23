@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`kubawerlos/php-cs-fixer-custom-fixers:v3.17.1`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.17.1) (today)
 - [`stripe/stripe-php:v13.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.8.0-beta.1) (1 day ago)
 - [`laravel/cashier-stripe:v15.0.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.0.0) (1 day ago)
 - [`gacela-project/gacela:1.7.0`](https://github.com/gacela-project/gacela/releases/tag/1.7.0) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (1 week ago)
 - [`ergebnis/.github:1.9.0`](https://github.com/ergebnis/.github/releases/tag/1.9.0) (1 week ago)
 - [`pestphp/pest:v2.28.1`](https://github.com/pestphp/pest/releases/tag/v2.28.1) (1 week ago)
-- [`ergebnis/composer-normalize:2.41.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.41.1) (1 week ago)
 
 ### Recent followers on GitHub
 
