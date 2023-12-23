@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@ghbob`](https://github.com/ghbob)
 - [`@DevAbdoTolba`](https://github.com/DevAbdoTolba)
 - [`@pfpro`](https://github.com/pfpro)
 - [`@LtMost`](https://github.com/LtMost)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Joseph0207`](https://github.com/Joseph0207)
 - [`@vinceAmstoutz`](https://github.com/vinceAmstoutz)
 - [`@fezfez`](https://github.com/fezfez)
-- [`@chrisipiranga`](https://github.com/chrisipiranga)
 
 ### Recent sponsors on GitHub
 
