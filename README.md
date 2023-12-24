@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.42.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.42.0) (today)
 - [`ergebnis/phpunit-slow-test-detector:2.9.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.9.0) (1 day ago)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.17.1`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.17.1) (1 day ago)
 - [`stripe/stripe-php:v13.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.8.0-beta.1) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`Roave/BackwardCompatibilityCheck:8.6.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0) (4 days ago)
 - [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (1 week ago)
 - [`ergebnis/.github:1.9.0`](https://github.com/ergebnis/.github/releases/tag/1.9.0) (1 week ago)
-- [`pestphp/pest:v2.28.1`](https://github.com/pestphp/pest/releases/tag/v2.28.1) (1 week ago)
 
 ### Recent followers on GitHub
 
