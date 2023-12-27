@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/version:1.0.0`](https://github.com/ergebnis/version/releases/tag/1.0.0) (today)
 - [`ergebnis/php-cs-fixer-config:6.15.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.15.0) (3 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.42.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.42.0) (3 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.9.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.9.0) (4 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`gacela-project/gacela:1.7.0`](https://github.com/gacela-project/gacela/releases/tag/1.7.0) (6 days ago)
 - [`doctrine/orm:2.17.2`](https://github.com/doctrine/orm/releases/tag/2.17.2) (1 week ago)
 - [`Roave/BackwardCompatibilityCheck:8.6.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.6.0) (1 week ago)
-- [`ergebnis/playground:0.13.4`](https://github.com/ergebnis/playground/releases/tag/0.13.4) (1 week ago)
 
 ### Recent followers on GitHub
 
