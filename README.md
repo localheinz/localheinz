@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`dependabot/dependabot-core:v0.239.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.239.0) (today)
 - [`ergebnis/php-cs-fixer-config:6.16.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.16.0) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.43.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.0) (today)
 - [`pestphp/pest:v2.30.0`](https://github.com/pestphp/pest/releases/tag/v2.30.0) (today)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`stripe/stripe-php:v13.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.8.0-beta.1) (6 days ago)
 - [`laravel/cashier-stripe:v15.0.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.0.0) (6 days ago)
 - [`gacela-project/gacela:1.7.0`](https://github.com/gacela-project/gacela/releases/tag/1.7.0) (1 week ago)
-- [`doctrine/orm:2.17.2`](https://github.com/doctrine/orm/releases/tag/2.17.2) (1 week ago)
 
 ### Recent followers on GitHub
 
