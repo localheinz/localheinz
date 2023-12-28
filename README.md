@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.29.1`](https://github.com/pestphp/pest/releases/tag/v2.29.1) (1 day ago)
+- [`pestphp/pest:v2.30.0`](https://github.com/pestphp/pest/releases/tag/v2.30.0) (today)
 - [`ergebnis/version:1.0.0`](https://github.com/ergebnis/version/releases/tag/1.0.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.15.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.15.0) (4 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.42.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.42.0) (4 days ago)
