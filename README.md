@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.43.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.1) (today)
 - [`dependabot/dependabot-core:v0.239.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.239.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.16.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.16.0) (1 day ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.43.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.43.0) (1 day ago)
 - [`pestphp/pest:v2.30.0`](https://github.com/pestphp/pest/releases/tag/v2.30.0) (1 day ago)
 - [`ergebnis/version:1.0.0`](https://github.com/ergebnis/version/releases/tag/1.0.0) (2 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.9.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.9.0) (6 days ago)
