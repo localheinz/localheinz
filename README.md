@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`symfony/symfony:v6.3.11`](https://github.com/symfony/symfony/releases/tag/v6.3.11) (today)
+- [`symfony/symfony:v7.0.2`](https://github.com/symfony/symfony/releases/tag/v7.0.2) (today)
 - [`ergebnis/php-cs-fixer-config:6.17.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.17.0) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.45.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.45.0) (today)
 - [`dependabot/dependabot-core:v0.239.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.239.0) (2 days ago)
