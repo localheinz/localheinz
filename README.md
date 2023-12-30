@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.44.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.44.0) (today)
-- [`ergebnis/php-cs-fixer-config:6.16.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.16.1) (today)
-- [`dependabot/dependabot-core:v0.239.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.239.0) (1 day ago)
-- [`pestphp/pest:v2.30.0`](https://github.com/pestphp/pest/releases/tag/v2.30.0) (1 day ago)
-- [`ergebnis/version:1.0.0`](https://github.com/ergebnis/version/releases/tag/1.0.0) (2 days ago)
-- [`ergebnis/phpunit-slow-test-detector:2.9.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.9.0) (6 days ago)
-- [`kubawerlos/php-cs-fixer-custom-fixers:v3.17.1`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.17.1) (6 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.44.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.44.0) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:6.16.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.16.1) (1 day ago)
+- [`dependabot/dependabot-core:v0.239.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.239.0) (2 days ago)
+- [`pestphp/pest:v2.30.0`](https://github.com/pestphp/pest/releases/tag/v2.30.0) (2 days ago)
+- [`ergebnis/version:1.0.0`](https://github.com/ergebnis/version/releases/tag/1.0.0) (3 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.9.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.9.0) (1 week ago)
+- [`kubawerlos/php-cs-fixer-custom-fixers:v3.17.1`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.17.1) (1 week ago)
 - [`stripe/stripe-php:v13.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.8.0-beta.1) (1 week ago)
 - [`laravel/cashier-stripe:v15.0.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.0.0) (1 week ago)
 - [`gacela-project/gacela:1.7.0`](https://github.com/gacela-project/gacela/releases/tag/1.7.0) (1 week ago)
