@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`symfony/symfony:v6.3.11`](https://github.com/symfony/symfony/releases/tag/v6.3.11) (today)
 - [`ergebnis/php-cs-fixer-config:6.17.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.17.0) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.45.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.45.0) (today)
 - [`dependabot/dependabot-core:v0.239.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.239.0) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.17.1`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.17.1) (1 week ago)
 - [`stripe/stripe-php:v13.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.8.0-beta.1) (1 week ago)
 - [`laravel/cashier-stripe:v15.0.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.0.0) (1 week ago)
-- [`gacela-project/gacela:1.7.0`](https://github.com/gacela-project/gacela/releases/tag/1.7.0) (1 week ago)
 
 ### Recent followers on GitHub
 
