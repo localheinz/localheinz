@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`kubawerlos/php-cs-fixer-custom-fixers:v3.18.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.18.0) (today)
 - [`ergebnis/data-generator:1.0.0`](https://github.com/ergebnis/data-generator/releases/tag/1.0.0) (1 day ago)
 - [`symfony/symfony:v7.0.2`](https://github.com/symfony/symfony/releases/tag/v7.0.2) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.17.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.17.0) (1 day ago)
@@ -33,7 +34,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`pestphp/pest:v2.30.0`](https://github.com/pestphp/pest/releases/tag/v2.30.0) (3 days ago)
 - [`ergebnis/version:1.0.0`](https://github.com/ergebnis/version/releases/tag/1.0.0) (4 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.9.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.9.0) (1 week ago)
-- [`kubawerlos/php-cs-fixer-custom-fixers:v3.17.1`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.17.1) (1 week ago)
 - [`stripe/stripe-php:v13.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.8.0-beta.1) (1 week ago)
 
 ### Recent followers on GitHub
