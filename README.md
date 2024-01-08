@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v13.9.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.9.0-beta.1) (3 days ago)
-- [`ergebnis/php-cs-fixer-config:6.19.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.19.0) (3 days ago)
-- [`valorin/random:v0.3`](https://github.com/valorin/random/releases/tag/v0.3) (4 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.46.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.46.0) (4 days ago)
+- [`stripe/stripe-php:v13.9.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.9.0-beta.1) (4 days ago)
+- [`ergebnis/php-cs-fixer-config:6.19.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.19.0) (4 days ago)
+- [`valorin/random:v0.3`](https://github.com/valorin/random/releases/tag/v0.3) (5 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.46.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.46.0) (5 days ago)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.18.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.18.0) (1 week ago)
 - [`ergebnis/data-generator:1.0.0`](https://github.com/ergebnis/data-generator/releases/tag/1.0.0) (1 week ago)
 - [`symfony/symfony:v7.0.2`](https://github.com/symfony/symfony/releases/tag/v7.0.2) (1 week ago)
