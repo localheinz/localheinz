@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`laravel/pint:v1.13.8`](https://github.com/laravel/pint/releases/tag/v1.13.8) (today)
 - [`laravel/cashier-stripe:v15.1.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.1.0) (today)
 - [`stripe/stripe-php:v13.9.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.9.0-beta.1) (5 days ago)
 - [`ergebnis/php-cs-fixer-config:6.19.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.19.0) (5 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/data-generator:1.0.0`](https://github.com/ergebnis/data-generator/releases/tag/1.0.0) (1 week ago)
 - [`symfony/symfony:v7.0.2`](https://github.com/symfony/symfony/releases/tag/v7.0.2) (1 week ago)
 - [`dependabot/dependabot-core:v0.239.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.239.0) (1 week ago)
-- [`pestphp/pest:v2.30.0`](https://github.com/pestphp/pest/releases/tag/v2.30.0) (1 week ago)
 
 ### Recent followers on GitHub
 
