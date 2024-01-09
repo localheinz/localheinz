@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@douglas-fortunatus`](https://github.com/douglas-fortunatus)
 - [`@alphaolomi`](https://github.com/alphaolomi)
 - [`@bimap98`](https://github.com/bimap98)
 - [`@althaus`](https://github.com/althaus)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@pfpro`](https://github.com/pfpro)
 - [`@LtMost`](https://github.com/LtMost)
 - [`@A909M`](https://github.com/A909M)
-- [`@cyprianmeister`](https://github.com/cyprianmeister)
 
 ### Recent sponsors on GitHub
 
