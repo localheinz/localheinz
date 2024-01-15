@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`valorin/random:v0.4`](https://github.com/valorin/random/releases/tag/v0.4) (today)
 - [`dependabot/dependabot-core:v0.240.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.240.0) (3 days ago)
 - [`stripe/stripe-php:v13.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.1) (3 days ago)
 - [`laravel/cashier-stripe:v15.1.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.1.1) (3 days ago)
 - [`laravel/pint:v1.13.8`](https://github.com/laravel/pint/releases/tag/v1.13.8) (6 days ago)
 - [`ergebnis/php-cs-fixer-config:6.19.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.19.0) (1 week ago)
-- [`valorin/random:v0.3`](https://github.com/valorin/random/releases/tag/v0.3) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.46.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.46.0) (1 week ago)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.18.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.18.0) (2 weeks ago)
 - [`ergebnis/data-generator:1.0.0`](https://github.com/ergebnis/data-generator/releases/tag/1.0.0) (2 weeks ago)
