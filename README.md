@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.47.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.47.1) (today)
 - [`laravel/pint:v1.13.9`](https://github.com/laravel/pint/releases/tag/v1.13.9) (today)
 - [`laravel/cashier-stripe:v15.2.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.0) (today)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.0) (1 day ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.47.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.47.0) (1 day ago)
 - [`valorin/random:v0.4`](https://github.com/valorin/random/releases/tag/v0.4) (1 day ago)
 - [`dependabot/dependabot-core:v0.240.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.240.0) (4 days ago)
 - [`stripe/stripe-php:v13.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.1) (4 days ago)
