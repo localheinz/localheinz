@@ -20,21 +20,21 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (10 months ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (10 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (10 months ago)
-- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (10 months ago)
+- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (11 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (11 months ago)
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.47.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.47.1) (1 day ago)
-- [`laravel/pint:v1.13.9`](https://github.com/laravel/pint/releases/tag/v1.13.9) (1 day ago)
-- [`laravel/cashier-stripe:v15.2.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.0) (1 day ago)
-- [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.0) (2 days ago)
-- [`valorin/random:v0.4`](https://github.com/valorin/random/releases/tag/v0.4) (2 days ago)
-- [`dependabot/dependabot-core:v0.240.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.240.0) (5 days ago)
-- [`stripe/stripe-php:v13.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.1) (5 days ago)
-- [`ergebnis/php-cs-fixer-config:6.19.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.19.0) (1 week ago)
+- [`dependabot/dependabot-core:v0.241.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.241.0) (today)
+- [`doctrine/orm:2.17.3`](https://github.com/doctrine/orm/releases/tag/2.17.3) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.47.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.47.1) (2 days ago)
+- [`laravel/pint:v1.13.9`](https://github.com/laravel/pint/releases/tag/v1.13.9) (2 days ago)
+- [`laravel/cashier-stripe:v15.2.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.0) (2 days ago)
+- [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.0) (3 days ago)
+- [`valorin/random:v0.4`](https://github.com/valorin/random/releases/tag/v0.4) (3 days ago)
+- [`stripe/stripe-php:v13.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.1) (6 days ago)
+- [`ergebnis/php-cs-fixer-config:6.19.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.19.0) (2 weeks ago)
 - [`ergebnis/data-generator:1.0.0`](https://github.com/ergebnis/data-generator/releases/tag/1.0.0) (2 weeks ago)
-- [`symfony/symfony:v7.0.2`](https://github.com/symfony/symfony/releases/tag/v7.0.2) (2 weeks ago)
 
 ### Recent followers on GitHub
 
