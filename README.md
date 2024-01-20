@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.32.0`](https://github.com/pestphp/pest/releases/tag/v2.32.0) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.48.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (1 day ago)
 - [`stripe/stripe-php:v13.10.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.2) (1 day ago)
 - [`dependabot/dependabot-core:v0.241.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.241.0) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.0) (5 days ago)
 - [`valorin/random:v0.4`](https://github.com/valorin/random/releases/tag/v0.4) (5 days ago)
 - [`ergebnis/php-cs-fixer-config:6.19.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.19.0) (2 weeks ago)
-- [`ergebnis/data-generator:1.0.0`](https://github.com/ergebnis/data-generator/releases/tag/1.0.0) (3 weeks ago)
 
 ### Recent followers on GitHub
 
