@@ -54,7 +54,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@JesusValera`](https://github.com/JesusValera) (1 year ago)
 - [`@Chemaclass`](https://github.com/Chemaclass) (1 year ago)
 - [`@yesdevnull`](https://github.com/yesdevnull) (2 years ago)
-- [`@JetBrainsOfficial`](https://github.com/JetBrainsOfficial) (3 years ago)
 - [`@adamlundrigan`](https://github.com/adamlundrigan) (4 years ago)
 
 <hr>
