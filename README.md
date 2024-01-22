@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`dependabot/dependabot-core:v0.242.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.242.0) (today)
 - [`ergebnis/php-cs-fixer-config:6.20.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.20.0) (today)
 - [`laravel/pint:v1.13.10`](https://github.com/laravel/pint/releases/tag/v1.13.10) (today)
 - [`pestphp/pest:v2.32.0`](https://github.com/pestphp/pest/releases/tag/v2.32.0) (2 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.48.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (3 days ago)
 - [`stripe/stripe-php:v13.10.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.2) (3 days ago)
-- [`dependabot/dependabot-core:v0.241.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.241.0) (4 days ago)
 - [`doctrine/orm:2.17.3`](https://github.com/doctrine/orm/releases/tag/2.17.3) (5 days ago)
 - [`laravel/cashier-stripe:v15.2.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.0) (6 days ago)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.0) (1 week ago)
