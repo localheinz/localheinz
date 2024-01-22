@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/php-cs-fixer-config:6.20.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.20.0) (today)
 - [`laravel/pint:v1.13.10`](https://github.com/laravel/pint/releases/tag/v1.13.10) (today)
 - [`pestphp/pest:v2.32.0`](https://github.com/pestphp/pest/releases/tag/v2.32.0) (2 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.48.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`laravel/cashier-stripe:v15.2.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.0) (6 days ago)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.0) (1 week ago)
 - [`valorin/random:v0.4`](https://github.com/valorin/random/releases/tag/v0.4) (1 week ago)
-- [`ergebnis/php-cs-fixer-config:6.19.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.19.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
