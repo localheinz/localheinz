@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/rector-rules:0.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.4.0) (today)
 - [`dependabot/dependabot-core:v0.242.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.242.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.20.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.20.0) (1 day ago)
 - [`laravel/pint:v1.13.10`](https://github.com/laravel/pint/releases/tag/v1.13.10) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`doctrine/orm:2.17.3`](https://github.com/doctrine/orm/releases/tag/2.17.3) (6 days ago)
 - [`laravel/cashier-stripe:v15.2.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.0) (1 week ago)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.0) (1 week ago)
-- [`valorin/random:v0.4`](https://github.com/valorin/random/releases/tag/v0.4) (1 week ago)
 
 ### Recent followers on GitHub
 
