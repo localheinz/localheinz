@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@bed-com-29-19`](https://github.com/bed-com-29-19)
 - [`@douglas-fortunatus`](https://github.com/douglas-fortunatus)
 - [`@alphaolomi`](https://github.com/alphaolomi)
 - [`@bimap98`](https://github.com/bimap98)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@DevAbdoTolba`](https://github.com/DevAbdoTolba)
 - [`@pfpro`](https://github.com/pfpro)
 - [`@LtMost`](https://github.com/LtMost)
-- [`@A909M`](https://github.com/A909M)
 
 ### Recent sponsors on GitHub
 
