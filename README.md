@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.32.3`](https://github.com/pestphp/pest/releases/tag/v2.32.3) (today)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.1`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.1) (2 days ago)
 - [`dependabot/dependabot-core:v0.242.1`](https://github.com/dependabot/dependabot-core/releases/tag/v0.242.1) (2 days ago)
-- [`pestphp/pest:v2.32.2`](https://github.com/pestphp/pest/releases/tag/v2.32.2) (2 days ago)
 - [`ergebnis/rector-rules:0.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.4.0) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:6.20.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.20.0) (3 days ago)
 - [`laravel/pint:v1.13.10`](https://github.com/laravel/pint/releases/tag/v1.13.10) (3 days ago)
