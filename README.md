@@ -25,14 +25,14 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.2`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.2) (today)
-- [`pestphp/pest:v2.32.3`](https://github.com/pestphp/pest/releases/tag/v2.32.3) (today)
-- [`dependabot/dependabot-core:v0.242.1`](https://github.com/dependabot/dependabot-core/releases/tag/v0.242.1) (2 days ago)
-- [`ergebnis/rector-rules:0.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.4.0) (2 days ago)
-- [`ergebnis/php-cs-fixer-config:6.20.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.20.0) (3 days ago)
-- [`laravel/pint:v1.13.10`](https://github.com/laravel/pint/releases/tag/v1.13.10) (3 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.48.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (6 days ago)
-- [`stripe/stripe-php:v13.10.0-beta.2`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.2) (6 days ago)
+- [`stripe/stripe-php:v13.10.0-beta.3`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.3) (1 day ago)
+- [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.2`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.2) (1 day ago)
+- [`pestphp/pest:v2.32.3`](https://github.com/pestphp/pest/releases/tag/v2.32.3) (1 day ago)
+- [`dependabot/dependabot-core:v0.242.1`](https://github.com/dependabot/dependabot-core/releases/tag/v0.242.1) (3 days ago)
+- [`ergebnis/rector-rules:0.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.4.0) (3 days ago)
+- [`ergebnis/php-cs-fixer-config:6.20.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.20.0) (4 days ago)
+- [`laravel/pint:v1.13.10`](https://github.com/laravel/pint/releases/tag/v1.13.10) (4 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.48.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (1 week ago)
 - [`doctrine/orm:2.17.3`](https://github.com/doctrine/orm/releases/tag/2.17.3) (1 week ago)
 - [`laravel/cashier-stripe:v15.2.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.0) (1 week ago)
 
