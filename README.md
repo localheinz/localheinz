@@ -25,6 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/json-printer:3.5.0`](https://github.com/ergebnis/json-printer/releases/tag/3.5.0) (today)
+- [`ergebnis/json:1.2.0`](https://github.com/ergebnis/json/releases/tag/1.2.0) (today)
 - [`pestphp/pest:v2.33.2`](https://github.com/pestphp/pest/releases/tag/v2.33.2) (today)
 - [`doctrine/orm:3.0.0-RC1`](https://github.com/doctrine/orm/releases/tag/3.0.0-RC1) (1 day ago)
 - [`stripe/stripe-php:v13.10.0-beta.3`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.3) (4 days ago)
@@ -33,8 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/rector-rules:0.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.4.0) (6 days ago)
 - [`ergebnis/php-cs-fixer-config:6.20.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.20.0) (1 week ago)
 - [`laravel/pint:v1.13.10`](https://github.com/laravel/pint/releases/tag/v1.13.10) (1 week ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.48.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.48.0) (1 week ago)
-- [`laravel/cashier-stripe:v15.2.0`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.0) (1 week ago)
 
 ### Recent followers on GitHub
 
