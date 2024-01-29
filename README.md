@@ -25,6 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/json-schema-validator:4.2.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.2.0) (today)
+- [`ergebnis/json-pointer:3.4.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.4.0) (today)
 - [`ergebnis/json-printer:3.5.0`](https://github.com/ergebnis/json-printer/releases/tag/3.5.0) (today)
 - [`ergebnis/json:1.2.0`](https://github.com/ergebnis/json/releases/tag/1.2.0) (today)
 - [`pestphp/pest:v2.33.2`](https://github.com/pestphp/pest/releases/tag/v2.33.2) (today)
@@ -33,8 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.2`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.2) (4 days ago)
 - [`dependabot/dependabot-core:v0.242.1`](https://github.com/dependabot/dependabot-core/releases/tag/v0.242.1) (6 days ago)
 - [`ergebnis/rector-rules:0.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.4.0) (6 days ago)
-- [`ergebnis/php-cs-fixer-config:6.20.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.20.0) (1 week ago)
-- [`laravel/pint:v1.13.10`](https://github.com/laravel/pint/releases/tag/v1.13.10) (1 week ago)
 
 ### Recent followers on GitHub
 
