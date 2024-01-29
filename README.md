@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`pestphp/pest:v2.33.1`](https://github.com/pestphp/pest/releases/tag/v2.33.1) (today)
 - [`doctrine/orm:3.0.0-RC1`](https://github.com/doctrine/orm/releases/tag/3.0.0-RC1) (1 day ago)
-- [`pestphp/pest:v2.33.0`](https://github.com/pestphp/pest/releases/tag/v2.33.0) (3 days ago)
 - [`stripe/stripe-php:v13.10.0-beta.3`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.3) (4 days ago)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.2`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.2) (4 days ago)
 - [`dependabot/dependabot-core:v0.242.1`](https://github.com/dependabot/dependabot-core/releases/tag/v0.242.1) (6 days ago)
