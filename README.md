@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/json-normalizer:4.5.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.5.0) (today)
 - [`ergebnis/json-schema-validator:4.2.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.2.0) (1 day ago)
 - [`ergebnis/json-pointer:3.4.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.4.0) (1 day ago)
 - [`ergebnis/json-printer:3.5.0`](https://github.com/ergebnis/json-printer/releases/tag/3.5.0) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`stripe/stripe-php:v13.10.0-beta.3`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0-beta.3) (5 days ago)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.19.2`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.19.2) (5 days ago)
 - [`dependabot/dependabot-core:v0.242.1`](https://github.com/dependabot/dependabot-core/releases/tag/v0.242.1) (1 week ago)
-- [`ergebnis/rector-rules:0.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/0.4.0) (1 week ago)
 
 ### Recent followers on GitHub
 
