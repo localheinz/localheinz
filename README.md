@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`symfony/symfony:v5.4.35`](https://github.com/symfony/symfony/releases/tag/v5.4.35) (1 day ago)
+- [`symfony/symfony:v6.4.3`](https://github.com/symfony/symfony/releases/tag/v6.4.3) (today)
 - [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (1 day ago)
 - [`ergebnis/composer-normalize:2.42.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.42.0) (1 day ago)
 - [`ergebnis/json-normalizer:4.5.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.5.0) (1 day ago)
