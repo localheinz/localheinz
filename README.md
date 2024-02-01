@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`stripe/stripe-php:v13.10.0`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0) (today)
 - [`symfony/symfony:v7.0.3`](https://github.com/symfony/symfony/releases/tag/v7.0.3) (1 day ago)
 - [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (2 days ago)
 - [`ergebnis/composer-normalize:2.42.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.42.0) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-printer:3.5.0`](https://github.com/ergebnis/json-printer/releases/tag/3.5.0) (3 days ago)
 - [`ergebnis/json:1.2.0`](https://github.com/ergebnis/json/releases/tag/1.2.0) (3 days ago)
 - [`pestphp/pest:v2.33.2`](https://github.com/pestphp/pest/releases/tag/v2.33.2) (3 days ago)
-- [`doctrine/orm:3.0.0-RC1`](https://github.com/doctrine/orm/releases/tag/3.0.0-RC1) (4 days ago)
 
 ### Recent followers on GitHub
 
