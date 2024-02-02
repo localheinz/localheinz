@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`stripe/stripe-php:v13.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.11.0-beta.1) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.49.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (today)
-- [`stripe/stripe-php:v13.10.0`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0) (1 day ago)
 - [`symfony/symfony:v7.0.3`](https://github.com/symfony/symfony/releases/tag/v7.0.3) (2 days ago)
 - [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (3 days ago)
 - [`ergebnis/composer-normalize:2.42.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.42.0) (3 days ago)
