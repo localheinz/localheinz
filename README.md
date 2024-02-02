@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.49.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (today)
 - [`stripe/stripe-php:v13.10.0`](https://github.com/stripe/stripe-php/releases/tag/v13.10.0) (1 day ago)
 - [`symfony/symfony:v7.0.3`](https://github.com/symfony/symfony/releases/tag/v7.0.3) (2 days ago)
 - [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-pointer:3.4.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.4.0) (4 days ago)
 - [`ergebnis/json-printer:3.5.0`](https://github.com/ergebnis/json-printer/releases/tag/3.5.0) (4 days ago)
 - [`ergebnis/json:1.2.0`](https://github.com/ergebnis/json/releases/tag/1.2.0) (4 days ago)
-- [`pestphp/pest:v2.33.2`](https://github.com/pestphp/pest/releases/tag/v2.33.2) (4 days ago)
 
 ### Recent followers on GitHub
 
