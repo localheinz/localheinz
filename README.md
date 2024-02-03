@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`doctrine/orm:3.0.0`](https://github.com/doctrine/orm/releases/tag/3.0.0) (today)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.20.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.20.0) (today)
 - [`pestphp/pest:v2.33.4`](https://github.com/pestphp/pest/releases/tag/v2.33.4) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.21.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.21.0) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (4 days ago)
 - [`ergebnis/composer-normalize:2.42.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.42.0) (4 days ago)
 - [`ergebnis/json-normalizer:4.5.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.5.0) (4 days ago)
-- [`ergebnis/json-schema-validator:4.2.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.2.0) (5 days ago)
 
 ### Recent followers on GitHub
 
