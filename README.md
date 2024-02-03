@@ -18,23 +18,23 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (9 months ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (10 months ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (10 months ago)
-- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (10 months ago)
+- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (11 months ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (11 months ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (11 months ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (11 months ago)
 
 ### Recent releases I have contributed to
 
-- [`pestphp/pest:v2.33.4`](https://github.com/pestphp/pest/releases/tag/v2.33.4) (today)
-- [`ergebnis/php-cs-fixer-config:6.21.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.21.0) (today)
-- [`stripe/stripe-php:v13.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.11.0-beta.1) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.49.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (today)
-- [`symfony/symfony:v7.0.3`](https://github.com/symfony/symfony/releases/tag/v7.0.3) (2 days ago)
-- [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (3 days ago)
-- [`ergebnis/composer-normalize:2.42.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.42.0) (3 days ago)
-- [`ergebnis/json-normalizer:4.5.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.5.0) (3 days ago)
-- [`ergebnis/json-schema-validator:4.2.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.2.0) (4 days ago)
-- [`ergebnis/json-pointer:3.4.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.4.0) (4 days ago)
+- [`pestphp/pest:v2.33.4`](https://github.com/pestphp/pest/releases/tag/v2.33.4) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:6.21.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.21.0) (1 day ago)
+- [`stripe/stripe-php:v13.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.11.0-beta.1) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.49.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (1 day ago)
+- [`symfony/symfony:v7.0.3`](https://github.com/symfony/symfony/releases/tag/v7.0.3) (3 days ago)
+- [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (4 days ago)
+- [`ergebnis/composer-normalize:2.42.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.42.0) (4 days ago)
+- [`ergebnis/json-normalizer:4.5.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.5.0) (4 days ago)
+- [`ergebnis/json-schema-validator:4.2.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.2.0) (5 days ago)
+- [`ergebnis/json-pointer:3.4.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.4.0) (5 days ago)
 
 ### Recent followers on GitHub
 
