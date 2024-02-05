@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpunit-slow-test-detector:2.10.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.10.0) (today)
 - [`teapot-php/status-code:2.3.0`](https://github.com/teapot-php/status-code/releases/tag/2.3.0) (today)
 - [`doctrine/orm:3.0.0`](https://github.com/doctrine/orm/releases/tag/3.0.0) (2 days ago)
 - [`kubawerlos/php-cs-fixer-custom-fixers:v3.20.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.20.0) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.49.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (3 days ago)
 - [`symfony/symfony:v7.0.3`](https://github.com/symfony/symfony/releases/tag/v7.0.3) (5 days ago)
 - [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (6 days ago)
-- [`ergebnis/composer-normalize:2.42.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.42.0) (6 days ago)
 
 ### Recent followers on GitHub
 
