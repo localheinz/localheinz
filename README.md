@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpunit-slow-test-detector:2.10.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.10.0) (today)
-- [`teapot-php/status-code:2.3.0`](https://github.com/teapot-php/status-code/releases/tag/2.3.0) (today)
-- [`doctrine/orm:3.0.0`](https://github.com/doctrine/orm/releases/tag/3.0.0) (2 days ago)
-- [`kubawerlos/php-cs-fixer-custom-fixers:v3.20.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.20.0) (2 days ago)
-- [`pestphp/pest:v2.33.4`](https://github.com/pestphp/pest/releases/tag/v2.33.4) (3 days ago)
-- [`ergebnis/php-cs-fixer-config:6.21.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.21.0) (3 days ago)
-- [`stripe/stripe-php:v13.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.11.0-beta.1) (3 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.49.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (3 days ago)
-- [`symfony/symfony:v7.0.3`](https://github.com/symfony/symfony/releases/tag/v7.0.3) (5 days ago)
-- [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (6 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.10.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.10.0) (1 day ago)
+- [`teapot-php/status-code:2.3.0`](https://github.com/teapot-php/status-code/releases/tag/2.3.0) (1 day ago)
+- [`doctrine/orm:3.0.0`](https://github.com/doctrine/orm/releases/tag/3.0.0) (3 days ago)
+- [`kubawerlos/php-cs-fixer-custom-fixers:v3.20.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.20.0) (3 days ago)
+- [`pestphp/pest:v2.33.4`](https://github.com/pestphp/pest/releases/tag/v2.33.4) (4 days ago)
+- [`ergebnis/php-cs-fixer-config:6.21.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.21.0) (4 days ago)
+- [`stripe/stripe-php:v13.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.11.0-beta.1) (4 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.49.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (4 days ago)
+- [`symfony/symfony:v7.0.3`](https://github.com/symfony/symfony/releases/tag/v7.0.3) (6 days ago)
+- [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (1 week ago)
 
 ### Recent followers on GitHub
 
