@@ -12,48 +12,46 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (4 months ago)
-- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (6 months ago)
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (9 months ago)
-- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (10 months ago)
-- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (10 months ago)
-- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (10 months ago)
-- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (11 months ago)
-- [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (11 months ago)
-- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (11 months ago)
-- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (11 months ago)
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (6 months ago)
+- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (8 months ago)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (10 months ago)
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (11 months ago)
+- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (1 year ago)
+- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (1 year ago)
+- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (1 year ago)
+- [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (1 year ago)
+- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (1 year ago)
+- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (1 year ago)
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpunit-slow-test-detector:2.10.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.10.0) (1 day ago)
-- [`teapot-php/status-code:2.3.0`](https://github.com/teapot-php/status-code/releases/tag/2.3.0) (1 day ago)
-- [`doctrine/orm:3.0.0`](https://github.com/doctrine/orm/releases/tag/3.0.0) (3 days ago)
-- [`kubawerlos/php-cs-fixer-custom-fixers:v3.20.0`](https://github.com/kubawerlos/php-cs-fixer-custom-fixers/releases/tag/v3.20.0) (3 days ago)
-- [`pestphp/pest:v2.33.4`](https://github.com/pestphp/pest/releases/tag/v2.33.4) (4 days ago)
-- [`ergebnis/php-cs-fixer-config:6.21.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.21.0) (4 days ago)
-- [`stripe/stripe-php:v13.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.11.0-beta.1) (4 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.49.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.49.0) (4 days ago)
-- [`symfony/symfony:v7.0.3`](https://github.com/symfony/symfony/releases/tag/v7.0.3) (6 days ago)
-- [`laravel/cashier-stripe:v15.2.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.2.1) (1 week ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.52.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:6.25.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.25.0) (2 days ago)
+- [`doctrine/orm:2.19.2`](https://github.com/doctrine/orm/releases/tag/2.19.2) (2 days ago)
+- [`stripe/stripe-php:v13.15.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.15.0-beta.1) (6 days ago)
+- [`dependabot/dependabot-core:v0.247.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.247.0) (6 days ago)
+- [`valorin/random:v0.5`](https://github.com/valorin/random/releases/tag/v0.5) (1 week ago)
+- [`sebastianbergmann/phpunit:11.0.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.6) (1 week ago)
+- [`sebastianbergmann/php-code-coverage:11.0.3`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.3) (1 week ago)
+- [`composer/composer:2.7.2`](https://github.com/composer/composer/releases/tag/2.7.2) (1 week ago)
+- [`sebastianbergmann/csv-parser:1.0.0`](https://github.com/sebastianbergmann/csv-parser/releases/tag/1.0.0) (1 week ago)
 
 ### Recent followers on GitHub
 
+- [`@qebokur`](https://github.com/qebokur)
+- [`@AladdinAlhazmi`](https://github.com/AladdinAlhazmi)
+- [`@Pranavv78`](https://github.com/Pranavv78)
+- [`@Surfndez`](https://github.com/Surfndez)
+- [`@ctujare`](https://github.com/ctujare)
 - [`@muhammadmp97`](https://github.com/muhammadmp97)
 - [`@Randolium`](https://github.com/Randolium)
 - [`@bed-com-29-19`](https://github.com/bed-com-29-19)
 - [`@douglas-fortunatus`](https://github.com/douglas-fortunatus)
 - [`@alphaolomi`](https://github.com/alphaolomi)
-- [`@bimap98`](https://github.com/bimap98)
-- [`@althaus`](https://github.com/althaus)
-- [`@frunolu`](https://github.com/frunolu)
-- [`@ghbob`](https://github.com/ghbob)
-- [`@DevAbdoTolba`](https://github.com/DevAbdoTolba)
 
 ### Recent sponsors on GitHub
 
 - [`@JesusValera`](https://github.com/JesusValera) (1 year ago)
-- [`@Chemaclass`](https://github.com/Chemaclass) (1 year ago)
-- [`@yesdevnull`](https://github.com/yesdevnull) (2 years ago)
 - [`@adamlundrigan`](https://github.com/adamlundrigan) (4 years ago)
 
 <hr>
