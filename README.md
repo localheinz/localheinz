@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v13.16.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.16.0-beta.1) (today)
-- [`sebastianbergmann/phpunit:9.6.18`](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.18) (today)
-- [`ergebnis/php-cs-fixer-config:6.25.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.25.1) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.52.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (2 days ago)
-- [`doctrine/orm:2.19.2`](https://github.com/doctrine/orm/releases/tag/2.19.2) (3 days ago)
-- [`dependabot/dependabot-core:v0.247.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.247.0) (1 week ago)
+- [`dependabot/dependabot-core:v0.248.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.248.0) (1 day ago)
+- [`stripe/stripe-php:v13.16.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.16.0-beta.1) (1 day ago)
+- [`sebastianbergmann/phpunit:9.6.18`](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.18) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:6.25.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.25.1) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.52.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (3 days ago)
+- [`doctrine/orm:2.19.2`](https://github.com/doctrine/orm/releases/tag/2.19.2) (4 days ago)
 - [`valorin/random:v0.5`](https://github.com/valorin/random/releases/tag/v0.5) (1 week ago)
 - [`sebastianbergmann/php-code-coverage:11.0.3`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.3) (1 week ago)
 - [`composer/composer:2.7.2`](https://github.com/composer/composer/releases/tag/2.7.2) (1 week ago)
