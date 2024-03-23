@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@owen2jan`](https://github.com/owen2jan)
 - [`@qebokur`](https://github.com/qebokur)
 - [`@AladdinAlhazmi`](https://github.com/AladdinAlhazmi)
 - [`@Pranavv78`](https://github.com/Pranavv78)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Randolium`](https://github.com/Randolium)
 - [`@bed-com-29-19`](https://github.com/bed-com-29-19)
 - [`@douglas-fortunatus`](https://github.com/douglas-fortunatus)
-- [`@alphaolomi`](https://github.com/alphaolomi)
 
 ### Recent sponsors on GitHub
 
