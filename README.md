@@ -25,6 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`laravel/pint:v1.15.0`](https://github.com/laravel/pint/releases/tag/v1.15.0) (today)
+- [`laravel/cashier-stripe:v15.3.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.3.1) (today)
 - [`doctrine/orm:3.1.1`](https://github.com/doctrine/orm/releases/tag/3.1.1) (4 days ago)
 - [`sebastianbergmann/phpunit:11.0.8`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.8) (4 days ago)
 - [`dependabot/dependabot-core:v0.248.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.248.0) (5 days ago)
@@ -33,8 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.52.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (1 week ago)
 - [`valorin/random:v0.5`](https://github.com/valorin/random/releases/tag/v0.5) (2 weeks ago)
 - [`sebastianbergmann/php-code-coverage:11.0.3`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.3) (2 weeks ago)
-- [`composer/composer:2.7.2`](https://github.com/composer/composer/releases/tag/2.7.2) (2 weeks ago)
-- [`sebastianbergmann/csv-parser:1.0.0`](https://github.com/sebastianbergmann/csv-parser/releases/tag/1.0.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
