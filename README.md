@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`laravel/pint:v1.15.0`](https://github.com/laravel/pint/releases/tag/v1.15.0) (1 day ago)
-- [`laravel/cashier-stripe:v15.3.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.3.1) (1 day ago)
-- [`doctrine/orm:3.1.1`](https://github.com/doctrine/orm/releases/tag/3.1.1) (5 days ago)
-- [`sebastianbergmann/phpunit:11.0.8`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.8) (5 days ago)
-- [`dependabot/dependabot-core:v0.248.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.248.0) (6 days ago)
-- [`stripe/stripe-php:v13.16.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.16.0-beta.1) (6 days ago)
-- [`ergebnis/php-cs-fixer-config:6.25.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.25.1) (6 days ago)
+- [`laravel/pint:v1.15.0`](https://github.com/laravel/pint/releases/tag/v1.15.0) (2 days ago)
+- [`laravel/cashier-stripe:v15.3.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.3.1) (2 days ago)
+- [`doctrine/orm:3.1.1`](https://github.com/doctrine/orm/releases/tag/3.1.1) (6 days ago)
+- [`sebastianbergmann/phpunit:11.0.8`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.8) (6 days ago)
+- [`dependabot/dependabot-core:v0.248.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.248.0) (1 week ago)
+- [`stripe/stripe-php:v13.16.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v13.16.0-beta.1) (1 week ago)
+- [`ergebnis/php-cs-fixer-config:6.25.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.25.1) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.52.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (1 week ago)
 - [`valorin/random:v0.5`](https://github.com/valorin/random/releases/tag/v0.5) (2 weeks ago)
 - [`sebastianbergmann/php-code-coverage:11.0.3`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.3) (2 weeks ago)
