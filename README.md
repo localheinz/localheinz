@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v13.16.0`](https://github.com/stripe/stripe-php/releases/tag/v13.16.0) (1 day ago)
-- [`dependabot/dependabot-core:v0.249.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.249.0) (1 day ago)
-- [`sebastianbergmann/phpunit:11.0.9`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.9) (1 day ago)
-- [`laravel/pint:v1.15.0`](https://github.com/laravel/pint/releases/tag/v1.15.0) (3 days ago)
-- [`laravel/cashier-stripe:v15.3.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.3.1) (3 days ago)
+- [`stripe/stripe-php:v13.16.0`](https://github.com/stripe/stripe-php/releases/tag/v13.16.0) (2 days ago)
+- [`dependabot/dependabot-core:v0.249.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.249.0) (2 days ago)
+- [`sebastianbergmann/phpunit:11.0.9`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.9) (2 days ago)
+- [`laravel/pint:v1.15.0`](https://github.com/laravel/pint/releases/tag/v1.15.0) (4 days ago)
+- [`laravel/cashier-stripe:v15.3.1`](https://github.com/laravel/cashier-stripe/releases/tag/v15.3.1) (4 days ago)
 - [`doctrine/orm:3.1.1`](https://github.com/doctrine/orm/releases/tag/3.1.1) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.25.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.25.1) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.52.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (1 week ago)
