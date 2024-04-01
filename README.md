@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@Brainhub24`](https://github.com/Brainhub24)
 - [`@mainali123`](https://github.com/mainali123)
 - [`@owen2jan`](https://github.com/owen2jan)
 - [`@qebokur`](https://github.com/qebokur)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@ctujare`](https://github.com/ctujare)
 - [`@muhammadmp97`](https://github.com/muhammadmp97)
 - [`@Randolium`](https://github.com/Randolium)
-- [`@bed-com-29-19`](https://github.com/bed-com-29-19)
 
 ### Recent sponsors on GitHub
 
