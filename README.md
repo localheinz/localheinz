@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`Jan0707/phpstan-prophecy:1.0.1`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/1.0.1) (today)
 - [`stripe/stripe-php:v13.16.0`](https://github.com/stripe/stripe-php/releases/tag/v13.16.0) (5 days ago)
 - [`dependabot/dependabot-core:v0.249.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.249.0) (5 days ago)
 - [`sebastianbergmann/phpunit:11.0.9`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.9) (5 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/php-cs-fixer-config:6.25.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.25.1) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.52.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.52.1) (2 weeks ago)
 - [`valorin/random:v0.5`](https://github.com/valorin/random/releases/tag/v0.5) (3 weeks ago)
-- [`sebastianbergmann/php-code-coverage:11.0.3`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.3) (3 weeks ago)
 
 ### Recent followers on GitHub
 
