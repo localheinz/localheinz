@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`laravel/cashier-stripe:v15.4.2`](https://github.com/laravel/cashier-stripe/releases/tag/v15.4.2) (1 day ago)
-- [`gacela-project/gacela:1.8.0`](https://github.com/gacela-project/gacela/releases/tag/1.8.0) (4 days ago)
-- [`stripe/stripe-php:v15.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v15.8.0-beta.1) (6 days ago)
-- [`dependabot/dependabot-core:v0.271.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.271.0) (6 days ago)
+- [`laravel/cashier-stripe:v15.4.2`](https://github.com/laravel/cashier-stripe/releases/tag/v15.4.2) (2 days ago)
+- [`gacela-project/gacela:1.8.0`](https://github.com/gacela-project/gacela/releases/tag/1.8.0) (5 days ago)
+- [`stripe/stripe-php:v15.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v15.8.0-beta.1) (1 week ago)
+- [`dependabot/dependabot-core:v0.271.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.271.0) (1 week ago)
 - [`sebastianbergmann/phpunit:11.3.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.35.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.35.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.62.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.62.0) (2 weeks ago)
