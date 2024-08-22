@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`phar-io/phive:0.15.3`](https://github.com/phar-io/phive/releases/tag/0.15.3) (today)
 - [`dependabot/dependabot-core:v0.272.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.272.0) (today)
 - [`sebastianbergmann/php-code-coverage:11.0.6`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.6) (today)
 - [`laravel/cashier-stripe:v15.4.2`](https://github.com/laravel/cashier-stripe/releases/tag/v15.4.2) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/php-cs-fixer-config:6.35.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.35.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.62.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.62.0) (2 weeks ago)
 - [`laravel/pint:v1.17.2`](https://github.com/laravel/pint/releases/tag/v1.17.2) (2 weeks ago)
-- [`sebastianbergmann/csv-parser:1.0.1`](https://github.com/sebastianbergmann/csv-parser/releases/tag/1.0.1) (1 month ago)
 
 ### Recent followers on GitHub
 
