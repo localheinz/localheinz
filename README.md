@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@parsaa74`](https://github.com/parsaa74)
 - [`@champion10874`](https://github.com/champion10874)
 - [`@ministerko`](https://github.com/ministerko)
 - [`@Connor9994`](https://github.com/Connor9994)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@dozer111`](https://github.com/dozer111)
 - [`@kcharfi24`](https://github.com/kcharfi24)
 - [`@hu8813`](https://github.com/hu8813)
-- [`@loss`](https://github.com/loss)
 
 ### Recent sponsors on GitHub
 
