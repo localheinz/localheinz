@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`doctrine/orm:3.2.2`](https://github.com/doctrine/orm/releases/tag/3.2.2) (today)
 - [`phar-io/phive:0.15.3`](https://github.com/phar-io/phive/releases/tag/0.15.3) (1 day ago)
 - [`dependabot/dependabot-core:v0.272.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.272.0) (1 day ago)
 - [`sebastianbergmann/php-code-coverage:11.0.6`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.6) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`sebastianbergmann/phpunit:11.3.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.35.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.35.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.62.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.62.0) (2 weeks ago)
-- [`laravel/pint:v1.17.2`](https://github.com/laravel/pint/releases/tag/v1.17.2) (2 weeks ago)
 
 ### Recent followers on GitHub
 
