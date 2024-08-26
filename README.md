@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.63.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.63.0) (today)
 - [`doctrine/orm:3.2.2`](https://github.com/doctrine/orm/releases/tag/3.2.2) (3 days ago)
 - [`phar-io/phive:0.15.3`](https://github.com/phar-io/phive/releases/tag/0.15.3) (4 days ago)
 - [`dependabot/dependabot-core:v0.272.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.272.0) (4 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`stripe/stripe-php:v15.8.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v15.8.0-beta.1) (1 week ago)
 - [`sebastianbergmann/phpunit:11.3.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.35.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.35.0) (2 weeks ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.62.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.62.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
