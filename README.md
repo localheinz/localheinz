@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v15.8.0`](https://github.com/stripe/stripe-php/releases/tag/v15.8.0) (today)
-- [`dependabot/dependabot-core:v0.273.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.273.0) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.63.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.63.2) (1 day ago)
-- [`doctrine/orm:3.2.2`](https://github.com/doctrine/orm/releases/tag/3.2.2) (6 days ago)
+- [`stripe/stripe-php:v15.8.0`](https://github.com/stripe/stripe-php/releases/tag/v15.8.0) (1 day ago)
+- [`dependabot/dependabot-core:v0.273.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.273.0) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.63.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.63.2) (2 days ago)
+- [`doctrine/orm:3.2.2`](https://github.com/doctrine/orm/releases/tag/3.2.2) (1 week ago)
 - [`phar-io/phive:0.15.3`](https://github.com/phar-io/phive/releases/tag/0.15.3) (1 week ago)
 - [`sebastianbergmann/php-code-coverage:11.0.6`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.6) (1 week ago)
 - [`laravel/cashier-stripe:v15.4.2`](https://github.com/laravel/cashier-stripe/releases/tag/v15.4.2) (1 week ago)
