@@ -18,21 +18,21 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (1 year ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (1 year ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (1 year ago)
-- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (1 year ago)
+- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (2 years ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (2 years ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (2 years ago)
 - [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (2 years ago)
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v15.8.0`](https://github.com/stripe/stripe-php/releases/tag/v15.8.0) (1 day ago)
-- [`dependabot/dependabot-core:v0.273.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.273.0) (1 day ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.63.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.63.2) (2 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.64.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0) (1 day ago)
+- [`stripe/stripe-php:v15.8.0`](https://github.com/stripe/stripe-php/releases/tag/v15.8.0) (2 days ago)
+- [`dependabot/dependabot-core:v0.273.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.273.0) (2 days ago)
 - [`doctrine/orm:3.2.2`](https://github.com/doctrine/orm/releases/tag/3.2.2) (1 week ago)
 - [`phar-io/phive:0.15.3`](https://github.com/phar-io/phive/releases/tag/0.15.3) (1 week ago)
 - [`sebastianbergmann/php-code-coverage:11.0.6`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.6) (1 week ago)
 - [`laravel/cashier-stripe:v15.4.2`](https://github.com/laravel/cashier-stripe/releases/tag/v15.4.2) (1 week ago)
-- [`gacela-project/gacela:1.8.0`](https://github.com/gacela-project/gacela/releases/tag/1.8.0) (1 week ago)
+- [`gacela-project/gacela:1.8.0`](https://github.com/gacela-project/gacela/releases/tag/1.8.0) (2 weeks ago)
 - [`sebastianbergmann/phpunit:11.3.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1) (2 weeks ago)
 - [`ergebnis/php-cs-fixer-config:6.35.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.35.0) (2 weeks ago)
 
