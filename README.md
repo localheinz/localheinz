@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`sebastianbergmann/phpunit:11.3.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.2) (today)
 - [`ergebnis/php-cs-fixer-config:6.36.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.36.0) (1 day ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.64.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0) (4 days ago)
 - [`stripe/stripe-php:v15.8.0`](https://github.com/stripe/stripe-php/releases/tag/v15.8.0) (5 days ago)
@@ -33,7 +34,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`phar-io/phive:0.15.3`](https://github.com/phar-io/phive/releases/tag/0.15.3) (1 week ago)
 - [`sebastianbergmann/php-code-coverage:11.0.6`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.6) (1 week ago)
 - [`gacela-project/gacela:1.8.0`](https://github.com/gacela-project/gacela/releases/tag/1.8.0) (2 weeks ago)
-- [`sebastianbergmann/phpunit:11.3.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.1) (3 weeks ago)
 - [`sebastianbergmann/csv-parser:1.0.1`](https://github.com/sebastianbergmann/csv-parser/releases/tag/1.0.1) (2 months ago)
 
 ### Recent followers on GitHub
