@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:11.3.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.2) (1 day ago)
+- [`sebastianbergmann/phpunit:11.3.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.3) (today)
 - [`ergebnis/php-cs-fixer-config:6.36.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.36.0) (2 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.64.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0) (5 days ago)
 - [`stripe/stripe-php:v15.8.0`](https://github.com/stripe/stripe-php/releases/tag/v15.8.0) (6 days ago)
