@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`Roave/BackwardCompatibilityCheck:8.9.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.9.0) (today)
 - [`ergebnis/phpunit-slow-test-detector:2.15.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.15.1) (today)
 - [`sebastianbergmann/phpunit:11.3.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.3) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.36.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.36.0) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`doctrine/orm:3.2.2`](https://github.com/doctrine/orm/releases/tag/3.2.2) (1 week ago)
 - [`phar-io/phive:0.15.3`](https://github.com/phar-io/phive/releases/tag/0.15.3) (2 weeks ago)
 - [`sebastianbergmann/php-code-coverage:11.0.6`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.6) (2 weeks ago)
-- [`gacela-project/gacela:1.8.0`](https://github.com/gacela-project/gacela/releases/tag/1.8.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
