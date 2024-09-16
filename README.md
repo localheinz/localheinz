@@ -25,12 +25,12 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`stripe/stripe-php:v15.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v15.10.0-beta.1) (2 days ago)
-- [`sebastianbergmann/phpunit:11.3.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5) (2 days ago)
-- [`dependabot/dependabot-core:v0.275.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.275.0) (3 days ago)
+- [`stripe/stripe-php:v15.10.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v15.10.0-beta.1) (3 days ago)
+- [`sebastianbergmann/phpunit:11.3.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.5) (3 days ago)
+- [`dependabot/dependabot-core:v0.275.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.275.0) (4 days ago)
 - [`Roave/BackwardCompatibilityCheck:8.9.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.9.0) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.15.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.15.1) (1 week ago)
-- [`ergebnis/php-cs-fixer-config:6.36.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.36.0) (1 week ago)
+- [`ergebnis/php-cs-fixer-config:6.36.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.36.0) (2 weeks ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.64.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0) (2 weeks ago)
 - [`doctrine/orm:3.2.2`](https://github.com/doctrine/orm/releases/tag/3.2.2) (3 weeks ago)
 - [`phar-io/phive:0.15.3`](https://github.com/phar-io/phive/releases/tag/0.15.3) (3 weeks ago)
