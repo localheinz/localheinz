@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`dependabot/dependabot-core:v0.276.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.276.0) (4 days ago)
+- [`dependabot/dependabot-core:v0.277.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.277.0) (today)
 - [`sebastianbergmann/phpunit:11.3.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6) (4 days ago)
 - [`stripe/stripe-php:v15.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v15.11.0-beta.1) (5 days ago)
 - [`Roave/BackwardCompatibilityCheck:8.9.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.9.0) (2 weeks ago)
