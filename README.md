@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (today)
+- [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (today)
+- [`ergebnis/phpunit-slow-test-detector:2.16.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.0) (today)
+- [`ergebnis/json-printer:3.6.0`](https://github.com/ergebnis/json-printer/releases/tag/3.6.0) (today)
+- [`ergebnis/json-schema-validator:4.3.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.3.0) (today)
+- [`ergebnis/json-normalizer:4.6.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.6.0) (today)
 - [`ergebnis/json:1.3.0`](https://github.com/ergebnis/json/releases/tag/1.3.0) (today)
 - [`ergebnis/data-provider:3.3.0`](https://github.com/ergebnis/data-provider/releases/tag/3.3.0) (today)
 - [`ergebnis/license:2.5.0`](https://github.com/ergebnis/license/releases/tag/2.5.0) (today)
 - [`dependabot/dependabot-core:v0.278.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.278.0) (1 day ago)
-- [`sebastianbergmann/phpunit:11.3.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6) (1 week ago)
-- [`stripe/stripe-php:v15.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v15.11.0-beta.1) (1 week ago)
-- [`Roave/BackwardCompatibilityCheck:8.9.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.9.0) (3 weeks ago)
-- [`ergebnis/phpunit-slow-test-detector:2.15.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.15.1) (3 weeks ago)
-- [`ergebnis/php-cs-fixer-config:6.36.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.36.0) (3 weeks ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.64.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0) (4 weeks ago)
 
 ### Recent followers on GitHub
 
