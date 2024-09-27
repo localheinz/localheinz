@@ -25,6 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/json:1.3.0`](https://github.com/ergebnis/json/releases/tag/1.3.0) (today)
+- [`ergebnis/data-provider:3.3.0`](https://github.com/ergebnis/data-provider/releases/tag/3.3.0) (today)
+- [`ergebnis/license:2.5.0`](https://github.com/ergebnis/license/releases/tag/2.5.0) (today)
 - [`dependabot/dependabot-core:v0.278.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.278.0) (1 day ago)
 - [`sebastianbergmann/phpunit:11.3.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.3.6) (1 week ago)
 - [`stripe/stripe-php:v15.11.0-beta.1`](https://github.com/stripe/stripe-php/releases/tag/v15.11.0-beta.1) (1 week ago)
@@ -32,9 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/phpunit-slow-test-detector:2.15.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.15.1) (3 weeks ago)
 - [`ergebnis/php-cs-fixer-config:6.36.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.36.0) (3 weeks ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.64.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.64.0) (4 weeks ago)
-- [`doctrine/orm:3.2.2`](https://github.com/doctrine/orm/releases/tag/3.2.2) (1 month ago)
-- [`phar-io/phive:0.15.3`](https://github.com/phar-io/phive/releases/tag/0.15.3) (1 month ago)
-- [`sebastianbergmann/php-code-coverage:11.0.6`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.6) (1 month ago)
 
 ### Recent followers on GitHub
 
