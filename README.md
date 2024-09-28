@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (today)
-- [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (today)
-- [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (today)
-- [`ergebnis/phpunit-slow-test-detector:2.16.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.0) (today)
-- [`ergebnis/json-printer:3.6.0`](https://github.com/ergebnis/json-printer/releases/tag/3.6.0) (today)
-- [`ergebnis/json-schema-validator:4.3.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.3.0) (today)
-- [`ergebnis/json-normalizer:4.6.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.6.0) (today)
-- [`ergebnis/json:1.3.0`](https://github.com/ergebnis/json/releases/tag/1.3.0) (today)
-- [`ergebnis/data-provider:3.3.0`](https://github.com/ergebnis/data-provider/releases/tag/3.3.0) (today)
-- [`ergebnis/license:2.5.0`](https://github.com/ergebnis/license/releases/tag/2.5.0) (today)
+- [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (1 day ago)
+- [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (1 day ago)
+- [`ergebnis/phpunit-slow-test-detector:2.16.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.0) (1 day ago)
+- [`ergebnis/json-printer:3.6.0`](https://github.com/ergebnis/json-printer/releases/tag/3.6.0) (1 day ago)
+- [`ergebnis/json-schema-validator:4.3.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.3.0) (1 day ago)
+- [`ergebnis/json-normalizer:4.6.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.6.0) (1 day ago)
+- [`ergebnis/json:1.3.0`](https://github.com/ergebnis/json/releases/tag/1.3.0) (1 day ago)
+- [`ergebnis/data-provider:3.3.0`](https://github.com/ergebnis/data-provider/releases/tag/3.3.0) (1 day ago)
+- [`ergebnis/license:2.5.0`](https://github.com/ergebnis/license/releases/tag/2.5.0) (1 day ago)
 
 ### Recent followers on GitHub
 
