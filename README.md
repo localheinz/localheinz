@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (today)
 - [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (3 days ago)
 - [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (3 days ago)
 - [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-normalizer:4.6.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.6.0) (3 days ago)
 - [`ergebnis/json:1.3.0`](https://github.com/ergebnis/json/releases/tag/1.3.0) (3 days ago)
 - [`ergebnis/data-provider:3.3.0`](https://github.com/ergebnis/data-provider/releases/tag/3.3.0) (3 days ago)
-- [`ergebnis/license:2.5.0`](https://github.com/ergebnis/license/releases/tag/2.5.0) (3 days ago)
 
 ### Recent followers on GitHub
 
