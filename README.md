@@ -15,7 +15,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (1 year ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (1 year ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (1 year ago)
-- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (1 year ago)
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (2 years ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 years ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 years ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (2 years ago)
@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (today)
-- [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (3 days ago)
-- [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (3 days ago)
-- [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (3 days ago)
-- [`ergebnis/phpunit-slow-test-detector:2.16.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.0) (3 days ago)
-- [`ergebnis/json-printer:3.6.0`](https://github.com/ergebnis/json-printer/releases/tag/3.6.0) (3 days ago)
-- [`ergebnis/json-schema-validator:4.3.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.3.0) (3 days ago)
-- [`ergebnis/json-normalizer:4.6.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.6.0) (3 days ago)
-- [`ergebnis/json:1.3.0`](https://github.com/ergebnis/json/releases/tag/1.3.0) (3 days ago)
-- [`ergebnis/data-provider:3.3.0`](https://github.com/ergebnis/data-provider/releases/tag/3.3.0) (3 days ago)
+- [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (1 day ago)
+- [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (4 days ago)
+- [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (4 days ago)
+- [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (4 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.16.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.0) (4 days ago)
+- [`ergebnis/json-printer:3.6.0`](https://github.com/ergebnis/json-printer/releases/tag/3.6.0) (4 days ago)
+- [`ergebnis/json-schema-validator:4.3.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.3.0) (4 days ago)
+- [`ergebnis/json-normalizer:4.6.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.6.0) (4 days ago)
+- [`ergebnis/json:1.3.0`](https://github.com/ergebnis/json/releases/tag/1.3.0) (4 days ago)
+- [`ergebnis/data-provider:3.3.0`](https://github.com/ergebnis/data-provider/releases/tag/3.3.0) (4 days ago)
 
 ### Recent followers on GitHub
 
