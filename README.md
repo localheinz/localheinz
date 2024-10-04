@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`dependabot/dependabot-core:v0.279.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.279.0) (today)
-- [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (3 days ago)
-- [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (6 days ago)
-- [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (6 days ago)
-- [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (6 days ago)
-- [`ergebnis/phpunit-slow-test-detector:2.16.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.0) (6 days ago)
-- [`ergebnis/json-printer:3.6.0`](https://github.com/ergebnis/json-printer/releases/tag/3.6.0) (6 days ago)
-- [`ergebnis/json-schema-validator:4.3.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.3.0) (6 days ago)
-- [`ergebnis/json-normalizer:4.6.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.6.0) (6 days ago)
-- [`ergebnis/json:1.3.0`](https://github.com/ergebnis/json/releases/tag/1.3.0) (6 days ago)
+- [`dependabot/dependabot-core:v0.279.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.279.0) (1 day ago)
+- [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (4 days ago)
+- [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (1 week ago)
+- [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (1 week ago)
+- [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (1 week ago)
+- [`ergebnis/phpunit-slow-test-detector:2.16.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.0) (1 week ago)
+- [`ergebnis/json-printer:3.6.0`](https://github.com/ergebnis/json-printer/releases/tag/3.6.0) (1 week ago)
+- [`ergebnis/json-schema-validator:4.3.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.3.0) (1 week ago)
+- [`ergebnis/json-normalizer:4.6.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.6.0) (1 week ago)
+- [`ergebnis/json:1.3.0`](https://github.com/ergebnis/json/releases/tag/1.3.0) (1 week ago)
 
 ### Recent followers on GitHub
 
