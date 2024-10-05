@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`sebastianbergmann/phpunit:11.4.0`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.0) (today)
 - [`dependabot/dependabot-core:v0.279.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.279.0) (2 days ago)
 - [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (5 days ago)
 - [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (1 week ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-printer:3.6.0`](https://github.com/ergebnis/json-printer/releases/tag/3.6.0) (1 week ago)
 - [`ergebnis/json-schema-validator:4.3.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.3.0) (1 week ago)
 - [`ergebnis/json-normalizer:4.6.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.6.0) (1 week ago)
-- [`ergebnis/json:1.3.0`](https://github.com/ergebnis/json/releases/tag/1.3.0) (1 week ago)
 
 ### Recent followers on GitHub
 
