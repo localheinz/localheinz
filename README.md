@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:11.4.0`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.0) (today)
-- [`dependabot/dependabot-core:v0.279.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.279.0) (2 days ago)
-- [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (5 days ago)
+- [`sebastianbergmann/phpunit:11.4.0`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.0) (1 day ago)
+- [`dependabot/dependabot-core:v0.279.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.279.0) (3 days ago)
+- [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (6 days ago)
 - [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (1 week ago)
 - [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (1 week ago)
