@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`Roave/BackwardCompatibilityCheck:8.10.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.10.0) (today)
-- [`sebastianbergmann/phpunit:11.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1) (today)
-- [`dependabot/dependabot-core:v0.279.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.279.0) (5 days ago)
+- [`Roave/BackwardCompatibilityCheck:8.10.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.10.0) (1 day ago)
+- [`sebastianbergmann/phpunit:11.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1) (1 day ago)
+- [`dependabot/dependabot-core:v0.279.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.279.0) (6 days ago)
 - [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (1 week ago)
 - [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (1 week ago)
 - [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (1 week ago)
