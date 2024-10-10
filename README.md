@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`doctrine/orm:2.19.8`](https://github.com/doctrine/orm/releases/tag/2.19.8) (today)
 - [`sebastianbergmann/php-code-coverage:11.0.7`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7) (1 day ago)
 - [`Roave/BackwardCompatibilityCheck:8.10.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.10.0) (2 days ago)
 - [`sebastianbergmann/phpunit:11.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.16.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.0) (1 week ago)
-- [`ergebnis/json-printer:3.6.0`](https://github.com/ergebnis/json-printer/releases/tag/3.6.0) (1 week ago)
 
 ### Recent followers on GitHub
 
