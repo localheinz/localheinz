@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`dependabot/dependabot-core:v0.280.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.280.0) (today)
 - [`doctrine/orm:2.19.8`](https://github.com/doctrine/orm/releases/tag/2.19.8) (today)
 - [`sebastianbergmann/php-code-coverage:11.0.7`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7) (1 day ago)
 - [`Roave/BackwardCompatibilityCheck:8.10.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.10.0) (2 days ago)
 - [`sebastianbergmann/phpunit:11.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.1) (2 days ago)
-- [`dependabot/dependabot-core:v0.279.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.279.0) (1 week ago)
 - [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (1 week ago)
 - [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (1 week ago)
 - [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (1 week ago)
