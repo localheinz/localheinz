@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`doctrine/orm:3.2.3`](https://github.com/doctrine/orm/releases/tag/3.2.3) (1 day ago)
+- [`doctrine/orm:3.3.0`](https://github.com/doctrine/orm/releases/tag/3.3.0) (today)
 - [`dependabot/dependabot-core:v0.280.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.280.0) (3 days ago)
 - [`sebastianbergmann/php-code-coverage:11.0.7`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7) (4 days ago)
 - [`Roave/BackwardCompatibilityCheck:8.10.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.10.0) (5 days ago)
