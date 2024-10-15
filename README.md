@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@alkhachatryan`](https://github.com/alkhachatryan)
 - [`@dhirtzbruch`](https://github.com/dhirtzbruch)
 - [`@lotyp`](https://github.com/lotyp)
 - [`@parsaa74`](https://github.com/parsaa74)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@KingCoderArtist`](https://github.com/KingCoderArtist)
 - [`@standardgalactic`](https://github.com/standardgalactic)
 - [`@dozer1412131`](https://github.com/dozer1412131)
-- [`@dozer111`](https://github.com/dozer111)
 
 ### Recent sponsors on GitHub
 
