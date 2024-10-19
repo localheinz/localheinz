@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/playground:0.14.0`](https://github.com/ergebnis/playground/releases/tag/0.14.0) (today)
 - [`dependabot/dependabot-core:v0.281.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.281.0) (2 days ago)
 - [`doctrine/orm:3.3.0`](https://github.com/doctrine/orm/releases/tag/3.3.0) (6 days ago)
 - [`sebastianbergmann/php-code-coverage:11.0.7`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7) (1 week ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (3 weeks ago)
 - [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (3 weeks ago)
 - [`ergebnis/php-cs-fixer-config:6.37.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.37.0) (3 weeks ago)
-- [`ergebnis/phpunit-slow-test-detector:2.16.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.0) (3 weeks ago)
 
 ### Recent followers on GitHub
 
