@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:11.4.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2) (today)
-- [`ergebnis/playground:0.14.0`](https://github.com/ergebnis/playground/releases/tag/0.14.0) (today)
-- [`dependabot/dependabot-core:v0.281.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.281.0) (2 days ago)
-- [`doctrine/orm:3.3.0`](https://github.com/doctrine/orm/releases/tag/3.3.0) (6 days ago)
+- [`sebastianbergmann/phpunit:11.4.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2) (1 day ago)
+- [`ergebnis/playground:0.14.0`](https://github.com/ergebnis/playground/releases/tag/0.14.0) (1 day ago)
+- [`dependabot/dependabot-core:v0.281.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.281.0) (3 days ago)
+- [`doctrine/orm:3.3.0`](https://github.com/doctrine/orm/releases/tag/3.3.0) (1 week ago)
 - [`sebastianbergmann/php-code-coverage:11.0.7`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7) (1 week ago)
 - [`Roave/BackwardCompatibilityCheck:8.10.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.10.0) (1 week ago)
 - [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (2 weeks ago)
