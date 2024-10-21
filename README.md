@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@manuelderuiter`](https://github.com/manuelderuiter)
 - [`@trinhminhtriet`](https://github.com/trinhminhtriet)
 - [`@daFish`](https://github.com/daFish)
 - [`@raffaelecarelle`](https://github.com/raffaelecarelle)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@staabm`](https://github.com/staabm)
 - [`@alkhachatryan`](https://github.com/alkhachatryan)
 - [`@dhirtzbruch`](https://github.com/dhirtzbruch)
-- [`@lotyp`](https://github.com/lotyp)
 
 ### Recent sponsors on GitHub
 
