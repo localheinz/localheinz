@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpunit-slow-test-detector:2.16.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.1) (today)
-- [`dependabot/dependabot-core:v0.282.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.282.0) (1 day ago)
-- [`sebastianbergmann/phpunit:11.4.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2) (6 days ago)
-- [`ergebnis/playground:0.14.0`](https://github.com/ergebnis/playground/releases/tag/0.14.0) (6 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.16.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.1) (1 day ago)
+- [`dependabot/dependabot-core:v0.282.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.282.0) (2 days ago)
+- [`sebastianbergmann/phpunit:11.4.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.2) (1 week ago)
+- [`ergebnis/playground:0.14.0`](https://github.com/ergebnis/playground/releases/tag/0.14.0) (1 week ago)
 - [`doctrine/orm:3.3.0`](https://github.com/doctrine/orm/releases/tag/3.3.0) (1 week ago)
 - [`sebastianbergmann/php-code-coverage:11.0.7`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7) (2 weeks ago)
 - [`Roave/BackwardCompatibilityCheck:8.10.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.10.0) (2 weeks ago)
