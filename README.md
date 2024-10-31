@@ -14,7 +14,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 - [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (1 year ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (1 year ago)
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (1 year ago)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (2 years ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (2 years ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 years ago)
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (2 years ago)
@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:11.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3) (2 days ago)
-- [`ergebnis/phpunit-slow-test-detector:2.16.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.1) (5 days ago)
-- [`dependabot/dependabot-core:v0.282.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.282.0) (6 days ago)
+- [`sebastianbergmann/phpunit:11.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3) (3 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.16.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.1) (6 days ago)
+- [`dependabot/dependabot-core:v0.282.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.282.0) (1 week ago)
 - [`ergebnis/playground:0.14.0`](https://github.com/ergebnis/playground/releases/tag/0.14.0) (1 week ago)
 - [`doctrine/orm:3.3.0`](https://github.com/doctrine/orm/releases/tag/3.3.0) (2 weeks ago)
 - [`sebastianbergmann/php-code-coverage:11.0.7`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7) (3 weeks ago)
