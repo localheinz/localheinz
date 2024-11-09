@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`gacela-project/gacela:1.8.1`](https://github.com/gacela-project/gacela/releases/tag/1.8.1) (today)
 - [`dependabot/dependabot-core:v0.285.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.285.0) (2 days ago)
 - [`sebastianbergmann/phpunit:11.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.16.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.1) (2 weeks ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`Roave/BackwardCompatibilityCheck:8.10.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.10.0) (1 month ago)
 - [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (1 month ago)
 - [`ergebnis/rector-rules:1.1.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.1.0) (1 month ago)
-- [`ergebnis/json-pointer:3.5.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.5.0) (1 month ago)
 
 ### Recent followers on GitHub
 
