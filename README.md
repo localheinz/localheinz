@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/clock:2.9.0`](https://github.com/ergebnis/clock/releases/tag/2.9.0) (today)
-- [`gacela-project/gacela:1.8.1`](https://github.com/gacela-project/gacela/releases/tag/1.8.1) (1 day ago)
-- [`dependabot/dependabot-core:v0.285.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.285.0) (3 days ago)
-- [`sebastianbergmann/phpunit:11.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3) (1 week ago)
+- [`ergebnis/clock:2.9.0`](https://github.com/ergebnis/clock/releases/tag/2.9.0) (1 day ago)
+- [`gacela-project/gacela:1.8.1`](https://github.com/gacela-project/gacela/releases/tag/1.8.1) (2 days ago)
+- [`dependabot/dependabot-core:v0.285.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.285.0) (4 days ago)
+- [`sebastianbergmann/phpunit:11.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3) (2 weeks ago)
 - [`ergebnis/phpunit-slow-test-detector:2.16.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.1) (2 weeks ago)
 - [`ergebnis/playground:0.14.0`](https://github.com/ergebnis/playground/releases/tag/0.14.0) (3 weeks ago)
 - [`doctrine/orm:3.3.0`](https://github.com/doctrine/orm/releases/tag/3.3.0) (4 weeks ago)
