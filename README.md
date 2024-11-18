@@ -25,19 +25,22 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/clock:2.9.0`](https://github.com/ergebnis/clock/releases/tag/2.9.0) (1 day ago)
-- [`gacela-project/gacela:1.8.1`](https://github.com/gacela-project/gacela/releases/tag/1.8.1) (2 days ago)
-- [`dependabot/dependabot-core:v0.285.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.285.0) (4 days ago)
-- [`sebastianbergmann/phpunit:11.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.3) (2 weeks ago)
-- [`ergebnis/phpunit-slow-test-detector:2.16.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.16.1) (2 weeks ago)
-- [`ergebnis/playground:0.14.0`](https://github.com/ergebnis/playground/releases/tag/0.14.0) (3 weeks ago)
-- [`doctrine/orm:3.3.0`](https://github.com/doctrine/orm/releases/tag/3.3.0) (4 weeks ago)
-- [`sebastianbergmann/php-code-coverage:11.0.7`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.7) (1 month ago)
-- [`Roave/BackwardCompatibilityCheck:8.10.0`](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.10.0) (1 month ago)
-- [`ergebnis/composer-normalize:2.44.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.44.0) (1 month ago)
+- [`ergebnis/data-provider:3.4.0`](https://github.com/ergebnis/data-provider/releases/tag/3.4.0) (today)
+- [`ergebnis/json-schema-validator:4.4.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.4.0) (today)
+- [`ergebnis/twig-front-matter:1.2.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.2.0) (today)
+- [`ergebnis/http-method:2.6.0`](https://github.com/ergebnis/http-method/releases/tag/2.6.0) (1 day ago)
+- [`ergebnis/front-matter:3.2.0`](https://github.com/ergebnis/front-matter/releases/tag/3.2.0) (1 day ago)
+- [`ergebnis/version:1.2.0`](https://github.com/ergebnis/version/releases/tag/1.2.0) (1 day ago)
+- [`ergebnis/json-normalizer:4.7.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.7.0) (1 day ago)
+- [`ergebnis/license:2.6.0`](https://github.com/ergebnis/license/releases/tag/2.6.0) (1 day ago)
+- [`ergebnis/json-pointer:3.6.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.6.0) (1 day ago)
+- [`ergebnis/json:1.4.0`](https://github.com/ergebnis/json/releases/tag/1.4.0) (1 day ago)
 
 ### Recent followers on GitHub
 
+- [`@Constantine0808`](https://github.com/Constantine0808)
+- [`@Ramyromel`](https://github.com/Ramyromel)
+- [`@sjerdo`](https://github.com/sjerdo)
 - [`@Qurratulaien11`](https://github.com/Qurratulaien11)
 - [`@cezarpopa`](https://github.com/cezarpopa)
 - [`@manuelderuiter`](https://github.com/manuelderuiter)
@@ -45,9 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@daFish`](https://github.com/daFish)
 - [`@raffaelecarelle`](https://github.com/raffaelecarelle)
 - [`@ccaglak`](https://github.com/ccaglak)
-- [`@ruudk`](https://github.com/ruudk)
-- [`@guanguans`](https://github.com/guanguans)
-- [`@staabm`](https://github.com/staabm)
 
 ### Recent sponsors on GitHub
 
