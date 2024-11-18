@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/data-generator:1.1.0`](https://github.com/ergebnis/data-generator/releases/tag/1.1.0) (today)
 - [`ergebnis/environment-variables:1.6.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.6.0) (today)
 - [`ergebnis/clock:2.10.0`](https://github.com/ergebnis/clock/releases/tag/2.10.0) (today)
 - [`ergebnis/data-provider:3.4.0`](https://github.com/ergebnis/data-provider/releases/tag/3.4.0) (today)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/front-matter:3.2.0`](https://github.com/ergebnis/front-matter/releases/tag/3.2.0) (1 day ago)
 - [`ergebnis/version:1.2.0`](https://github.com/ergebnis/version/releases/tag/1.2.0) (1 day ago)
 - [`ergebnis/json-normalizer:4.7.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.7.0) (1 day ago)
-- [`ergebnis/license:2.6.0`](https://github.com/ergebnis/license/releases/tag/2.6.0) (1 day ago)
 
 ### Recent followers on GitHub
 
