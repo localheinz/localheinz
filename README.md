@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`dependabot/dependabot-core:v0.287.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.287.0) (today)
 - [`ergebnis/data-generator:1.1.0`](https://github.com/ergebnis/data-generator/releases/tag/1.1.0) (1 day ago)
 - [`ergebnis/environment-variables:1.6.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.6.0) (1 day ago)
 - [`ergebnis/clock:2.10.0`](https://github.com/ergebnis/clock/releases/tag/2.10.0) (1 day ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/http-method:2.6.0`](https://github.com/ergebnis/http-method/releases/tag/2.6.0) (2 days ago)
 - [`ergebnis/front-matter:3.2.0`](https://github.com/ergebnis/front-matter/releases/tag/3.2.0) (2 days ago)
 - [`ergebnis/version:1.2.0`](https://github.com/ergebnis/version/releases/tag/1.2.0) (2 days ago)
-- [`ergebnis/json-normalizer:4.7.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.7.0) (2 days ago)
 
 ### Recent followers on GitHub
 
