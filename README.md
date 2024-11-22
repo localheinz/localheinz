@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`nicmart/Tree:0.9.0`](https://github.com/nicmart/Tree/releases/tag/0.9.0) (today)
 - [`dependabot/dependabot-core:v0.288.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.288.0) (1 day ago)
 - [`Jan0707/phpstan-prophecy:2.0.0`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.0.0) (1 day ago)
 - [`ergebnis/data-generator:1.1.0`](https://github.com/ergebnis/data-generator/releases/tag/1.1.0) (4 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-schema-validator:4.4.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.4.0) (4 days ago)
 - [`ergebnis/twig-front-matter:1.2.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.2.0) (4 days ago)
 - [`ergebnis/http-method:2.6.0`](https://github.com/ergebnis/http-method/releases/tag/2.6.0) (5 days ago)
-- [`ergebnis/front-matter:3.2.0`](https://github.com/ergebnis/front-matter/releases/tag/3.2.0) (5 days ago)
 
 ### Recent followers on GitHub
 
