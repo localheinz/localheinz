@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpstan-rules:2.4.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.4.0) (1 day ago)
-- [`nicmart/Tree:0.9.0`](https://github.com/nicmart/Tree/releases/tag/0.9.0) (1 day ago)
-- [`dependabot/dependabot-core:v0.288.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.288.0) (2 days ago)
-- [`Jan0707/phpstan-prophecy:2.0.0`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.0.0) (2 days ago)
-- [`ergebnis/data-generator:1.1.0`](https://github.com/ergebnis/data-generator/releases/tag/1.1.0) (5 days ago)
-- [`ergebnis/environment-variables:1.6.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.6.0) (5 days ago)
-- [`ergebnis/clock:2.10.0`](https://github.com/ergebnis/clock/releases/tag/2.10.0) (5 days ago)
-- [`ergebnis/data-provider:3.4.0`](https://github.com/ergebnis/data-provider/releases/tag/3.4.0) (5 days ago)
-- [`ergebnis/json-schema-validator:4.4.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.4.0) (5 days ago)
-- [`ergebnis/twig-front-matter:1.2.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.2.0) (5 days ago)
+- [`ergebnis/rector-rules:1.2.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.2.0) (1 day ago)
+- [`ergebnis/phpstan-rules:2.4.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.4.0) (2 days ago)
+- [`nicmart/Tree:0.9.0`](https://github.com/nicmart/Tree/releases/tag/0.9.0) (2 days ago)
+- [`dependabot/dependabot-core:v0.288.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.288.0) (3 days ago)
+- [`Jan0707/phpstan-prophecy:2.0.0`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.0.0) (3 days ago)
+- [`ergebnis/data-generator:1.1.0`](https://github.com/ergebnis/data-generator/releases/tag/1.1.0) (6 days ago)
+- [`ergebnis/environment-variables:1.6.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.6.0) (6 days ago)
+- [`ergebnis/clock:2.10.0`](https://github.com/ergebnis/clock/releases/tag/2.10.0) (6 days ago)
+- [`ergebnis/data-provider:3.4.0`](https://github.com/ergebnis/data-provider/releases/tag/3.4.0) (6 days ago)
+- [`ergebnis/json-schema-validator:4.4.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.4.0) (6 days ago)
 
 ### Recent followers on GitHub
 
