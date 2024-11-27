@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`sebastianbergmann/phpunit:11.4.4`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4) (today)
 - [`ergebnis/php-cs-fixer-config:6.39.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.39.0) (2 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.65.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (2 days ago)
 - [`ergebnis/rector-rules:1.2.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.2.0) (4 days ago)
@@ -34,10 +35,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`Jan0707/phpstan-prophecy:2.0.0`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.0.0) (6 days ago)
 - [`ergebnis/data-generator:1.1.0`](https://github.com/ergebnis/data-generator/releases/tag/1.1.0) (1 week ago)
 - [`ergebnis/environment-variables:1.6.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.6.0) (1 week ago)
-- [`ergebnis/clock:2.10.0`](https://github.com/ergebnis/clock/releases/tag/2.10.0) (1 week ago)
 
 ### Recent followers on GitHub
 
+- [`@Jimbolino`](https://github.com/Jimbolino)
 - [`@Constantine0808`](https://github.com/Constantine0808)
 - [`@Ramyromel`](https://github.com/Ramyromel)
 - [`@sjerdo`](https://github.com/sjerdo)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@trinhminhtriet`](https://github.com/trinhminhtriet)
 - [`@daFish`](https://github.com/daFish)
 - [`@raffaelecarelle`](https://github.com/raffaelecarelle)
-- [`@ccaglak`](https://github.com/ccaglak)
 
 ### Recent sponsors on GitHub
 
