@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`friendsoftwig/twigcs:6.5.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.5.0) (today)
 - [`sebastianbergmann/phpunit:11.4.4`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4) (today)
 - [`ergebnis/php-cs-fixer-config:6.39.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.39.0) (2 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.65.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`dependabot/dependabot-core:v0.288.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.288.0) (6 days ago)
 - [`Jan0707/phpstan-prophecy:2.0.0`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.0.0) (6 days ago)
 - [`ergebnis/data-generator:1.1.0`](https://github.com/ergebnis/data-generator/releases/tag/1.1.0) (1 week ago)
-- [`ergebnis/environment-variables:1.6.0`](https://github.com/ergebnis/environment-variables/releases/tag/1.6.0) (1 week ago)
 
 ### Recent followers on GitHub
 
