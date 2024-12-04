@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/json-normalizer:4.8.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.8.0) (today)
 - [`ergebnis/phpstan-rules:2.5.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.5.0) (3 days ago)
 - [`gacela-project/gacela:1.9.0`](https://github.com/gacela-project/gacela/releases/tag/1.9.0) (3 days ago)
 - [`friendsoftwig/twigcs:6.5.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.5.0) (1 week ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/rector-rules:1.2.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.2.0) (1 week ago)
 - [`nicmart/Tree:0.9.0`](https://github.com/nicmart/Tree/releases/tag/0.9.0) (1 week ago)
 - [`dependabot/dependabot-core:v0.288.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.288.0) (1 week ago)
-- [`Jan0707/phpstan-prophecy:2.0.0`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.0.0) (1 week ago)
 
 ### Recent followers on GitHub
 
