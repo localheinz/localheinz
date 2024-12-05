@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`sebastianbergmann/phpunit:9.6.22`](https://github.com/sebastianbergmann/phpunit/releases/tag/9.6.22) (today)
 - [`sebastianbergmann/exporter:6.3.0`](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (today)
 - [`ergebnis/composer-normalize:2.45.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.45.0) (1 day ago)
 - [`ergebnis/json-normalizer:4.8.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.8.0) (1 day ago)
 - [`ergebnis/phpstan-rules:2.5.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.5.0) (4 days ago)
 - [`gacela-project/gacela:1.9.0`](https://github.com/gacela-project/gacela/releases/tag/1.9.0) (4 days ago)
 - [`friendsoftwig/twigcs:6.5.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.5.0) (1 week ago)
-- [`sebastianbergmann/phpunit:11.4.4`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.4.4) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.39.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.39.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.65.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (1 week ago)
 - [`ergebnis/rector-rules:1.2.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.2.0) (1 week ago)
