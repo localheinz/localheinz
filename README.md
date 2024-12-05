@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`sebastianbergmann/exporter:6.2.0`](https://github.com/sebastianbergmann/exporter/releases/tag/6.2.0) (today)
 - [`ergebnis/composer-normalize:2.45.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.45.0) (1 day ago)
 - [`ergebnis/json-normalizer:4.8.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.8.0) (1 day ago)
 - [`ergebnis/phpstan-rules:2.5.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.5.0) (4 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/php-cs-fixer-config:6.39.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.39.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.65.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (1 week ago)
 - [`ergebnis/rector-rules:1.2.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.2.0) (1 week ago)
-- [`nicmart/Tree:0.9.0`](https://github.com/nicmart/Tree/releases/tag/0.9.0) (1 week ago)
 
 ### Recent followers on GitHub
 
