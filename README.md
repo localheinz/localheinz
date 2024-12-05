@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/exporter:6.2.0`](https://github.com/sebastianbergmann/exporter/releases/tag/6.2.0) (today)
+- [`sebastianbergmann/exporter:6.3.0`](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (today)
 - [`ergebnis/composer-normalize:2.45.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.45.0) (1 day ago)
 - [`ergebnis/json-normalizer:4.8.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.8.0) (1 day ago)
 - [`ergebnis/phpstan-rules:2.5.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.5.0) (4 days ago)
