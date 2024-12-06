@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@louisgab`](https://github.com/louisgab)
 - [`@eraymond-wp`](https://github.com/eraymond-wp)
 - [`@Jimbolino`](https://github.com/Jimbolino)
 - [`@Constantine0808`](https://github.com/Constantine0808)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@cezarpopa`](https://github.com/cezarpopa)
 - [`@manuelderuiter`](https://github.com/manuelderuiter)
 - [`@trinhminhtriet`](https://github.com/trinhminhtriet)
-- [`@daFish`](https://github.com/daFish)
 
 ### Recent sponsors on GitHub
 
