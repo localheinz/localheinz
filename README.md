@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`gacela-project/gacela:1.9.1`](https://github.com/gacela-project/gacela/releases/tag/1.9.1) (today)
 - [`dependabot/dependabot-core:v0.290.0`](https://github.com/dependabot/dependabot-core/releases/tag/v0.290.0) (today)
 - [`sebastianbergmann/php-code-coverage:11.0.8`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (1 day ago)
 - [`sebastianbergmann/phpunit:11.5.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1) (1 day ago)
@@ -32,7 +33,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/composer-normalize:2.45.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.45.0) (1 week ago)
 - [`ergebnis/json-normalizer:4.8.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.8.0) (1 week ago)
 - [`ergebnis/phpstan-rules:2.5.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.5.0) (1 week ago)
-- [`gacela-project/gacela:1.9.0`](https://github.com/gacela-project/gacela/releases/tag/1.9.0) (1 week ago)
 - [`friendsoftwig/twigcs:6.5.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.5.0) (2 weeks ago)
 - [`ergebnis/php-cs-fixer-config:6.39.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.39.0) (2 weeks ago)
 
