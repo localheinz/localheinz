@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`gacela-project/gacela:1.9.1`](https://github.com/gacela-project/gacela/releases/tag/1.9.1) (4 days ago)
-- [`sebastianbergmann/php-code-coverage:11.0.8`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (5 days ago)
-- [`sebastianbergmann/phpunit:11.5.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1) (5 days ago)
+- [`gacela-project/gacela:1.9.1`](https://github.com/gacela-project/gacela/releases/tag/1.9.1) (5 days ago)
+- [`sebastianbergmann/php-code-coverage:11.0.8`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (6 days ago)
+- [`sebastianbergmann/phpunit:11.5.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.1) (6 days ago)
 - [`sebastianbergmann/exporter:6.3.0`](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (1 week ago)
 - [`ergebnis/composer-normalize:2.45.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.45.0) (1 week ago)
 - [`ergebnis/json-normalizer:4.8.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.8.0) (1 week ago)
