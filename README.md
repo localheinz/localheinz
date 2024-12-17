@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@c2po`](https://github.com/c2po)
 - [`@nholuongut`](https://github.com/nholuongut)
 - [`@tyrsson`](https://github.com/tyrsson)
 - [`@NicolasMugnier`](https://github.com/NicolasMugnier)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Constantine0808`](https://github.com/Constantine0808)
 - [`@Ramyromel`](https://github.com/Ramyromel)
 - [`@sjerdo`](https://github.com/sjerdo)
-- [`@Qurratulaien11`](https://github.com/Qurratulaien11)
 
 ### Recent sponsors on GitHub
 
