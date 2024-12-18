@@ -38,6 +38,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@OfficialCodeVoyage`](https://github.com/OfficialCodeVoyage)
+- [`@XiaomingX`](https://github.com/XiaomingX)
 - [`@trinhminhtriet`](https://github.com/trinhminhtriet)
 - [`@c2po`](https://github.com/c2po)
 - [`@nholuongut`](https://github.com/nholuongut)
@@ -46,8 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@louisgab`](https://github.com/louisgab)
 - [`@eraymond-wp`](https://github.com/eraymond-wp)
 - [`@Jimbolino`](https://github.com/Jimbolino)
-- [`@Constantine0808`](https://github.com/Constantine0808)
-- [`@Ramyromel`](https://github.com/Ramyromel)
 
 ### Recent sponsors on GitHub
 
