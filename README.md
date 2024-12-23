@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:11.5.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2) (1 day ago)
+- [`sebastianbergmann/phpunit:11.5.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2) (2 days ago)
 - [`gacela-project/gacela:1.9.1`](https://github.com/gacela-project/gacela/releases/tag/1.9.1) (1 week ago)
 - [`sebastianbergmann/php-code-coverage:11.0.8`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (1 week ago)
 - [`sebastianbergmann/exporter:6.3.0`](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (2 weeks ago)
@@ -33,8 +33,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-normalizer:4.8.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.8.0) (2 weeks ago)
 - [`ergebnis/phpstan-rules:2.5.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.5.0) (3 weeks ago)
 - [`friendsoftwig/twigcs:6.5.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.5.0) (3 weeks ago)
-- [`ergebnis/php-cs-fixer-config:6.39.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.39.0) (3 weeks ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.65.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (3 weeks ago)
+- [`ergebnis/php-cs-fixer-config:6.39.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.39.0) (4 weeks ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.65.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.65.0) (4 weeks ago)
 
 ### Recent followers on GitHub
 
