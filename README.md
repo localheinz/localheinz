@@ -25,7 +25,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.66.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.66.0) (6 days ago)
 - [`sebastianbergmann/phpunit:11.5.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2) (2 weeks ago)
 - [`sebastianbergmann/php-code-coverage:11.0.8`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (3 weeks ago)
 - [`sebastianbergmann/exporter:6.3.0`](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (1 month ago)
@@ -35,6 +34,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`friendsoftwig/twigcs:6.5.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.5.0) (1 month ago)
 - [`ergebnis/php-cs-fixer-config:6.39.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.39.0) (1 month ago)
 - [`ergebnis/rector-rules:1.2.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.2.0) (1 month ago)
+- [`nicmart/Tree:0.9.0`](https://github.com/nicmart/Tree/releases/tag/0.9.0) (1 month ago)
 
 ### Recent followers on GitHub
 
