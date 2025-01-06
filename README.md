@@ -13,7 +13,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
 - [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (1 year ago)
-- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (1 year ago)
+- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (2 years ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (2 years ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (2 years ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (2 years ago)
@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`teapot-php/status-code:2.4.0`](https://github.com/teapot-php/status-code/releases/tag/2.4.0) (today)
+- [`teapot-php/status-code:2.4.0`](https://github.com/teapot-php/status-code/releases/tag/2.4.0) (1 day ago)
 - [`sebastianbergmann/phpunit:11.5.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.2) (2 weeks ago)
 - [`sebastianbergmann/php-code-coverage:11.0.8`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (3 weeks ago)
 - [`sebastianbergmann/exporter:6.3.0`](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (1 month ago)
