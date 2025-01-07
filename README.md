@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpstan-rules:2.5.1`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.5.1) (today)
 - [`ergebnis/classy:1.7.0`](https://github.com/ergebnis/classy/releases/tag/1.7.0) (today)
 - [`ergebnis/php-cs-fixer-config:6.40.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.40.0) (1 day ago)
 - [`teapot-php/status-code:2.4.0`](https://github.com/teapot-php/status-code/releases/tag/2.4.0) (2 days ago)
@@ -33,7 +34,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`sebastianbergmann/exporter:6.3.0`](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (1 month ago)
 - [`ergebnis/composer-normalize:2.45.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.45.0) (1 month ago)
 - [`ergebnis/json-normalizer:4.8.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.8.0) (1 month ago)
-- [`ergebnis/phpstan-rules:2.5.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.5.0) (1 month ago)
 - [`friendsoftwig/twigcs:6.5.0`](https://github.com/friendsoftwig/twigcs/releases/tag/6.5.0) (1 month ago)
 
 ### Recent followers on GitHub
