@@ -44,10 +44,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@mowhn`](https://github.com/mowhn)
 - [`@alex-gausman`](https://github.com/alex-gausman)
 - [`@OfficialCodeVoyage`](https://github.com/OfficialCodeVoyage)
-- [`@trinhminhtriet`](https://github.com/trinhminhtriet)
 - [`@c2po`](https://github.com/c2po)
 - [`@nholuongut`](https://github.com/nholuongut)
 - [`@tyrsson`](https://github.com/tyrsson)
+- [`@NicolasMugnier`](https://github.com/NicolasMugnier)
 
 ### Recent sponsors on GitHub
 
