@@ -41,13 +41,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Scutua`](https://github.com/Scutua)
 - [`@hauntmuskie`](https://github.com/hauntmuskie)
 - [`@Ramyromel`](https://github.com/Ramyromel)
-- [`@mowhn`](https://github.com/mowhn)
 - [`@alex-gausman`](https://github.com/alex-gausman)
 - [`@OfficialCodeVoyage`](https://github.com/OfficialCodeVoyage)
 - [`@c2po`](https://github.com/c2po)
 - [`@nholuongut`](https://github.com/nholuongut)
 - [`@tyrsson`](https://github.com/tyrsson)
 - [`@NicolasMugnier`](https://github.com/NicolasMugnier)
+- [`@louisgab`](https://github.com/louisgab)
 
 ### Recent sponsors on GitHub
 
