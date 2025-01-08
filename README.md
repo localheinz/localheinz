@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpstan-rules:2.5.1`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.5.1) (1 day ago)
+- [`ergebnis/phpstan-rules:2.6.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.6.0) (today)
 - [`ergebnis/classy:1.7.0`](https://github.com/ergebnis/classy/releases/tag/1.7.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.40.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.40.0) (2 days ago)
 - [`teapot-php/status-code:2.4.0`](https://github.com/teapot-php/status-code/releases/tag/2.4.0) (3 days ago)
