@@ -30,7 +30,7 @@ jobs:
           writeTo: "README.md"
 
       - name: "Commit README.md"
-        uses: "stefanzweifel/git-auto-commit-action@v5.0.1"
+        uses: "stefanzweifel/git-auto-commit-action@v5.1.0"
         with:
           commit_author: "ergebnis-bot <bot@ergebn.is>"
           commit_message: "Enhancement: Update README.md"
