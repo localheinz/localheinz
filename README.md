@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/php-cs-fixer-config:6.42.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.42.0) (today)
 - [`sebastianbergmann/phpunit:11.5.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.3) (2 days ago)
-- [`ergebnis/php-cs-fixer-config:6.41.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.41.0) (1 week ago)
 - [`ergebnis/rector-rules:1.3.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.3.0) (1 week ago)
 - [`ergebnis/phpstan-rules:2.6.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.6.0) (1 week ago)
 - [`ergebnis/classy:1.7.0`](https://github.com/ergebnis/classy/releases/tag/1.7.0) (1 week ago)
