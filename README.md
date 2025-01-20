@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@christianbaumann`](https://github.com/christianbaumann)
 - [`@xxspell`](https://github.com/xxspell)
 - [`@JulioAbreuCanalDev33`](https://github.com/JulioAbreuCanalDev33)
 - [`@gnugat`](https://github.com/gnugat)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@OfficialCodeVoyage`](https://github.com/OfficialCodeVoyage)
 - [`@c2po`](https://github.com/c2po)
 - [`@nholuongut`](https://github.com/nholuongut)
-- [`@tyrsson`](https://github.com/tyrsson)
 
 ### Recent sponsors on GitHub
 
