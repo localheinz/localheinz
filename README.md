@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:11.5.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.6) (1 day ago)
-- [`ergebnis/php-cs-fixer-config:6.42.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.42.2) (5 days ago)
+- [`sebastianbergmann/phpunit:11.5.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.6) (2 days ago)
+- [`ergebnis/php-cs-fixer-config:6.42.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.42.2) (6 days ago)
 - [`ergebnis/phpstan-rules:2.6.1`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.6.1) (2 weeks ago)
 - [`ergebnis/rector-rules:1.3.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.3.0) (3 weeks ago)
 - [`ergebnis/classy:1.7.0`](https://github.com/ergebnis/classy/releases/tag/1.7.0) (3 weeks ago)
-- [`teapot-php/status-code:2.4.0`](https://github.com/teapot-php/status-code/releases/tag/2.4.0) (3 weeks ago)
+- [`teapot-php/status-code:2.4.0`](https://github.com/teapot-php/status-code/releases/tag/2.4.0) (4 weeks ago)
 - [`sebastianbergmann/php-code-coverage:11.0.8`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.8) (1 month ago)
 - [`sebastianbergmann/exporter:6.3.0`](https://github.com/sebastianbergmann/exporter/releases/tag/6.3.0) (1 month ago)
-- [`ergebnis/composer-normalize:2.45.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.45.0) (1 month ago)
-- [`ergebnis/json-normalizer:4.8.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.8.0) (1 month ago)
+- [`ergebnis/composer-normalize:2.45.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.45.0) (2 months ago)
+- [`ergebnis/json-normalizer:4.8.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.8.0) (2 months ago)
 
 ### Recent followers on GitHub
 
