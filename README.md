@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpstan-rules:2.8.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.8.0) (today)
 - [`sebastianbergmann/phpunit:12.0.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.3) (today)
-- [`ergebnis/phpstan-rules:2.7.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.7.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.43.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.43.0) (2 days ago)
 - [`Jan0707/phpstan-prophecy:2.1.1`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.1.1) (5 days ago)
 - [`sebastianbergmann/php-code-coverage:12.0.2`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.2) (1 week ago)
