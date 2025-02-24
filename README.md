@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/factory-bot:1.9.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.9.0) (today)
 - [`ergebnis/php-cs-fixer-config:6.44.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.44.0) (1 day ago)
 - [`ergebnis/phpunit-slow-test-detector:2.19.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.0) (1 day ago)
 - [`sebastianbergmann/phpunit:12.0.4`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.4) (3 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`sebastianbergmann/exporter:7.0.0`](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (2 weeks ago)
 - [`ergebnis/rector-rules:1.3.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.3.0) (1 month ago)
 - [`ergebnis/classy:1.7.0`](https://github.com/ergebnis/classy/releases/tag/1.7.0) (1 month ago)
-- [`teapot-php/status-code:2.4.0`](https://github.com/teapot-php/status-code/releases/tag/2.4.0) (1 month ago)
 
 ### Recent followers on GitHub
 
