@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/php-cs-fixer-config:6.44.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.44.0) (today)
-- [`ergebnis/phpunit-slow-test-detector:2.19.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.0) (today)
-- [`sebastianbergmann/phpunit:12.0.4`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.4) (2 days ago)
-- [`sebastianbergmann/php-code-coverage:12.0.3`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.3) (5 days ago)
-- [`ergebnis/phpstan-rules:2.8.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.8.0) (5 days ago)
+- [`ergebnis/php-cs-fixer-config:6.44.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.44.0) (1 day ago)
+- [`ergebnis/phpunit-slow-test-detector:2.19.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.0) (1 day ago)
+- [`sebastianbergmann/phpunit:12.0.4`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.4) (3 days ago)
+- [`sebastianbergmann/php-code-coverage:12.0.3`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.3) (6 days ago)
+- [`ergebnis/phpstan-rules:2.8.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.8.0) (6 days ago)
 - [`Jan0707/phpstan-prophecy:2.1.1`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.1.1) (1 week ago)
 - [`sebastianbergmann/exporter:7.0.0`](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (2 weeks ago)
 - [`ergebnis/rector-rules:1.3.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.3.0) (1 month ago)
