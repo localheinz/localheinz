@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/php-code-coverage:12.0.4`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4) (1 day ago)
-- [`sebastianbergmann/phpunit:12.0.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.5) (1 day ago)
-- [`ergebnis/factory-bot:1.9.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.9.0) (2 days ago)
-- [`ergebnis/php-cs-fixer-config:6.44.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.44.0) (3 days ago)
-- [`ergebnis/phpunit-slow-test-detector:2.19.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.0) (3 days ago)
+- [`sebastianbergmann/php-code-coverage:12.0.4`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4) (2 days ago)
+- [`sebastianbergmann/phpunit:12.0.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.5) (2 days ago)
+- [`ergebnis/factory-bot:1.9.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.9.0) (3 days ago)
+- [`ergebnis/php-cs-fixer-config:6.44.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.44.0) (4 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.19.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.0) (4 days ago)
 - [`ergebnis/phpstan-rules:2.8.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.8.0) (1 week ago)
-- [`Jan0707/phpstan-prophecy:2.1.1`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.1.1) (1 week ago)
+- [`Jan0707/phpstan-prophecy:2.1.1`](https://github.com/Jan0707/phpstan-prophecy/releases/tag/2.1.1) (2 weeks ago)
 - [`sebastianbergmann/exporter:7.0.0`](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (2 weeks ago)
 - [`ergebnis/rector-rules:1.3.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.3.0) (1 month ago)
 - [`ergebnis/classy:1.7.0`](https://github.com/ergebnis/classy/releases/tag/1.7.0) (1 month ago)
