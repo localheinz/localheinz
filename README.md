@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@Khalilheyrani`](https://github.com/Khalilheyrani)
 - [`@alirezajavadigit`](https://github.com/alirezajavadigit)
 - [`@LinuxJS`](https://github.com/LinuxJS)
 - [`@christianbaumann`](https://github.com/christianbaumann)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Ramyromel`](https://github.com/Ramyromel)
 - [`@alex-gausman`](https://github.com/alex-gausman)
 - [`@OfficialCodeVoyage`](https://github.com/OfficialCodeVoyage)
-- [`@c2po`](https://github.com/c2po)
 
 ### Recent sponsors on GitHub
 
