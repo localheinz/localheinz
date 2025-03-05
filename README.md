@@ -12,7 +12,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (1 year ago)
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (2 years ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (2 years ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (2 years ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (2 years ago)
@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/.github:1.9.3`](https://github.com/ergebnis/.github/releases/tag/1.9.3) (1 day ago)
 - [`sebastianbergmann/php-code-coverage:12.0.4`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.4) (1 week ago)
 - [`sebastianbergmann/phpunit:12.0.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.5) (1 week ago)
 - [`ergebnis/factory-bot:1.9.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.9.0) (1 week ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`sebastianbergmann/exporter:7.0.0`](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (3 weeks ago)
 - [`ergebnis/rector-rules:1.3.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.3.0) (1 month ago)
 - [`ergebnis/classy:1.7.0`](https://github.com/ergebnis/classy/releases/tag/1.7.0) (1 month ago)
-- [`teapot-php/status-code:2.4.0`](https://github.com/teapot-php/status-code/releases/tag/2.4.0) (1 month ago)
 
 ### Recent followers on GitHub
 
