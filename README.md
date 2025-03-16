@@ -39,7 +39,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 ### Recent followers on GitHub
 
 - [`@mromeike`](https://github.com/mromeike)
-- [`@ipqwery`](https://github.com/ipqwery)
 - [`@Magkoooh`](https://github.com/Magkoooh)
 - [`@Khalilheyrani`](https://github.com/Khalilheyrani)
 - [`@alirezajavadigit`](https://github.com/alirezajavadigit)
@@ -48,6 +47,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@xxspell`](https://github.com/xxspell)
 - [`@JulioAbreuCanalDev33`](https://github.com/JulioAbreuCanalDev33)
 - [`@gnugat`](https://github.com/gnugat)
+- [`@Ramyromel`](https://github.com/Ramyromel)
 
 ### Recent sponsors on GitHub
 
