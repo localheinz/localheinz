@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/php-code-coverage:12.0.5`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.5) (1 day ago)
+- [`sebastianbergmann/php-code-coverage:12.0.5`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.0.5) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:6.45.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.45.0) (1 week ago)
 - [`sebastianbergmann/phpunit:12.0.7`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7) (1 week ago)
 - [`ergebnis/.github:1.9.3`](https://github.com/ergebnis/.github/releases/tag/1.9.3) (1 week ago)
-- [`ergebnis/factory-bot:1.9.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.9.0) (2 weeks ago)
+- [`ergebnis/factory-bot:1.9.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.9.0) (3 weeks ago)
 - [`ergebnis/phpunit-slow-test-detector:2.19.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.0) (3 weeks ago)
 - [`ergebnis/phpstan-rules:2.8.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.8.0) (3 weeks ago)
 - [`sebastianbergmann/exporter:7.0.0`](https://github.com/sebastianbergmann/exporter/releases/tag/7.0.0) (1 month ago)
