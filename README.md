@@ -25,9 +25,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`sebastianbergmann/phpunit:12.0.8`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.8) (today)
 - [`sebastianbergmann/php-code-coverage:12.1.0`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.45.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.45.0) (1 week ago)
-- [`sebastianbergmann/phpunit:12.0.7`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.0.7) (1 week ago)
 - [`ergebnis/.github:1.9.3`](https://github.com/ergebnis/.github/releases/tag/1.9.3) (2 weeks ago)
 - [`ergebnis/factory-bot:1.9.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.9.0) (3 weeks ago)
 - [`ergebnis/phpunit-slow-test-detector:2.19.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.0) (3 weeks ago)
@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@AzizEmir`](https://github.com/AzizEmir)
 - [`@Cyber-ok`](https://github.com/Cyber-ok)
 - [`@mromeike`](https://github.com/mromeike)
 - [`@Magkoooh`](https://github.com/Magkoooh)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@christianbaumann`](https://github.com/christianbaumann)
 - [`@xxspell`](https://github.com/xxspell)
 - [`@JulioAbreuCanalDev33`](https://github.com/JulioAbreuCanalDev33)
-- [`@gnugat`](https://github.com/gnugat)
 
 ### Recent sponsors on GitHub
 
