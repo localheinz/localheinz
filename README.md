@@ -43,11 +43,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@mromeike`](https://github.com/mromeike)
 - [`@Magkoooh`](https://github.com/Magkoooh)
 - [`@Khalilheyrani`](https://github.com/Khalilheyrani)
-- [`@alirezajavadigit`](https://github.com/alirezajavadigit)
 - [`@LinuxJS`](https://github.com/LinuxJS)
 - [`@christianbaumann`](https://github.com/christianbaumann)
 - [`@xxspell`](https://github.com/xxspell)
 - [`@JulioAbreuCanalDev33`](https://github.com/JulioAbreuCanalDev33)
+- [`@gnugat`](https://github.com/gnugat)
 
 ### Recent sponsors on GitHub
 
