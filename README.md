@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@00Nevo`](https://github.com/00Nevo)
 - [`@AzizEmir`](https://github.com/AzizEmir)
 - [`@Cyber-ok`](https://github.com/Cyber-ok)
 - [`@mromeike`](https://github.com/mromeike)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@xxspell`](https://github.com/xxspell)
 - [`@JulioAbreuCanalDev33`](https://github.com/JulioAbreuCanalDev33)
 - [`@gnugat`](https://github.com/gnugat)
-- [`@Ramyromel`](https://github.com/Ramyromel)
 
 ### Recent sponsors on GitHub
 
