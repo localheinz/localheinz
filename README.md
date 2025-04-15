@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`popphp/pop-form:4.2.5`](https://github.com/popphp/pop-form/releases/tag/4.2.5) (today)
 - [`ergebnis/composer-normalize:2.47.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.47.0) (today)
 - [`ergebnis/rector-rules:1.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.4.0) (today)
 - [`ergebnis/phpunit-slow-test-detector:2.19.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.1) (4 days ago)
@@ -32,7 +33,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/php-cs-fixer-config:6.46.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.46.0) (6 days ago)
 - [`sebastianbergmann/phpunit:12.1.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.2) (1 week ago)
 - [`sebastianbergmann/php-code-coverage:12.1.2`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2) (1 week ago)
-- [`popphp/pop-form:4.2.3`](https://github.com/popphp/pop-form/releases/tag/4.2.3) (3 weeks ago)
 - [`ergebnis/.github:1.9.3`](https://github.com/ergebnis/.github/releases/tag/1.9.3) (1 month ago)
 - [`ergebnis/factory-bot:1.9.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.9.0) (1 month ago)
 
