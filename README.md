@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@Charles-Chrismann`](https://github.com/Charles-Chrismann)
 - [`@00Nevo`](https://github.com/00Nevo)
 - [`@AzizEmir`](https://github.com/AzizEmir)
 - [`@Cyber-ok`](https://github.com/Cyber-ok)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@christianbaumann`](https://github.com/christianbaumann)
 - [`@xxspell`](https://github.com/xxspell)
 - [`@JulioAbreuCanalDev33`](https://github.com/JulioAbreuCanalDev33)
-- [`@gnugat`](https://github.com/gnugat)
 
 ### Recent sponsors on GitHub
 
