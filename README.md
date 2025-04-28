@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:12.1.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3) (5 days ago)
+- [`sebastianbergmann/phpunit:12.1.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3) (6 days ago)
 - [`popphp/pop-form:4.2.5`](https://github.com/popphp/pop-form/releases/tag/4.2.5) (1 week ago)
 - [`ergebnis/composer-normalize:2.47.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.47.0) (1 week ago)
 - [`ergebnis/rector-rules:1.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.4.0) (1 week ago)
@@ -33,7 +33,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-normalizer:4.9.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.9.0) (2 weeks ago)
 - [`ergebnis/php-cs-fixer-config:6.46.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.46.0) (2 weeks ago)
 - [`sebastianbergmann/php-code-coverage:12.1.2`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2) (3 weeks ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.75.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0) (3 weeks ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.75.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0) (4 weeks ago)
 - [`ergebnis/.github:1.9.3`](https://github.com/ergebnis/.github/releases/tag/1.9.3) (1 month ago)
 
 ### Recent followers on GitHub
