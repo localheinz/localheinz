@@ -31,9 +31,9 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/rector-rules:1.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.4.0) (2 weeks ago)
 - [`ergebnis/phpunit-slow-test-detector:2.19.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.1) (2 weeks ago)
 - [`ergebnis/json-normalizer:4.9.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.9.0) (2 weeks ago)
-- [`ergebnis/php-cs-fixer-config:6.46.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.46.0) (2 weeks ago)
+- [`ergebnis/php-cs-fixer-config:6.46.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.46.0) (3 weeks ago)
 - [`sebastianbergmann/php-code-coverage:12.1.2`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.1.2) (3 weeks ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.75.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0) (4 weeks ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.75.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0) (1 month ago)
 - [`ergebnis/.github:1.9.3`](https://github.com/ergebnis/.github/releases/tag/1.9.3) (1 month ago)
 
 ### Recent followers on GitHub
