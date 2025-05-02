@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:12.1.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.3) (1 week ago)
+- [`sebastianbergmann/phpunit:11.5.19`](https://github.com/sebastianbergmann/phpunit/releases/tag/11.5.19) (today)
 - [`popphp/pop-form:4.2.5`](https://github.com/popphp/pop-form/releases/tag/4.2.5) (2 weeks ago)
 - [`ergebnis/composer-normalize:2.47.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.47.0) (2 weeks ago)
 - [`ergebnis/rector-rules:1.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.4.0) (2 weeks ago)
