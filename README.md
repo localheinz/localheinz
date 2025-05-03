@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/front-matter:3.3.0`](https://github.com/ergebnis/front-matter/releases/tag/3.3.0) (today)
 - [`sebastianbergmann/php-code-coverage:12.2.0`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.0) (today)
 - [`sebastianbergmann/phpunit:12.1.4`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.4) (1 day ago)
 - [`popphp/pop-form:4.2.5`](https://github.com/popphp/pop-form/releases/tag/4.2.5) (2 weeks ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/json-normalizer:4.9.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.9.0) (3 weeks ago)
 - [`ergebnis/php-cs-fixer-config:6.46.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.46.0) (3 weeks ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.75.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.75.0) (1 month ago)
-- [`ergebnis/.github:1.9.3`](https://github.com/ergebnis/.github/releases/tag/1.9.3) (2 months ago)
 
 ### Recent followers on GitHub
 
