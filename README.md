@@ -25,8 +25,8 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:12.1.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5) (6 days ago)
-- [`sebastianbergmann/php-code-coverage:12.2.1`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1) (1 week ago)
+- [`sebastianbergmann/phpunit:12.1.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.5) (1 week ago)
+- [`sebastianbergmann/php-code-coverage:12.2.1`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.2.1) (2 weeks ago)
 - [`ergebnis/front-matter:3.3.0`](https://github.com/ergebnis/front-matter/releases/tag/3.3.0) (2 weeks ago)
 - [`popphp/pop-form:4.2.5`](https://github.com/popphp/pop-form/releases/tag/4.2.5) (1 month ago)
 - [`ergebnis/composer-normalize:2.47.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.47.0) (1 month ago)
@@ -51,7 +51,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent sponsors on GitHub
 
-- [`@iBotPeaches`](https://github.com/iBotPeaches) (1 week ago)
+- [`@iBotPeaches`](https://github.com/iBotPeaches) (2 weeks ago)
 - [`@JesusValeraDev`](https://github.com/JesusValeraDev) (2 years ago)
 - [`@adamlundrigan`](https://github.com/adamlundrigan) (5 years ago)
 
