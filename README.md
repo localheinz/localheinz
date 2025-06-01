@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpstan-rules:2.9.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.9.0) (today)
+- [`ergebnis/phpstan-rules:2.9.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.9.0) (1 day ago)
 - [`sebastianbergmann/php-code-coverage:12.3.0`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/12.3.0) (1 week ago)
 - [`sebastianbergmann/phpunit:12.1.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.1.6) (1 week ago)
 - [`ergebnis/front-matter:3.3.0`](https://github.com/ergebnis/front-matter/releases/tag/3.3.0) (4 weeks ago)
@@ -51,7 +51,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent sponsors on GitHub
 
-- [`@iBotPeaches`](https://github.com/iBotPeaches) (3 weeks ago)
+- [`@iBotPeaches`](https://github.com/iBotPeaches) (4 weeks ago)
 - [`@JesusValeraDev`](https://github.com/JesusValeraDev) (2 years ago)
 - [`@adamlundrigan`](https://github.com/adamlundrigan) (5 years ago)
 
