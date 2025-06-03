@@ -51,7 +51,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent sponsors on GitHub
 
-- [`@iBotPeaches`](https://github.com/iBotPeaches) (1 month ago)
 - [`@JesusValeraDev`](https://github.com/JesusValeraDev) (2 years ago)
 - [`@adamlundrigan`](https://github.com/adamlundrigan) (5 years ago)
 
