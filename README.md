@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@helallao`](https://github.com/helallao)
 - [`@muhdaizwan`](https://github.com/muhdaizwan)
 - [`@sins921`](https://github.com/sins921)
 - [`@masx200`](https://github.com/masx200)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Cyber-ok`](https://github.com/Cyber-ok)
 - [`@mromeike`](https://github.com/mromeike)
 - [`@Magkoooh`](https://github.com/Magkoooh)
-- [`@LinuxJS`](https://github.com/LinuxJS)
 
 ### Recent sponsors on GitHub
 
