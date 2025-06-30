@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.76.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.76.0) (today)
 - [`sebastianbergmann/phpunit:12.2.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.5) (3 days ago)
 - [`ergebnis/phpstan-rules:2.10.5`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.10.5) (1 week ago)
 - [`sebastianbergmann/php-code-coverage:11.0.10`](https://github.com/sebastianbergmann/php-code-coverage/releases/tag/11.0.10) (1 week ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/rector-rules:1.4.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.4.0) (2 months ago)
 - [`ergebnis/phpunit-slow-test-detector:2.19.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.1) (2 months ago)
 - [`ergebnis/json-normalizer:4.9.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.9.0) (2 months ago)
-- [`ergebnis/php-cs-fixer-config:6.46.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.46.0) (2 months ago)
 
 ### Recent followers on GitHub
 
