@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@mairo744`](https://github.com/mairo744)
 - [`@lpillonwp`](https://github.com/lpillonwp)
 - [`@seckinyasar`](https://github.com/seckinyasar)
 - [`@shailesh1729`](https://github.com/shailesh1729)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@masx200`](https://github.com/masx200)
 - [`@Charles-Chrismann`](https://github.com/Charles-Chrismann)
 - [`@00Nevo`](https://github.com/00Nevo)
-- [`@AzizEmir`](https://github.com/AzizEmir)
 
 ### Recent sponsors on GitHub
 
