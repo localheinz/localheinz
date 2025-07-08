@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.82.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.82.1) (today)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.82.2`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.82.2) (today)
 - [`ergebnis/php-cs-fixer-config:6.49.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.49.0) (today)
 - [`sebastianbergmann/phpunit:12.2.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.6) (4 days ago)
 - [`ergebnis/phpstan-rules:2.10.5`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.10.5) (2 weeks ago)
