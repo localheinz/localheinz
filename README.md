@@ -49,9 +49,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@sins921`](https://github.com/sins921)
 - [`@masx200`](https://github.com/masx200)
 
-### Recent sponsors on GitHub
-
-
 <hr>
 
 ### Follow me on
