@@ -25,11 +25,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@{{.Login}}`]({{.URL}})
 {{- end}}
 
-### Recent sponsors on GitHub
-{{range sponsors 10}}
-- [`@{{.User.Login}}`]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 <hr>
 
 ### Follow me on
