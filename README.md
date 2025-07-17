@@ -25,10 +25,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/rector-rules:1.5.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.5.0) (today)
-- [`ergebnis/php-cs-fixer-config:6.50.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.50.0) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.84.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (1 day ago)
-- [`sebastianbergmann/phpunit:12.2.7`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7) (5 days ago)
+- [`ergebnis/rector-rules:1.5.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.5.0) (1 day ago)
+- [`ergebnis/php-cs-fixer-config:6.50.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.50.0) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.84.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (2 days ago)
+- [`sebastianbergmann/phpunit:12.2.7`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7) (6 days ago)
 - [`ergebnis/phpstan-rules:2.10.5`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.10.5) (3 weeks ago)
 - [`ergebnis/front-matter:3.3.0`](https://github.com/ergebnis/front-matter/releases/tag/3.3.0) (2 months ago)
 - [`popphp/pop-form:4.2.5`](https://github.com/popphp/pop-form/releases/tag/4.2.5) (3 months ago)
