@@ -39,15 +39,15 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 ### Recent followers on GitHub
 
 - [`@AkbarrjongLamie`](https://github.com/AkbarrjongLamie)
-- [`@oluiscabral`](https://github.com/oluiscabral)
 - [`@Ben477-JOB`](https://github.com/Ben477-JOB)
 - [`@mairo744`](https://github.com/mairo744)
 - [`@lpillonwp`](https://github.com/lpillonwp)
 - [`@seckinyasar`](https://github.com/seckinyasar)
 - [`@shailesh1729`](https://github.com/shailesh1729)
-- [`@helallao`](https://github.com/helallao)
 - [`@muhdaizwan`](https://github.com/muhdaizwan)
 - [`@sins921`](https://github.com/sins921)
+- [`@masx200`](https://github.com/masx200)
+- [`@Charles-Chrismann`](https://github.com/Charles-Chrismann)
 
 <hr>
 
