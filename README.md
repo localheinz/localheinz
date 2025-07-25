@@ -28,7 +28,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/rector-rules:1.5.1`](https://github.com/ergebnis/rector-rules/releases/tag/1.5.1) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.50.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.50.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.84.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (1 week ago)
-- [`sebastianbergmann/phpunit:12.2.7`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7) (1 week ago)
+- [`sebastianbergmann/phpunit:12.2.7`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.7) (2 weeks ago)
 - [`ergebnis/phpstan-rules:2.10.5`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.10.5) (1 month ago)
 - [`ergebnis/front-matter:3.3.0`](https://github.com/ergebnis/front-matter/releases/tag/3.3.0) (2 months ago)
 - [`popphp/pop-form:4.2.5`](https://github.com/popphp/pop-form/releases/tag/4.2.5) (3 months ago)
