@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@c0d3cr4ft3r`](https://github.com/c0d3cr4ft3r)
 - [`@alihm961`](https://github.com/alihm961)
 - [`@AkbarrjongLamie`](https://github.com/AkbarrjongLamie)
 - [`@Ben477-JOB`](https://github.com/Ben477-JOB)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@shailesh1729`](https://github.com/shailesh1729)
 - [`@muhdaizwan`](https://github.com/muhdaizwan)
 - [`@sins921`](https://github.com/sins921)
-- [`@masx200`](https://github.com/masx200)
 
 <hr>
 
