@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`fightbulc/moment.php:1.35.0`](https://github.com/fightbulc/moment.php/releases/tag/1.35.0) (today)
 - [`ergebnis/rector-rules:1.5.1`](https://github.com/ergebnis/rector-rules/releases/tag/1.5.1) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.50.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.50.0) (1 week ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.84.0`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.84.0) (1 week ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`popphp/pop-form:4.2.5`](https://github.com/popphp/pop-form/releases/tag/4.2.5) (3 months ago)
 - [`ergebnis/composer-normalize:2.47.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.47.0) (3 months ago)
 - [`ergebnis/phpunit-slow-test-detector:2.19.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.1) (3 months ago)
-- [`ergebnis/json-normalizer:4.9.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.9.0) (3 months ago)
 
 ### Recent followers on GitHub
 
