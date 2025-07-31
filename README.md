@@ -25,7 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:12.2.8`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.8) (1 day ago)
+- [`sebastianbergmann/phpunit:12.2.9`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.9) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.85.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1) (2 days ago)
 - [`fightbulc/moment.php:1.35.0`](https://github.com/fightbulc/moment.php/releases/tag/1.35.0) (4 days ago)
 - [`ergebnis/rector-rules:1.5.1`](https://github.com/ergebnis/rector-rules/releases/tag/1.5.1) (2 weeks ago)
