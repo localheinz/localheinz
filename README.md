@@ -25,13 +25,13 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:12.2.9`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.9) (today)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.85.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1) (2 days ago)
-- [`fightbulc/moment.php:1.35.0`](https://github.com/fightbulc/moment.php/releases/tag/1.35.0) (4 days ago)
+- [`sebastianbergmann/phpunit:12.2.9`](https://github.com/sebastianbergmann/phpunit/releases/tag/12.2.9) (1 day ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.85.1`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.85.1) (3 days ago)
+- [`fightbulc/moment.php:1.35.0`](https://github.com/fightbulc/moment.php/releases/tag/1.35.0) (5 days ago)
 - [`ergebnis/rector-rules:1.5.1`](https://github.com/ergebnis/rector-rules/releases/tag/1.5.1) (2 weeks ago)
 - [`ergebnis/php-cs-fixer-config:6.50.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.50.0) (2 weeks ago)
 - [`ergebnis/phpstan-rules:2.10.5`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.10.5) (1 month ago)
-- [`ergebnis/front-matter:3.3.0`](https://github.com/ergebnis/front-matter/releases/tag/3.3.0) (2 months ago)
+- [`ergebnis/front-matter:3.3.0`](https://github.com/ergebnis/front-matter/releases/tag/3.3.0) (3 months ago)
 - [`popphp/pop-form:4.2.5`](https://github.com/popphp/pop-form/releases/tag/4.2.5) (3 months ago)
 - [`ergebnis/composer-normalize:2.47.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.47.0) (3 months ago)
 - [`ergebnis/phpunit-slow-test-detector:2.19.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.1) (3 months ago)
