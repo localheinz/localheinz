@@ -34,7 +34,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/front-matter:3.3.0`](https://github.com/ergebnis/front-matter/releases/tag/3.3.0) (3 months ago)
 - [`popphp/pop-form:4.2.5`](https://github.com/popphp/pop-form/releases/tag/4.2.5) (3 months ago)
 - [`ergebnis/composer-normalize:2.47.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.47.0) (3 months ago)
-- [`ergebnis/phpunit-slow-test-detector:2.19.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.1) (3 months ago)
+- [`ergebnis/phpunit-slow-test-detector:2.19.1`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.19.1) (4 months ago)
 
 ### Recent followers on GitHub
 
