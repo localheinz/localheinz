@@ -25,16 +25,16 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpunit-slow-test-detector:2.26.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.26.0) (1 day ago)
-- [`ergebnis/version:1.4.0`](https://github.com/ergebnis/version/releases/tag/1.4.0) (1 day ago)
-- [`ergebnis/phpunit-agent-reporter:1.2.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.2.0) (1 day ago)
-- [`ergebnis/twig-front-matter:1.5.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.5.0) (1 day ago)
-- [`ergebnis/phpstan-rules:2.14.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.0) (1 day ago)
-- [`ergebnis/php-cs-fixer-config:6.64.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.0) (1 day ago)
-- [`ergebnis/license:2.8.0`](https://github.com/ergebnis/license/releases/tag/2.8.0) (1 day ago)
-- [`ergebnis/json-schema-validator:4.6.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.6.0) (1 day ago)
-- [`ergebnis/json-printer:3.9.0`](https://github.com/ergebnis/json-printer/releases/tag/3.9.0) (1 day ago)
-- [`ergebnis/json-pointer:3.9.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.9.0) (1 day ago)
+- [`ergebnis/phpunit-slow-test-detector:2.26.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.26.0) (2 days ago)
+- [`ergebnis/version:1.4.0`](https://github.com/ergebnis/version/releases/tag/1.4.0) (2 days ago)
+- [`ergebnis/phpunit-agent-reporter:1.2.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.2.0) (2 days ago)
+- [`ergebnis/twig-front-matter:1.5.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.5.0) (2 days ago)
+- [`ergebnis/phpstan-rules:2.14.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.0) (2 days ago)
+- [`ergebnis/php-cs-fixer-config:6.64.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.0) (2 days ago)
+- [`ergebnis/license:2.8.0`](https://github.com/ergebnis/license/releases/tag/2.8.0) (2 days ago)
+- [`ergebnis/json-schema-validator:4.6.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.6.0) (2 days ago)
+- [`ergebnis/json-printer:3.9.0`](https://github.com/ergebnis/json-printer/releases/tag/3.9.0) (2 days ago)
+- [`ergebnis/json-pointer:3.9.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.9.0) (2 days ago)
 
 ### Recent followers on GitHub
 
