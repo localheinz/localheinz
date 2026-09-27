@@ -44,10 +44,10 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@Dvurechensky`](https://github.com/Dvurechensky)
 - [`@rexblade58`](https://github.com/rexblade58)
 - [`@narupoomc`](https://github.com/narupoomc)
-- [`@helallao`](https://github.com/helallao)
 - [`@seckinyasar`](https://github.com/seckinyasar)
 - [`@infinityabundance`](https://github.com/infinityabundance)
 - [`@nelbeu`](https://github.com/nelbeu)
+- [`@S4IL21`](https://github.com/S4IL21)
 
 <hr>
 
