@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/.github:1.14.0`](https://github.com/ergebnis/.github/releases/tag/1.14.0) (today)
 - [`ergebnis/phpunit-slow-test-detector:2.26.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.26.0) (1 week ago)
 - [`ergebnis/version:1.4.0`](https://github.com/ergebnis/version/releases/tag/1.4.0) (1 week ago)
 - [`ergebnis/phpunit-agent-reporter:1.2.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.2.0) (1 week ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/license:2.8.0`](https://github.com/ergebnis/license/releases/tag/2.8.0) (1 week ago)
 - [`ergebnis/json-schema-validator:4.6.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.6.0) (1 week ago)
 - [`ergebnis/json-printer:3.9.0`](https://github.com/ergebnis/json-printer/releases/tag/3.9.0) (1 week ago)
-- [`ergebnis/json-pointer:3.9.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.9.0) (1 week ago)
 
 ### Recent followers on GitHub
 
