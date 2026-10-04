@@ -25,11 +25,11 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpunit-agent-reporter:1.2.2`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.2.2) (today)
 - [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (1 day ago)
 - [`ergebnis/.github:1.14.0`](https://github.com/ergebnis/.github/releases/tag/1.14.0) (2 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.26.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.26.0) (1 week ago)
 - [`ergebnis/version:1.4.0`](https://github.com/ergebnis/version/releases/tag/1.4.0) (1 week ago)
-- [`ergebnis/phpunit-agent-reporter:1.2.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.2.0) (1 week ago)
 - [`ergebnis/twig-front-matter:1.5.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.5.0) (1 week ago)
 - [`ergebnis/phpstan-rules:2.14.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.0) (1 week ago)
 - [`ergebnis/license:2.8.0`](https://github.com/ergebnis/license/releases/tag/2.8.0) (1 week ago)
