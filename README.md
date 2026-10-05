@@ -25,6 +25,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent releases I have contributed to
 
+- [`sebastianbergmann/phpunit:13.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (today)
 - [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (1 day ago)
 - [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (2 days ago)
@@ -34,7 +35,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/twig-front-matter:1.5.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.5.0) (1 week ago)
 - [`ergebnis/phpstan-rules:2.14.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.0) (1 week ago)
 - [`ergebnis/license:2.8.0`](https://github.com/ergebnis/license/releases/tag/2.8.0) (1 week ago)
-- [`ergebnis/json-schema-validator:4.6.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.6.0) (1 week ago)
 
 ### Recent followers on GitHub
 
