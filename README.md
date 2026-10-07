@@ -1,27 +1,14 @@
 ## :wave: Hello!
 
-My name is Andreas Möller, and I am a self-employed Software Engineer and Consultant from Berlin, Germany.
+I am Andreas Möller, a Software Engineer, Consultant, and the founder of [ergebnis analog + digital GmbH](https://ergebn.is), from Berlin, Germany.
 
-For more than 25 years, I have been developing software. In a professional capacity, I have [more than 15 years of work experience](https://localheinz.com/work-experience/) building and maintaining web applications for organizations and businesses in various industries, in teams small and large, on location, and remotely.
+Since 1999 I have been building websites, and since 2001 I have been working with PHP. I maintain and contribute to [open-source](https://localheinz.com/open-source/) projects, publish [articles](https://localheinz.com/articles/), and give [talks](https://localheinz.com/talks/).
 
-I maintain and contribute to [open-source](https://localheinz.com/open-source/) projects, publish [articles](https://localheinz.com/articles/), and give [talks](https://localheinz.com/talks).
+In a professional capacity, I have [more than 16 years of work experience](https://localheinz.com/about/) building, modernizing, and maintaining web applications in PHP for organizations and businesses - in various industries, in teams small and large, on location, and remotely.
 
-With a focus on modernizing legacy applications and teams, I can help your business become more profitable: by shipping software earlier, with fewer defects, and with a lower total cost of ownership.
+With my [services](https://localheinz.com/services/), I can help your business become more profitable: by shipping PHP applications and packages earlier, with fewer defects, and with a lower total cost of ownership.
 
 <hr>
-
-### Recent articles on [localheinz.com](https://localheinz.com/articles/)
-
-- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (3 years ago)
-- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (3 years ago)
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (3 years ago)
-- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (3 years ago)
-- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (3 years ago)
-- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (3 years ago)
-- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (3 years ago)
-- [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (3 years ago)
-- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (3 years ago)
-- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (3 years ago)
 
 ### Recent releases I have contributed to
 
@@ -36,23 +23,14 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`ergebnis/phpstan-rules:2.14.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.0) (1 week ago)
 - [`ergebnis/license:2.8.0`](https://github.com/ergebnis/license/releases/tag/2.8.0) (1 week ago)
 
-### Recent followers on GitHub
+### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [`@BEPb`](https://github.com/BEPb)
-- [`@wielorzeczownik`](https://github.com/wielorzeczownik)
-- [`@marwahossein61-ops`](https://github.com/marwahossein61-ops)
-- [`@Dvurechensky`](https://github.com/Dvurechensky)
-- [`@rexblade58`](https://github.com/rexblade58)
-- [`@narupoomc`](https://github.com/narupoomc)
-- [`@seckinyasar`](https://github.com/seckinyasar)
-- [`@infinityabundance`](https://github.com/infinityabundance)
-- [`@nelbeu`](https://github.com/nelbeu)
-- [`@S4IL21`](https://github.com/S4IL21)
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/)
+- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/)
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/)
+- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/)
 
 <hr>
 
-### Follow me on
-
-<p>
-    <a target="_blank" href="https://twitter.com/intent/follow?screen_name=localheinz" title="Follow @localheinz on Twitter"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/twitter.svg" width="24px" height="24px"></a>
-</p>
+[localheinz.com](https://localheinz.com) · [ergebn.is](https://ergebn.is) · [LinkedIn](https://www.linkedin.com/in/localheinz/) · [X](https://x.com/localheinz) · [Stack Overflow](https://stackoverflow.com/users/1172545/localheinz)
