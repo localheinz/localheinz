@@ -10,16 +10,25 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 <hr>
 
+### Recent articles on [localheinz.com](https://localheinz.com/articles/)
+{{range rss "https://localheinz.com//feed.xml" 10}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 ### Recent releases I have contributed to
 {{range recentReleases 10}}
 - [`{{.Name}}:{{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
-### Recent articles on [localheinz.com](https://localheinz.com/articles/)
-{{range rss "https://localheinz.com/feed.xml" 5}}
-- [{{.Title}}]({{.URL}})
+### Recent followers on GitHub
+{{range followers 10}}
+- [`@{{.Login}}`]({{.URL}})
 {{- end}}
 
 <hr>
 
-[localheinz.com](https://localheinz.com) · [ergebn.is](https://ergebn.is) · [LinkedIn](https://www.linkedin.com/in/localheinz/) · [X](https://x.com/localheinz) · [Stack Overflow](https://stackoverflow.com/users/1172545/localheinz)
+### Follow me on
+
+<p>
+    <a target="_blank" href="https://x.com/intent/follow?screen_name=localheinz" title="Follow @localheinz on X"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.34.0/icons/x.svg" width="24px" height="24px"></a>
+</p>
