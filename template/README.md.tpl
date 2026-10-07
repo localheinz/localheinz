@@ -1,12 +1,12 @@
 ## :wave: Hello!
 
-My name is Andreas Möller, and I am a self-employed Software Engineer and Consultant from Berlin, Germany.
+I am Andreas Möller, a Software Engineer, Consultant, and the founder of [ergebnis analog + digital GmbH](https://ergebn.is), from Berlin, Germany.
 
-For more than 25 years, I have been developing software. In a professional capacity, I have [more than 15 years of work experience](https://localheinz.com/work-experience/) building and maintaining web applications for organizations and businesses in various industries, in teams small and large, on location, and remotely.
+Since 1999 I have been building websites, and since 2001 I have been working with PHP. I maintain and contribute to [open-source](https://localheinz.com/open-source/) projects, publish [articles](https://localheinz.com/articles/), and give [talks](https://localheinz.com/talks/).
 
-I maintain and contribute to [open-source](https://localheinz.com/open-source/) projects, publish [articles](https://localheinz.com/articles/), and give [talks](https://localheinz.com/talks).
+In a professional capacity, I have [more than 16 years of work experience](https://localheinz.com/about/) building, modernizing, and maintaining web applications in PHP for organizations and businesses - in various industries, in teams small and large, on location, and remotely.
 
-With a focus on modernizing legacy applications and teams, I can help your business become more profitable: by shipping software earlier, with fewer defects, and with a lower total cost of ownership.
+With my [services](https://localheinz.com/services/), I can help your business become more profitable: by shipping PHP applications and packages earlier, with fewer defects, and with a lower total cost of ownership.
 
 <hr>
 
