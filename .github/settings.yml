@@ -1,5 +1,19 @@
 # https://github.com/probot/settings
 
+branches:
+  - name: "main"
+
+    # https://docs.github.com/en/rest/reference/repos#delete-branch-protection
+    # https://docs.github.com/en/rest/reference/repos#update-branch-protection
+
+    protection:
+      allow_deletions: false
+      allow_force_pushes: false
+      enforce_admins: true
+      required_pull_request_reviews: null
+      required_status_checks: null
+      restrictions: null
+
 # https://docs.github.com/en/rest/reference/issues#create-a-label
 # https://docs.github.com/en/rest/reference/issues#update-a-label
 
