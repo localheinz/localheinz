@@ -30,5 +30,5 @@ With my [services](https://localheinz.com/services/), I can help your business b
 ### Follow me on
 
 <p>
-    <a target="_blank" href="https://twitter.com/intent/follow?screen_name=localheinz" title="Follow @localheinz on Twitter"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/twitter.svg" width="24px" height="24px"></a>
+    <a target="_blank" href="https://x.com/intent/follow?screen_name=localheinz" title="Follow @localheinz on X"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.34.0/icons/x.svg" width="24px" height="24px"></a>
 </p>
