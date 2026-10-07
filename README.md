@@ -10,6 +10,19 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 <hr>
 
+### Recent articles on [localheinz.com](https://localheinz.com/articles/)
+
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (3 years ago)
+- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (3 years ago)
+- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (3 years ago)
+- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (3 years ago)
+- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (3 years ago)
+- [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (3 years ago)
+- [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (3 years ago)
+- [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (3 years ago)
+- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (3 years ago)
+- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (3 years ago)
+
 ### Recent releases I have contributed to
 
 - [`sebastianbergmann/phpunit:13.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (2 days ago)
@@ -23,14 +36,23 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`ergebnis/phpstan-rules:2.14.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.0) (1 week ago)
 - [`ergebnis/license:2.8.0`](https://github.com/ergebnis/license/releases/tag/2.8.0) (1 week ago)
 
-### Recent articles on [localheinz.com](https://localheinz.com/articles/)
+### Recent followers on GitHub
 
-- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/)
-- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/)
-- [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/)
-- [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/)
-- [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/)
+- [`@BEPb`](https://github.com/BEPb)
+- [`@wielorzeczownik`](https://github.com/wielorzeczownik)
+- [`@marwahossein61-ops`](https://github.com/marwahossein61-ops)
+- [`@Dvurechensky`](https://github.com/Dvurechensky)
+- [`@rexblade58`](https://github.com/rexblade58)
+- [`@narupoomc`](https://github.com/narupoomc)
+- [`@seckinyasar`](https://github.com/seckinyasar)
+- [`@infinityabundance`](https://github.com/infinityabundance)
+- [`@nelbeu`](https://github.com/nelbeu)
+- [`@S4IL21`](https://github.com/S4IL21)
 
 <hr>
 
-[localheinz.com](https://localheinz.com) · [ergebn.is](https://ergebn.is) · [LinkedIn](https://www.linkedin.com/in/localheinz/) · [X](https://x.com/localheinz) · [Stack Overflow](https://stackoverflow.com/users/1172545/localheinz)
+### Follow me on
+
+<p>
+    <a target="_blank" href="https://x.com/intent/follow?screen_name=localheinz" title="Follow @localheinz on X"><img src="https://cdn.jsdelivr.net/npm/simple-icons@16.34.0/icons/x.svg" width="24px" height="24px"></a>
+</p>
