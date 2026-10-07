@@ -38,6 +38,7 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 
 ### Recent followers on GitHub
 
+- [`@BEPb`](https://github.com/BEPb)
 - [`@wielorzeczownik`](https://github.com/wielorzeczownik)
 - [`@marwahossein61-ops`](https://github.com/marwahossein61-ops)
 - [`@Dvurechensky`](https://github.com/Dvurechensky)
@@ -47,7 +48,6 @@ With a focus on modernizing legacy applications and teams, I can help your busin
 - [`@infinityabundance`](https://github.com/infinityabundance)
 - [`@nelbeu`](https://github.com/nelbeu)
 - [`@S4IL21`](https://github.com/S4IL21)
-- [`@Meacue`](https://github.com/Meacue)
 
 <hr>
 
