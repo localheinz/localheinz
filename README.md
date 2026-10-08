@@ -25,16 +25,16 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:13.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (2 days ago)
-- [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (3 days ago)
-- [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (3 days ago)
-- [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (4 days ago)
-- [`ergebnis/.github:1.14.0`](https://github.com/ergebnis/.github/releases/tag/1.14.0) (5 days ago)
-- [`ergebnis/phpunit-slow-test-detector:2.26.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.26.0) (1 week ago)
-- [`ergebnis/version:1.4.0`](https://github.com/ergebnis/version/releases/tag/1.4.0) (1 week ago)
-- [`ergebnis/twig-front-matter:1.5.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.5.0) (1 week ago)
-- [`ergebnis/phpstan-rules:2.14.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.0) (1 week ago)
-- [`ergebnis/license:2.8.0`](https://github.com/ergebnis/license/releases/tag/2.8.0) (1 week ago)
+- [`sebastianbergmann/phpunit:13.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (3 days ago)
+- [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (4 days ago)
+- [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (4 days ago)
+- [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (5 days ago)
+- [`ergebnis/.github:1.14.0`](https://github.com/ergebnis/.github/releases/tag/1.14.0) (6 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.26.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.26.0) (2 weeks ago)
+- [`ergebnis/version:1.4.0`](https://github.com/ergebnis/version/releases/tag/1.4.0) (2 weeks ago)
+- [`ergebnis/twig-front-matter:1.5.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.5.0) (2 weeks ago)
+- [`ergebnis/phpstan-rules:2.14.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.0) (2 weeks ago)
+- [`ergebnis/license:2.8.0`](https://github.com/ergebnis/license/releases/tag/2.8.0) (2 weeks ago)
 
 ### Recent followers on GitHub
 
