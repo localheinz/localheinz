@@ -25,7 +25,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:13.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (1 week ago)
+- [`sebastianbergmann/phpunit:13.4.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.2) (today)
 - [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (1 week ago)
 - [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (1 week ago)
@@ -38,7 +38,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent followers on GitHub
 
-- [`@BEPb`](https://github.com/BEPb)
 - [`@wielorzeczownik`](https://github.com/wielorzeczownik)
 - [`@marwahossein61-ops`](https://github.com/marwahossein61-ops)
 - [`@Dvurechensky`](https://github.com/Dvurechensky)
@@ -48,6 +47,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`@infinityabundance`](https://github.com/infinityabundance)
 - [`@nelbeu`](https://github.com/nelbeu)
 - [`@S4IL21`](https://github.com/S4IL21)
+- [`@Meacue`](https://github.com/Meacue)
 
 <hr>
 
