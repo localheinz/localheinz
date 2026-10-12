@@ -25,7 +25,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`sebastianbergmann/phpunit:13.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (6 days ago)
+- [`sebastianbergmann/phpunit:13.4.1`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.1) (1 week ago)
 - [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (1 week ago)
 - [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (1 week ago)
