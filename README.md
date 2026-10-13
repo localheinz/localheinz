@@ -38,6 +38,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent followers on GitHub
 
+- [`@a4hmad1`](https://github.com/a4hmad1)
 - [`@wielorzeczownik`](https://github.com/wielorzeczownik)
 - [`@marwahossein61-ops`](https://github.com/marwahossein61-ops)
 - [`@Dvurechensky`](https://github.com/Dvurechensky)
@@ -47,7 +48,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`@infinityabundance`](https://github.com/infinityabundance)
 - [`@nelbeu`](https://github.com/nelbeu)
 - [`@S4IL21`](https://github.com/S4IL21)
-- [`@Meacue`](https://github.com/Meacue)
 
 <hr>
 
