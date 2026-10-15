@@ -25,6 +25,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/agent-detector:1.3.0`](https://github.com/ergebnis/agent-detector/releases/tag/1.3.0) (today)
 - [`sebastianbergmann/phpunit:13.4.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.2) (3 days ago)
 - [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (1 week ago)
 - [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (1 week ago)
@@ -34,7 +35,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`ergebnis/version:1.4.0`](https://github.com/ergebnis/version/releases/tag/1.4.0) (3 weeks ago)
 - [`ergebnis/twig-front-matter:1.5.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.5.0) (3 weeks ago)
 - [`ergebnis/phpstan-rules:2.14.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.0) (3 weeks ago)
-- [`ergebnis/license:2.8.0`](https://github.com/ergebnis/license/releases/tag/2.8.0) (3 weeks ago)
 
 ### Recent followers on GitHub
 
