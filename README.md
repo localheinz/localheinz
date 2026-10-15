@@ -44,10 +44,10 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`@Dvurechensky`](https://github.com/Dvurechensky)
 - [`@rexblade58`](https://github.com/rexblade58)
 - [`@narupoomc`](https://github.com/narupoomc)
-- [`@seckinyasar`](https://github.com/seckinyasar)
 - [`@infinityabundance`](https://github.com/infinityabundance)
 - [`@nelbeu`](https://github.com/nelbeu)
 - [`@S4IL21`](https://github.com/S4IL21)
+- [`@Meacue`](https://github.com/Meacue)
 
 <hr>
 
