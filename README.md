@@ -25,7 +25,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpstan-rules:2.14.1`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.1) (today)
+- [`ergebnis/phpstan-rules:2.14.2`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.2) (today)
 - [`sebastianbergmann/phpunit:13.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (today)
 - [`ergebnis/agent-detector:1.3.0`](https://github.com/ergebnis/agent-detector/releases/tag/1.3.0) (1 day ago)
 - [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (1 week ago)
