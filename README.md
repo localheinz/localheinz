@@ -25,8 +25,9 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpstan-rules:2.14.1`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.1) (today)
+- [`sebastianbergmann/phpunit:13.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (today)
 - [`ergebnis/agent-detector:1.3.0`](https://github.com/ergebnis/agent-detector/releases/tag/1.3.0) (1 day ago)
-- [`sebastianbergmann/phpunit:13.4.2`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.2) (4 days ago)
 - [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (1 week ago)
 - [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (1 week ago)
 - [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (1 week ago)
@@ -34,7 +35,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`ergebnis/phpunit-slow-test-detector:2.26.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.26.0) (3 weeks ago)
 - [`ergebnis/version:1.4.0`](https://github.com/ergebnis/version/releases/tag/1.4.0) (3 weeks ago)
 - [`ergebnis/twig-front-matter:1.5.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.5.0) (3 weeks ago)
-- [`ergebnis/phpstan-rules:2.14.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.0) (3 weeks ago)
 
 ### Recent followers on GitHub
 
