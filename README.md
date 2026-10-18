@@ -25,6 +25,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/phpunit-slow-test-detector:2.27.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.27.0) (today)
 - [`ergebnis/phpstan-rules:2.14.2`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.2) (2 days ago)
 - [`sebastianbergmann/phpunit:13.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (2 days ago)
 - [`ergebnis/agent-detector:1.3.0`](https://github.com/ergebnis/agent-detector/releases/tag/1.3.0) (3 days ago)
@@ -32,7 +33,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (2 weeks ago)
 - [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (2 weeks ago)
 - [`ergebnis/.github:1.14.0`](https://github.com/ergebnis/.github/releases/tag/1.14.0) (2 weeks ago)
-- [`ergebnis/phpunit-slow-test-detector:2.26.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.26.0) (3 weeks ago)
 - [`ergebnis/version:1.4.0`](https://github.com/ergebnis/version/releases/tag/1.4.0) (3 weeks ago)
 - [`ergebnis/twig-front-matter:1.5.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.5.0) (3 weeks ago)
 
