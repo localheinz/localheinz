@@ -25,11 +25,11 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpstan-rules:2.14.2`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.2) (1 day ago)
-- [`sebastianbergmann/phpunit:13.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (1 day ago)
-- [`ergebnis/agent-detector:1.3.0`](https://github.com/ergebnis/agent-detector/releases/tag/1.3.0) (2 days ago)
-- [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (1 week ago)
-- [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (1 week ago)
+- [`ergebnis/phpstan-rules:2.14.2`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.2) (2 days ago)
+- [`sebastianbergmann/phpunit:13.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (2 days ago)
+- [`ergebnis/agent-detector:1.3.0`](https://github.com/ergebnis/agent-detector/releases/tag/1.3.0) (3 days ago)
+- [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (2 weeks ago)
+- [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (2 weeks ago)
 - [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (2 weeks ago)
 - [`ergebnis/.github:1.14.0`](https://github.com/ergebnis/.github/releases/tag/1.14.0) (2 weeks ago)
 - [`ergebnis/phpunit-slow-test-detector:2.26.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.26.0) (3 weeks ago)
