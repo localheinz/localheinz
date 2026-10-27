@@ -25,8 +25,8 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/data-provider:3.7.1`](https://github.com/ergebnis/data-provider/releases/tag/3.7.1) (4 days ago)
-- [`ergebnis/json-printer:3.9.1`](https://github.com/ergebnis/json-printer/releases/tag/3.9.1) (5 days ago)
+- [`ergebnis/data-provider:3.7.1`](https://github.com/ergebnis/data-provider/releases/tag/3.7.1) (5 days ago)
+- [`ergebnis/json-printer:3.9.1`](https://github.com/ergebnis/json-printer/releases/tag/3.9.1) (6 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.27.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.27.0) (1 week ago)
 - [`ergebnis/phpstan-rules:2.14.2`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.14.2) (1 week ago)
 - [`sebastianbergmann/phpunit:13.4.3`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.3) (1 week ago)
