@@ -25,6 +25,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/agent-detector:2.0.0`](https://github.com/ergebnis/agent-detector/releases/tag/2.0.0) (today)
 - [`ergebnis/composer-normalize:2.56.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.56.0) (today)
 - [`ergebnis/json-normalizer:4.12.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.12.0) (today)
 - [`ergebnis/phpstan-rules:2.17.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.17.0) (today)
@@ -33,7 +34,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`ergebnis/data-provider:3.7.1`](https://github.com/ergebnis/data-provider/releases/tag/3.7.1) (1 week ago)
 - [`ergebnis/json-printer:3.9.1`](https://github.com/ergebnis/json-printer/releases/tag/3.9.1) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.27.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.27.0) (1 week ago)
-- [`ergebnis/agent-detector:1.3.0`](https://github.com/ergebnis/agent-detector/releases/tag/1.3.0) (2 weeks ago)
 - [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (3 weeks ago)
 
 ### Recent followers on GitHub
