@@ -25,13 +25,13 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/rector-rules:1.19.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.19.0) (today)
-- [`ergebnis/phpstan-rules:2.15.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.15.0) (today)
-- [`sebastianbergmann/phpunit:13.4.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (1 day ago)
-- [`ergebnis/data-provider:3.7.1`](https://github.com/ergebnis/data-provider/releases/tag/3.7.1) (6 days ago)
+- [`ergebnis/phpstan-rules:2.16.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.16.0) (1 day ago)
+- [`ergebnis/rector-rules:1.19.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.19.0) (1 day ago)
+- [`sebastianbergmann/phpunit:13.4.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (2 days ago)
+- [`ergebnis/data-provider:3.7.1`](https://github.com/ergebnis/data-provider/releases/tag/3.7.1) (1 week ago)
 - [`ergebnis/json-printer:3.9.1`](https://github.com/ergebnis/json-printer/releases/tag/3.9.1) (1 week ago)
 - [`ergebnis/phpunit-slow-test-detector:2.27.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.27.0) (1 week ago)
-- [`ergebnis/agent-detector:1.3.0`](https://github.com/ergebnis/agent-detector/releases/tag/1.3.0) (1 week ago)
+- [`ergebnis/agent-detector:1.3.0`](https://github.com/ergebnis/agent-detector/releases/tag/1.3.0) (2 weeks ago)
 - [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (3 weeks ago)
 - [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (3 weeks ago)
 - [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (3 weeks ago)
