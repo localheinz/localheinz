@@ -25,7 +25,9 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/phpstan-rules:2.16.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.16.0) (1 day ago)
+- [`ergebnis/composer-normalize:2.56.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.56.0) (today)
+- [`ergebnis/json-normalizer:4.12.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.12.0) (today)
+- [`ergebnis/phpstan-rules:2.17.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.17.0) (today)
 - [`ergebnis/rector-rules:1.19.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.19.0) (1 day ago)
 - [`sebastianbergmann/phpunit:13.4.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (2 days ago)
 - [`ergebnis/data-provider:3.7.1`](https://github.com/ergebnis/data-provider/releases/tag/3.7.1) (1 week ago)
@@ -33,8 +35,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`ergebnis/phpunit-slow-test-detector:2.27.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.27.0) (1 week ago)
 - [`ergebnis/agent-detector:1.3.0`](https://github.com/ergebnis/agent-detector/releases/tag/1.3.0) (2 weeks ago)
 - [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (3 weeks ago)
-- [`ergebnis/phpunit-agent-reporter:1.3.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.3.0) (3 weeks ago)
-- [`ergebnis/php-cs-fixer-config:6.64.1`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.1) (3 weeks ago)
 
 ### Recent followers on GitHub
 
