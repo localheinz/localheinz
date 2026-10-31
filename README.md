@@ -12,6 +12,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
+- [Installing PHP with Homebrew](https://localheinz.com/articles/2026/10/31/installing-php-with-homebrew/) (today)
 - [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (3 years ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (3 years ago)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (3 years ago)
@@ -21,7 +22,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (3 years ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (3 years ago)
 - [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (3 years ago)
-- [Extending PHPUnit with its new event system](https://localheinz.com/articles/2023/02/14/extending-phpunit-with-its-new-event-system/) (3 years ago)
 
 ### Recent releases I have contributed to
 
