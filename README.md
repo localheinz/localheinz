@@ -13,8 +13,8 @@ With my [services](https://localheinz.com/services/), I can help your business b
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
 - [Installing PHP with Homebrew](https://localheinz.com/articles/2026/10/31/installing-php-with-homebrew/) (today)
-- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (3 years ago)
-- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (3 years ago)
+- [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (today)
+- [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (today)
 - [Avoiding empty() in PHP](https://localheinz.com/articles/2023/05/10/avoiding-empty-in-php/) (3 years ago)
 - [Introducing PHP-CS-Fixer into legacy projects](https://localheinz.com/articles/2023/04/10/introducing-php-cs-fixer-into-legacy-projects/) (3 years ago)
 - [Collecting line, branch, and path coverage with PHPUnit](https://localheinz.com/articles/2023/03/22/collecting-line-branch-and-path-coverage-with-phpunit/) (3 years ago)
@@ -25,6 +25,8 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/version:1.5.0`](https://github.com/ergebnis/version/releases/tag/1.5.0) (today)
+- [`ergebnis/license:2.9.0`](https://github.com/ergebnis/license/releases/tag/2.9.0) (today)
 - [`ergebnis/agent-detector:2.0.0`](https://github.com/ergebnis/agent-detector/releases/tag/2.0.0) (2 days ago)
 - [`ergebnis/composer-normalize:2.56.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.56.0) (2 days ago)
 - [`ergebnis/json-normalizer:4.12.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.12.0) (2 days ago)
@@ -33,8 +35,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`sebastianbergmann/phpunit:13.4.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (4 days ago)
 - [`ergebnis/data-provider:3.7.1`](https://github.com/ergebnis/data-provider/releases/tag/3.7.1) (1 week ago)
 - [`ergebnis/json-printer:3.9.1`](https://github.com/ergebnis/json-printer/releases/tag/3.9.1) (1 week ago)
-- [`ergebnis/phpunit-slow-test-detector:2.27.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.27.0) (1 week ago)
-- [`ergebnis/factory-bot:1.12.0`](https://github.com/ergebnis/factory-bot/releases/tag/1.12.0) (3 weeks ago)
 
 ### Recent followers on GitHub
 
