@@ -1,6 +1,6 @@
 ## :wave: Hello!
 
-I am Andreas Möller, a Software Engineer, Consultant, and the founder of [ergebnis analog + digital GmbH](https://ergebn.is), from Berlin, Germany.
+I am Andreas Möller, a software engineer, consultant, and the founder of [ergebnis analog + digital GmbH](https://ergebn.is), from Berlin, Germany.
 
 Since 1999 I have been building websites, and since 2001 I have been working with PHP. I maintain and contribute to [open-source](https://localheinz.com/open-source/) projects, publish [articles](https://localheinz.com/articles/), and give [talks](https://localheinz.com/talks/).
 
