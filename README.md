@@ -25,6 +25,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`backslashphp/backslash:4.0.1`](https://github.com/backslashphp/backslash/releases/tag/4.0.1) (today)
 - [`ergebnis/version:1.5.0`](https://github.com/ergebnis/version/releases/tag/1.5.0) (2 days ago)
 - [`ergebnis/license:2.9.0`](https://github.com/ergebnis/license/releases/tag/2.9.0) (2 days ago)
 - [`ergebnis/agent-detector:2.0.0`](https://github.com/ergebnis/agent-detector/releases/tag/2.0.0) (4 days ago)
@@ -34,7 +35,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`ergebnis/rector-rules:1.19.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.19.0) (5 days ago)
 - [`sebastianbergmann/phpunit:13.4.5`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.5) (6 days ago)
 - [`ergebnis/data-provider:3.7.1`](https://github.com/ergebnis/data-provider/releases/tag/3.7.1) (1 week ago)
-- [`ergebnis/json-printer:3.9.1`](https://github.com/ergebnis/json-printer/releases/tag/3.9.1) (1 week ago)
 
 ### Recent followers on GitHub
 
