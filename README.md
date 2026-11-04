@@ -25,6 +25,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.95.28`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.28) (today)
 - [`bwaidelich/subscription-engine:1.4.0`](https://github.com/bwaidelich/subscription-engine/releases/tag/1.4.0) (2 days ago)
 - [`sebastianbergmann/phpunit:13.4.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (2 days ago)
 - [`backslashphp/backslash:4.0.1`](https://github.com/backslashphp/backslash/releases/tag/4.0.1) (2 days ago)
@@ -34,10 +35,10 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`ergebnis/composer-normalize:2.56.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.56.0) (6 days ago)
 - [`ergebnis/json-normalizer:4.12.0`](https://github.com/ergebnis/json-normalizer/releases/tag/4.12.0) (6 days ago)
 - [`ergebnis/phpstan-rules:2.17.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.17.0) (6 days ago)
-- [`ergebnis/rector-rules:1.19.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.19.0) (1 week ago)
 
 ### Recent followers on GitHub
 
+- [`@BEPb`](https://github.com/BEPb)
 - [`@a4hmad1`](https://github.com/a4hmad1)
 - [`@wielorzeczownik`](https://github.com/wielorzeczownik)
 - [`@marwahossein61-ops`](https://github.com/marwahossein61-ops)
@@ -47,7 +48,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`@infinityabundance`](https://github.com/infinityabundance)
 - [`@nelbeu`](https://github.com/nelbeu)
 - [`@S4IL21`](https://github.com/S4IL21)
-- [`@Meacue`](https://github.com/Meacue)
 
 <hr>
 
