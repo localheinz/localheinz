@@ -12,6 +12,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
+- [Using Taskfiles instead of Makefiles](https://localheinz.com/articles/2026/11/07/using-taskfiles-instead-of-makefiles/) (today)
 - [Installing PHP with Homebrew](https://localheinz.com/articles/2026/10/31/installing-php-with-homebrew/) (1 week ago)
 - [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (3 years ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (3 years ago)
@@ -21,7 +22,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [Avoiding one-liners in PHP](https://localheinz.com/articles/2023/03/18/avoiding-one-liners-in-php/) (3 years ago)
 - [Sharing configurations for PHP-CS-Fixer across projects](https://localheinz.com/articles/2023/03/10/sharing-configurations-for-php-cs-fixer-across-projects/) (3 years ago)
 - [Organizing test code in PHP](https://localheinz.com/articles/2023/03/03/organizing-test-code-in-php/) (3 years ago)
-- [Documenting the system under test in PHPUnit](https://localheinz.com/articles/2023/02/22/documenting-the-system-under-test-in-phpunit/) (3 years ago)
 
 ### Recent releases I have contributed to
 
