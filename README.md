@@ -25,10 +25,10 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.95.30`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30) (today)
 - [`ergebnis/.github:1.17.0`](https://github.com/ergebnis/.github/releases/tag/1.17.0) (1 day ago)
 - [`ergebnis/front-matter:3.7.1`](https://github.com/ergebnis/front-matter/releases/tag/3.7.1) (1 day ago)
 - [`bwaidelich/dcb-eventstore-doctrine:7.0.0`](https://github.com/bwaidelich/dcb-eventstore-doctrine/releases/tag/7.0.0) (3 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.95.29`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.29) (3 days ago)
 - [`bwaidelich/subscription-engine:1.4.0`](https://github.com/bwaidelich/subscription-engine/releases/tag/1.4.0) (1 week ago)
 - [`sebastianbergmann/phpunit:13.4.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (1 week ago)
 - [`backslashphp/backslash:4.0.1`](https://github.com/backslashphp/backslash/releases/tag/4.0.1) (1 week ago)
@@ -38,6 +38,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent followers on GitHub
 
+- [`@Git-FED`](https://github.com/Git-FED)
 - [`@BEPb`](https://github.com/BEPb)
 - [`@a4hmad1`](https://github.com/a4hmad1)
 - [`@wielorzeczownik`](https://github.com/wielorzeczownik)
@@ -47,7 +48,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`@narupoomc`](https://github.com/narupoomc)
 - [`@infinityabundance`](https://github.com/infinityabundance)
 - [`@nelbeu`](https://github.com/nelbeu)
-- [`@S4IL21`](https://github.com/S4IL21)
 
 <hr>
 
