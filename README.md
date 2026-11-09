@@ -12,7 +12,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Using Taskfiles instead of Makefiles](https://localheinz.com/articles/2026/11/07/using-taskfiles-instead-of-makefiles/) (1 day ago)
+- [Using Taskfiles instead of Makefiles](https://localheinz.com/articles/2026/11/07/using-taskfiles-instead-of-makefiles/) (2 days ago)
 - [Installing PHP with Homebrew](https://localheinz.com/articles/2026/10/31/installing-php-with-homebrew/) (1 week ago)
 - [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (3 years ago)
 - [Understanding the lifecycle of a PHP version](https://localheinz.com/articles/2023/07/16/understanding-the-lifecycle-of-a-php-version/) (3 years ago)
@@ -25,13 +25,13 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/.github:1.16.0`](https://github.com/ergebnis/.github/releases/tag/1.16.0) (today)
-- [`ergebnis/front-matter:3.7.1`](https://github.com/ergebnis/front-matter/releases/tag/3.7.1) (today)
-- [`bwaidelich/dcb-eventstore-doctrine:7.0.0`](https://github.com/bwaidelich/dcb-eventstore-doctrine/releases/tag/7.0.0) (2 days ago)
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.95.29`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.29) (2 days ago)
-- [`bwaidelich/subscription-engine:1.4.0`](https://github.com/bwaidelich/subscription-engine/releases/tag/1.4.0) (6 days ago)
-- [`sebastianbergmann/phpunit:13.4.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (6 days ago)
-- [`backslashphp/backslash:4.0.1`](https://github.com/backslashphp/backslash/releases/tag/4.0.1) (6 days ago)
+- [`ergebnis/.github:1.17.0`](https://github.com/ergebnis/.github/releases/tag/1.17.0) (1 day ago)
+- [`ergebnis/front-matter:3.7.1`](https://github.com/ergebnis/front-matter/releases/tag/3.7.1) (1 day ago)
+- [`bwaidelich/dcb-eventstore-doctrine:7.0.0`](https://github.com/bwaidelich/dcb-eventstore-doctrine/releases/tag/7.0.0) (3 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.95.29`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.29) (3 days ago)
+- [`bwaidelich/subscription-engine:1.4.0`](https://github.com/bwaidelich/subscription-engine/releases/tag/1.4.0) (1 week ago)
+- [`sebastianbergmann/phpunit:13.4.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (1 week ago)
+- [`backslashphp/backslash:4.0.1`](https://github.com/backslashphp/backslash/releases/tag/4.0.1) (1 week ago)
 - [`ergebnis/version:1.5.0`](https://github.com/ergebnis/version/releases/tag/1.5.0) (1 week ago)
 - [`ergebnis/license:2.9.0`](https://github.com/ergebnis/license/releases/tag/2.9.0) (1 week ago)
 - [`ergebnis/agent-detector:2.0.0`](https://github.com/ergebnis/agent-detector/releases/tag/2.0.0) (1 week ago)
