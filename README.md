@@ -39,7 +39,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 ### Recent followers on GitHub
 
 - [`@Git-FED`](https://github.com/Git-FED)
-- [`@BEPb`](https://github.com/BEPb)
 - [`@a4hmad1`](https://github.com/a4hmad1)
 - [`@wielorzeczownik`](https://github.com/wielorzeczownik)
 - [`@marwahossein61-ops`](https://github.com/marwahossein61-ops)
@@ -48,6 +47,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`@narupoomc`](https://github.com/narupoomc)
 - [`@infinityabundance`](https://github.com/infinityabundance)
 - [`@nelbeu`](https://github.com/nelbeu)
+- [`@S4IL21`](https://github.com/S4IL21)
 
 <hr>
 
