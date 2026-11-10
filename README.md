@@ -25,6 +25,8 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/php-cs-fixer-config:6.64.2`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.64.2) (today)
+- [`ergebnis/phpstan-rules:2.17.1`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.17.1) (today)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.95.30`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30) (1 day ago)
 - [`ergebnis/.github:1.17.0`](https://github.com/ergebnis/.github/releases/tag/1.17.0) (2 days ago)
 - [`ergebnis/front-matter:3.7.1`](https://github.com/ergebnis/front-matter/releases/tag/3.7.1) (2 days ago)
@@ -33,8 +35,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`sebastianbergmann/phpunit:13.4.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (1 week ago)
 - [`backslashphp/backslash:4.0.1`](https://github.com/backslashphp/backslash/releases/tag/4.0.1) (1 week ago)
 - [`ergebnis/version:1.5.0`](https://github.com/ergebnis/version/releases/tag/1.5.0) (1 week ago)
-- [`ergebnis/license:2.9.0`](https://github.com/ergebnis/license/releases/tag/2.9.0) (1 week ago)
-- [`ergebnis/agent-detector:2.0.0`](https://github.com/ergebnis/agent-detector/releases/tag/2.0.0) (1 week ago)
 
 ### Recent followers on GitHub
 
