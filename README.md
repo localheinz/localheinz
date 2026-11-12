@@ -25,16 +25,16 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/composer-normalize:2.57.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.57.0) (today)
+- [`ergebnis/differ:1.0.0`](https://github.com/ergebnis/differ/releases/tag/1.0.0) (today)
 - [`sebastianbergmann/phpunit:8.5.57`](https://github.com/sebastianbergmann/phpunit/releases/tag/8.5.57) (today)
 - [`ergebnis/json-pointer:3.10.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.10.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.65.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.65.0) (1 day ago)
-- [`ergebnis/composer-normalize:2.56.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.56.1) (1 day ago)
 - [`ergebnis/phpstan-rules:2.17.1`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.17.1) (2 days ago)
 - [`PHP-CS-Fixer/PHP-CS-Fixer:v3.95.30`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.30) (3 days ago)
 - [`ergebnis/.github:1.17.0`](https://github.com/ergebnis/.github/releases/tag/1.17.0) (4 days ago)
 - [`ergebnis/front-matter:3.7.1`](https://github.com/ergebnis/front-matter/releases/tag/3.7.1) (4 days ago)
 - [`bwaidelich/dcb-eventstore-doctrine:7.0.0`](https://github.com/bwaidelich/dcb-eventstore-doctrine/releases/tag/7.0.0) (6 days ago)
-- [`bwaidelich/subscription-engine:1.4.0`](https://github.com/bwaidelich/subscription-engine/releases/tag/1.4.0) (1 week ago)
 
 ### Recent followers on GitHub
 
