@@ -25,6 +25,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`sebastianbergmann/phpunit:8.5.57`](https://github.com/sebastianbergmann/phpunit/releases/tag/8.5.57) (today)
 - [`ergebnis/json-pointer:3.10.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.10.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.65.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.65.0) (1 day ago)
 - [`ergebnis/composer-normalize:2.56.1`](https://github.com/ergebnis/composer-normalize/releases/tag/2.56.1) (1 day ago)
@@ -34,7 +35,6 @@ With my [services](https://localheinz.com/services/), I can help your business b
 - [`ergebnis/front-matter:3.7.1`](https://github.com/ergebnis/front-matter/releases/tag/3.7.1) (4 days ago)
 - [`bwaidelich/dcb-eventstore-doctrine:7.0.0`](https://github.com/bwaidelich/dcb-eventstore-doctrine/releases/tag/7.0.0) (6 days ago)
 - [`bwaidelich/subscription-engine:1.4.0`](https://github.com/bwaidelich/subscription-engine/releases/tag/1.4.0) (1 week ago)
-- [`sebastianbergmann/phpunit:13.4.6`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.6) (1 week ago)
 
 ### Recent followers on GitHub
 
