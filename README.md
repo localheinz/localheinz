@@ -25,15 +25,15 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.95.32`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32) (today)
-- [`ergebnis/phpunit-agent-reporter:1.5.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.5.0) (1 day ago)
-- [`ramsey/uuid:4.10.0`](https://github.com/ramsey/uuid/releases/tag/4.10.0) (3 days ago)
-- [`bwaidelich/subscription-engine:2.0.0`](https://github.com/bwaidelich/subscription-engine/releases/tag/2.0.0) (4 days ago)
-- [`sebastianbergmann/phpunit:13.4.7`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.7) (4 days ago)
-- [`ergebnis/composer-normalize:2.57.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.57.0) (5 days ago)
-- [`ergebnis/differ:1.0.0`](https://github.com/ergebnis/differ/releases/tag/1.0.0) (5 days ago)
-- [`ergebnis/json-pointer:3.10.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.10.0) (6 days ago)
-- [`ergebnis/php-cs-fixer-config:6.65.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.65.0) (6 days ago)
+- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.95.32`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32) (1 day ago)
+- [`ergebnis/phpunit-agent-reporter:1.5.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.5.0) (2 days ago)
+- [`ramsey/uuid:4.10.0`](https://github.com/ramsey/uuid/releases/tag/4.10.0) (4 days ago)
+- [`bwaidelich/subscription-engine:2.0.0`](https://github.com/bwaidelich/subscription-engine/releases/tag/2.0.0) (5 days ago)
+- [`sebastianbergmann/phpunit:13.4.7`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.7) (5 days ago)
+- [`ergebnis/composer-normalize:2.57.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.57.0) (6 days ago)
+- [`ergebnis/differ:1.0.0`](https://github.com/ergebnis/differ/releases/tag/1.0.0) (6 days ago)
+- [`ergebnis/json-pointer:3.10.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.10.0) (1 week ago)
+- [`ergebnis/php-cs-fixer-config:6.65.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.65.0) (1 week ago)
 - [`ergebnis/phpstan-rules:2.17.1`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.17.1) (1 week ago)
 
 ### Recent followers on GitHub
