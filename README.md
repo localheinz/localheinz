@@ -25,16 +25,16 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`PHP-CS-Fixer/PHP-CS-Fixer:v3.95.32`](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/releases/tag/v3.95.32) (2 days ago)
-- [`ergebnis/phpunit-agent-reporter:1.5.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.5.0) (3 days ago)
-- [`ramsey/uuid:4.10.0`](https://github.com/ramsey/uuid/releases/tag/4.10.0) (5 days ago)
-- [`bwaidelich/subscription-engine:2.0.0`](https://github.com/bwaidelich/subscription-engine/releases/tag/2.0.0) (6 days ago)
-- [`sebastianbergmann/phpunit:13.4.7`](https://github.com/sebastianbergmann/phpunit/releases/tag/13.4.7) (6 days ago)
-- [`ergebnis/composer-normalize:2.57.0`](https://github.com/ergebnis/composer-normalize/releases/tag/2.57.0) (1 week ago)
-- [`ergebnis/differ:1.0.0`](https://github.com/ergebnis/differ/releases/tag/1.0.0) (1 week ago)
-- [`ergebnis/json-pointer:3.10.0`](https://github.com/ergebnis/json-pointer/releases/tag/3.10.0) (1 week ago)
-- [`ergebnis/php-cs-fixer-config:6.65.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.65.0) (1 week ago)
-- [`ergebnis/phpstan-rules:2.17.1`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.17.1) (1 week ago)
+- [`ergebnis/version:1.6.0`](https://github.com/ergebnis/version/releases/tag/1.6.0) (today)
+- [`ergebnis/twig-front-matter:1.6.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.6.0) (today)
+- [`ergebnis/rector-rules:1.20.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.20.0) (today)
+- [`ergebnis/phpunit-slow-test-detector:2.28.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.28.0) (today)
+- [`ergebnis/phpunit-agent-reporter:1.6.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.6.0) (today)
+- [`ergebnis/phpstan-rules:2.18.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.18.0) (today)
+- [`ergebnis/php-cs-fixer-config:6.66.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.66.0) (today)
+- [`ergebnis/license:2.10.0`](https://github.com/ergebnis/license/releases/tag/2.10.0) (today)
+- [`ergebnis/json-schema-validator:4.7.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.7.0) (today)
+- [`ergebnis/json-printer:3.10.0`](https://github.com/ergebnis/json-printer/releases/tag/3.10.0) (today)
 
 ### Recent followers on GitHub
 
