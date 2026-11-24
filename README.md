@@ -12,7 +12,7 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent articles on [localheinz.com](https://localheinz.com/articles/)
 
-- [Ignoring errors reported by PHPStan](https://localheinz.com/articles/2026/11/22/ignoring-errors-reported-by-phpstan/) (1 day ago)
+- [Ignoring errors reported by PHPStan](https://localheinz.com/articles/2026/11/22/ignoring-errors-reported-by-phpstan/) (2 days ago)
 - [Using Taskfiles instead of Makefiles](https://localheinz.com/articles/2026/11/07/using-taskfiles-instead-of-makefiles/) (2 weeks ago)
 - [Installing PHP with Homebrew](https://localheinz.com/articles/2026/10/31/installing-php-with-homebrew/) (3 weeks ago)
 - [Adopting a reasonable PHP version support policy](https://localheinz.com/articles/2023/09/12/adopting-a-reasonable-php-version-support-policy/) (3 years ago)
@@ -25,16 +25,16 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/version:1.6.0`](https://github.com/ergebnis/version/releases/tag/1.6.0) (4 days ago)
-- [`ergebnis/twig-front-matter:1.6.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.6.0) (4 days ago)
-- [`ergebnis/rector-rules:1.20.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.20.0) (4 days ago)
-- [`ergebnis/phpunit-slow-test-detector:2.28.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.28.0) (4 days ago)
-- [`ergebnis/phpunit-agent-reporter:1.6.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.6.0) (4 days ago)
-- [`ergebnis/phpstan-rules:2.18.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.18.0) (4 days ago)
-- [`ergebnis/php-cs-fixer-config:6.66.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.66.0) (4 days ago)
-- [`ergebnis/license:2.10.0`](https://github.com/ergebnis/license/releases/tag/2.10.0) (4 days ago)
-- [`ergebnis/json-schema-validator:4.7.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.7.0) (4 days ago)
-- [`ergebnis/json-printer:3.10.0`](https://github.com/ergebnis/json-printer/releases/tag/3.10.0) (4 days ago)
+- [`ergebnis/rector-rules:1.21.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.21.0) (1 day ago)
+- [`ergebnis/version:1.6.0`](https://github.com/ergebnis/version/releases/tag/1.6.0) (5 days ago)
+- [`ergebnis/twig-front-matter:1.6.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.6.0) (5 days ago)
+- [`ergebnis/phpunit-slow-test-detector:2.28.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.28.0) (5 days ago)
+- [`ergebnis/phpunit-agent-reporter:1.6.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.6.0) (5 days ago)
+- [`ergebnis/phpstan-rules:2.18.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.18.0) (5 days ago)
+- [`ergebnis/php-cs-fixer-config:6.66.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.66.0) (5 days ago)
+- [`ergebnis/license:2.10.0`](https://github.com/ergebnis/license/releases/tag/2.10.0) (5 days ago)
+- [`ergebnis/json-schema-validator:4.7.0`](https://github.com/ergebnis/json-schema-validator/releases/tag/4.7.0) (5 days ago)
+- [`ergebnis/json-printer:3.10.0`](https://github.com/ergebnis/json-printer/releases/tag/3.10.0) (5 days ago)
 
 ### Recent followers on GitHub
 
