@@ -25,12 +25,12 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
-- [`ergebnis/rector-config:0.1.0`](https://github.com/ergebnis/rector-config/releases/tag/0.1.0) (1 day ago)
+- [`ergebnis/rector-config:0.2.0`](https://github.com/ergebnis/rector-config/releases/tag/0.2.0) (today)
+- [`ergebnis/rector-rules:1.22.1`](https://github.com/ergebnis/rector-rules/releases/tag/1.22.1) (today)
 - [`ergebnis/version:1.8.0`](https://github.com/ergebnis/version/releases/tag/1.8.0) (1 day ago)
 - [`ergebnis/php-cs-fixer-config:6.68.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.68.0) (1 day ago)
 - [`ergebnis/phpunit-agent-reporter:1.7.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.7.0) (2 days ago)
 - [`ergebnis/twig-front-matter:1.7.0`](https://github.com/ergebnis/twig-front-matter/releases/tag/1.7.0) (2 days ago)
-- [`ergebnis/rector-rules:1.22.0`](https://github.com/ergebnis/rector-rules/releases/tag/1.22.0) (2 days ago)
 - [`ergebnis/phpunit-slow-test-detector:2.29.0`](https://github.com/ergebnis/phpunit-slow-test-detector/releases/tag/2.29.0) (2 days ago)
 - [`ergebnis/phpstan-rules:2.19.0`](https://github.com/ergebnis/phpstan-rules/releases/tag/2.19.0) (2 days ago)
 - [`ergebnis/license:2.11.0`](https://github.com/ergebnis/license/releases/tag/2.11.0) (2 days ago)
