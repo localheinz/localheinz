@@ -25,9 +25,9 @@ With my [services](https://localheinz.com/services/), I can help your business b
 
 ### Recent releases I have contributed to
 
+- [`ergebnis/rector-config:0.3.0`](https://github.com/ergebnis/rector-config/releases/tag/0.3.0) (today)
 - [`ergebnis/phpunit-agent-reporter:1.8.0`](https://github.com/ergebnis/phpunit-agent-reporter/releases/tag/1.8.0) (today)
 - [`ergebnis/agent-detector:3.0.0`](https://github.com/ergebnis/agent-detector/releases/tag/3.0.0) (today)
-- [`ergebnis/rector-config:0.2.0`](https://github.com/ergebnis/rector-config/releases/tag/0.2.0) (1 day ago)
 - [`ergebnis/rector-rules:1.22.1`](https://github.com/ergebnis/rector-rules/releases/tag/1.22.1) (1 day ago)
 - [`ergebnis/version:1.8.0`](https://github.com/ergebnis/version/releases/tag/1.8.0) (2 days ago)
 - [`ergebnis/php-cs-fixer-config:6.68.0`](https://github.com/ergebnis/php-cs-fixer-config/releases/tag/6.68.0) (2 days ago)
